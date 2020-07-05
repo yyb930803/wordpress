@@ -1,0 +1,123 @@
+2.3.1 April 2 2020
+* Fix - per-product line item wrapping not acknowledging overrides of wrap category
+* Fix - enqueue Bootstrap for single product page when modal desired
+* Fix - Required WC version is 3.0 not 5.4
+
+2.3 March 24 2020
+* Release. Please stay healthy and be safe!
+* Feature - Woo admin notices when template files are updated by plugin author
+* Fix - Don't show wrap on individual product pages for excluded categories
+* Fix - Clear removed cart items session before adding line-item or single product page wraps, otherwise old removed items re-appear in cart with wrapped item
+* Tweak - clarify settings pages to help differentiate between per-order and per-product wrapping options
+* Tweak - more checks on wp action hook to make sure wrap functions should execute
+* Tweak - use new template for cart/checkout wrapping which allows more granular control of output: giftwrap-list-cart-checkout.php
+* NOTE: template giftwrap-list-cart.php is DEPRECATED. Please use template giftwrap-list-cart-checkout.php instead.
+
+2.3-beta3 March 3 2020
+* Tweak - 2.3-beta2 feature altered to accept an array of (one or more than one) product IDs
+
+2.3-beta2 March 2 2020
+* Feature - On per-product (product page) wrapping, allow admin to set a specific wrap product, rather than a category.
+
+2.3-beta1 Feb 14 2020
+* Feature - modal on product pages for individual products, complete with template
+* Feature - line item wrap for product page wrapping, to allow separate tax rates, inventory, etc.
+* Feature - more control over how many wraps are allowed for each product
+* Feature - added plugin beta version support, option found at /edit.php?post_type=download&page=edd-tools&tab=betas
+* Feature - Line item style gift wrap from single product pages (as long as redirect-to-cart Woo setting is OFF)
+* Fix - if deleted item with wrap added back to cart, restore its previous quantity
+* Tweak - improvement to wp-admin Per Product settings page for better comprehension
+* Tweak - possibly breaking template change /templates/wcgwp/replace-wrap-js.php
+* Tweak - Improve autoloader
+* Tweak - selective script loading front- and backend to improve performance
+* New templates modal-product.php and modal-product-js.php for Bootstrap modal in product pages
+
+2.2.1 December 5 2019
+
+* Fix - conditional in /classes/class-gift-wrapper-line-item.php interferes with line item slideouts
+* Feature - filter hooks 'wcgwp_add_wrap_prompt', 'wcgwp_add_wrap_message', and 'wcgwp_add_wrap_button_text' added to assist in translations (translation files and templates also available)
+
+2.2.0 - December 3 2019
+
+* Feature - add note for admin to re-affirm which wrap goes with which line item
+* Fix - remove "#" action from line item wrap forms (in templates) to prevent items being added back to cart after removed
+* Fix - add Post/Redirect/Get to peri-cart/peri-checkout wrapping so wrap is not added back to cart after delete + page refresh
+* Fix - styling for simple/single product gift wrapping if modal turned on for per-cart/peri-checkout and line-item wrapping
+* Fix - don't automatically add wrap to cart on product page when only one wrap option available
+* Fix - don't offer to gift wrap gift wrap on its product page
+* Important note: the following templates changed with version 2.2: 
+    giftwrap-list-cart.php, 
+    giftwrap-list-line-item.php, 
+    giftwrap-list-product.php, 
+    modal-coupon.php, 
+    modal-line-item.php, 
+    cart-slideout-js.php,
+    slideout-js.php
+* Tweak - Woocommerce order item meta stored in consistent key values ( wcgwp_selection, wcgwp_note, wcgwp_parent_name, wcgwp_price ) in DB to make per-item queries simpler
+* Tweak - Do not remove customer's tentative pre-submit input when closing cart JS slideouts - could be discouraging
+
+2.1.3 - November 22 2019
+
+* Fix - stripslashes for customer input in cart/checkout
+* Compatibility with WC 3.8
+
+2.1.2 - October 10 2019
+
+* Tweak - install new license API manager (Easy Digital Downloads "Sofware License")
+* Tweak - delete duplicate instance of LNT checkbox (deletes all WCGWP data upon uninstall if checked, now only in one location)
+
+2.1.1 - October 1 2019
+
+* Fix - show slideout JS in all cases where modal not in use
+
+2.1 - October 1 2019
+
+* Feature - add "after checkout" location for gift wrap prompts
+* Tweak - add "none" selection for multiselect on cart/checkout settings page, for if no location desired/selected
+* Tweak - error catching for if admin hasn't set wrap category yet but wants wrap displayed
+
+2.0 - September 19 2019
+
+* Feature - store inline cart gift wrap items as separate products in order to allow for inventory, refunds, etc.
+* Feature - sort and style inline cart wrap products with parent products in cart, mini cart, and order review
+* Feature - (beta) control number of gift wrap added to each product, 1:1 ratio, 1:x ratio, or ad-lib (free quantity ratios)
+* Feature: 'wcgwp_remove_cod_gateway' boolean filter hook in case COD not wanted with wrap in cart/order
+* Feature - Initiate versioning for templates (until notifications set up, keep a close eye on versions!)
+* Feature - CSS class for table row and list line items containing gift wrap, with arrow to show wrap product association
+* Feature - Don't show note meta in cart if no note added (to assists folks using this plugin in other ways)
+* Feature - Further data sanitization for security
+* Fix - don't link thumbnails to gift wrap products in order review if not desired
+* Tweak - don't show Gift Wrapping options on product page representing Gift Wrap 
+* Tweak - expand category exclusion to line items in cart/checkout, not just single product pages
+* Tweak - if per-product override of gift-wrapping exclusion, honor it
+* Tweak - Don't show radio boxes in single product page gift wrap if only one gift wrap selection
+* Tweak - Remove need for use of redundant-seeming templates /templates/wcgwp/modal-coupon.php and /templates/wcgwp/modal-coupon-header.php (these are deprecated, use /templates/wcgwp/modal.php)
+* Tweak - Stop checkout slide-out JS loading on order received page also
+* Tweak - Stop using html form inside html form for line-item (non-modal) cart gift-wrapping
+* Compatibility with WC 3.7
+
+1.1.1 - July 27 2019
+
+* Update API server - no longer www.little-package.com, now web.little-package.com
+
+1.1 - March 29 2019
+
+* Feature - 'wcgwp_modal_size' filter hook for adjusting modal size
+* Feature - handy link to license settings in plugins list
+* Feature - German translation added (thank you Dorothea N)
+* Tweak - Update Bootstrap modal css to version 4.3.1
+* Tweak - unique CSS IDs for line item textareas in cart
+* Tweak - use aria-hidden for JS gift wrap (non-modal) slideouts
+* Fix - also add user note to giftwrap selection in line item slideout
+
+Feb 24 2019 – 1.0.2
+
+Fix – if only one giftwrap product and non-simple (checkbox) option checked, do not add giftwrap to cart unless selected
+
+Feb 22 2019 – 1.0.1
+
+Tweak – how “Giftwrap Details” is managed – for those with difficulty translating it
+
+Jan 2019 – 1.0
+
+Release

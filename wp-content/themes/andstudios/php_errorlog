@@ -1,0 +1,12 @@
+[11-May-2020 14:43:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/theit255/public_html/winefully.com/wp-content/themes/andstudios/index.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/theit255/public_html/winefully.com/wp-content/themes/andstudios/index.php on line 50
+[11-May-2020 20:44:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/theit255/public_html/winefully.com/wp-content/themes/andstudios/index.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/theit255/public_html/winefully.com/wp-content/themes/andstudios/index.php on line 50
+[11-May-2020 20:44:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/theit255/public_html/winefully.com/wp-content/themes/andstudios/index.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/theit255/public_html/winefully.com/wp-content/themes/andstudios/index.php on line 50

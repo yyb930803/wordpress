@@ -1,0 +1,1061 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Gift Wrapper Plus\n"
+"POT-Creation-Date: 2020-03-24 11:40-0700\n"
+"PO-Revision-Date: 2020-03-24 11:41-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-gift-wrapper-plus.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/wc-gift-wrapper-admin-notices.php:75
+#, php-format
+msgid ""
+"<strong>Your theme (%s) contains outdated copies of some WooCommerce Gift "
+"Wrapper template files.</strong>"
+msgstr ""
+
+#: classes/wc-gift-wrapper-admin-notices.php:76
+msgid ""
+"The following files may need updating to ensure they are compatible with the "
+"current version of Gift Wrapper."
+msgstr ""
+
+#: classes/wc-gift-wrapper-admin-notices.php:82
+msgid ""
+"If you copied over a template file to your theme to change something, then "
+"you will need to copy the new version of the template and apply your changes "
+"again."
+msgstr ""
+
+#: classes/wc-gift-wrapper-admin-notices.php:101
+#, php-format
+msgid ""
+"We noticed you have <a href=\"%s\">WooCommerce set to redirect</a> to the "
+"cart when items are added."
+msgstr ""
+
+#: classes/wc-gift-wrapper-admin-notices.php:102
+msgid ""
+"The WooCommerce Gift Wrapper per-product \"line item\" setting is not "
+"compatible with redirect, and no wrapping will occur."
+msgstr ""
+"Die WooCommerce Gift Wrapper pro Produkt \"Linienartikel\" Einstellung ist "
+"nicht kompatibel mit Umleitung, und keine Verpackung wird auftreten."
+
+#: classes/wc-gift-wrapper-admin-notices.php:103
+msgid " Please choose \"attribute\" or do not use the Woo redirect."
+msgstr ""
+"Bitte wählen Sie \"Attribut\" oder verwenden Sie nicht die Woo-Umleitung."
+
+#: classes/wc-gift-wrapper-admin-notices.php:131
+#, php-format
+msgid ""
+"WooCommerce Gift Wrapper is not set up properly. Please choose a category to "
+"represent your gift wrap options <a href=\"%s\">in the settings</a>."
+msgstr ""
+"WooCommerce Gift Wrapper ist nicht richtig eingerichtet. Bitte wählen Sie "
+"eine Kategorie aus, um Ihre Geschenkverpackungsoptionen <a href=\"%s\">in "
+"den Einstellungen</a>darzustellen."
+
+#: classes/wc-gift-wrapper-cart.php:367 classes/wc-gift-wrapper-cart.php:392
+#: classes/wc-gift-wrapper-cart.php:420 classes/wc-gift-wrapper-order.php:49
+#: classes/wc-gift-wrapper-order.php:91
+msgid "Note"
+msgstr "Hinweis"
+
+#: classes/wc-gift-wrapper-cart.php:384 classes/wc-gift-wrapper-cart.php:406
+#: classes/wc-gift-wrapper-order.php:46 classes/wc-gift-wrapper-order.php:88
+msgid "Gift wrap"
+msgstr "Geschenkverpackung"
+
+#: classes/wc-gift-wrapper-cart.php:429 classes/wc-gift-wrapper-order.php:52
+#: classes/wc-gift-wrapper-order.php:94
+msgid "For"
+msgstr "Für"
+
+#: classes/wc-gift-wrapper-line-item.php:104
+#: classes/wc-gift-wrapper-product.php:130
+#: classes/wc-gift-wrapper-wrapping.php:306
+#: templates/wcgwp/giftwrap-list-cart-checkout.php:24
+#: templates/wcgwp/modal-coupon-header.php:20
+#: templates/wcgwp/modal-line-item-header.php:20
+#: templates/wcgwp/modal-product.php:20 templates/wcgwp/modal.php:20
+msgid "Add gift wrap?"
+msgstr "Geschenkverpackung hinzufügen?"
+
+#: classes/wc-gift-wrapper-line-item.php:104
+#: classes/wc-gift-wrapper-product.php:130
+msgid "Cancel gift wrap"
+msgstr "Geschenkverpackung entfernen"
+
+#: classes/wc-gift-wrapper-line-item.php:116
+msgid "Add Gift Wrap"
+msgstr "Geschenkverpackung hinzufügen"
+
+#: classes/wc-gift-wrapper-product-settings.php:35
+msgid "Product Gift Wrapping"
+msgstr "Geschenkverpackungsprodukt"
+
+#: classes/wc-gift-wrapper-product-settings.php:74
+msgid "Product Gift Wrapping Options"
+msgstr "Produktbezogene Geschenkverpackungs-Option"
+
+#: classes/wc-gift-wrapper-product-settings.php:76
+#, php-format
+msgid ""
+"Note: A gift wrap category will need to be set under the \"<a href=\"%s"
+"\">Cart/Checkout Gift Wrapping</a>\" tab."
+msgstr ""
+"Hinweis: Eine Geschenkverpackungskategorie muss innerhalb des \"<a href=\"%s"
+"\">Warenkorb/\"Zur Kasse gehen\" Geschenkverpackung</a>\" tab eingerichtet "
+"werden ."
+
+#: classes/wc-gift-wrapper-product-settings.php:80
+msgid "Gift wrapping"
+msgstr "Geschenkverpackung"
+
+#: classes/wc-gift-wrapper-product-settings.php:81
+msgid "Enable Gift Wrap for All Products"
+msgstr "Ermögliche Geschenkverpackungsoption für alle Produkte"
+
+#: classes/wc-gift-wrapper-product-settings.php:82
+msgid ""
+"If you check this box, gift wrapping will be enabled for your entire "
+"catalog, except for any excluded product categories, or individually "
+"excluded products."
+msgstr ""
+"Wenn Sie das Kästchen markieren, wird die Geschenkverpackungsoption für "
+"Ihren gesamten Produktkatalog aktiviert, mit Ausnahme der exkludierten "
+"Produktkategorien oder der individuell exkludierten Produkte."
+
+#: classes/wc-gift-wrapper-product-settings.php:88
+msgid "Exclude product categories"
+msgstr "Exkludiere Produktkategorien"
+
+#: classes/wc-gift-wrapper-product-settings.php:89
+msgid ""
+"Choose product categories to exclude from gift wrapping. You may choose more "
+"than one."
+msgstr ""
+"Wähle Produktkategorien welche für die Geschenkverpackungsoption "
+"ausgeschlossen werden sollen. Sie können mehr als eine Produktkategorie "
+"wählen."
+
+#: classes/wc-gift-wrapper-product-settings.php:95
+msgid "Exclude these categories (optional)"
+msgstr "Diese Kategorien ausschließen (optional)"
+
+#: classes/wc-gift-wrapper-product-settings.php:103
+msgid "Product page settings"
+msgstr "Produktseiteneinstellungen"
+
+#: classes/wc-gift-wrapper-product-settings.php:108
+msgid "Choose opt-in display type"
+msgstr ""
+
+#: classes/wc-gift-wrapper-product-settings.php:109
+#, fuzzy
+#| msgid ""
+#| "If checked, when gift wrap links are clicked, they will open a window for "
+#| "customers to choose gift wrapping options. It can be styled and might be "
+#| "a nicer option for your site."
+msgid ""
+"A slide-down menu of options appears on the page (almost from out of "
+"nowhere) when a user asks to wrap. If modal, when gift wrap links are "
+"clicked, they will open a window for customers to choose gift wrapping "
+"options. It can be styled and might be a nicer option for your site; however "
+"a simple checkbox can be just as effective."
+msgstr ""
+"Falls markiert wenn Geschenkverpackungslinks angeklickt werden, wird ein Pop-"
+"Up-Fenster geöffnet um die Geschenkverpackungsoptionen anzuzeigen. Es kann "
+"angepasst werden und kann eine bessere Option für Ihre Seite sein."
+
+#: classes/wc-gift-wrapper-product-settings.php:113
+msgid "Checkbox"
+msgstr "Auswahlbox"
+
+#: classes/wc-gift-wrapper-product-settings.php:114
+msgid "Slide-down"
+msgstr "Slide-down"
+
+#: classes/wc-gift-wrapper-product-settings.php:115
+msgid "Modal/Popup"
+msgstr ""
+
+#: classes/wc-gift-wrapper-product-settings.php:120
+msgid "How to add wrap to order?"
+msgstr "Wie füge ich Wrap zur Bestellung hinzu?"
+
+#: classes/wc-gift-wrapper-product-settings.php:121
+msgid ""
+"Should product gift wrap be an attribute of parent product or its own line "
+"item when added to cart? If an attribute, separate tax rates cannot be used "
+"and gift wrap will not be inventoried."
+msgstr ""
+
+#: classes/wc-gift-wrapper-product-settings.php:125
+msgid "Product Attribute"
+msgstr ""
+
+#: classes/wc-gift-wrapper-product-settings.php:126
+msgid "Line Item"
+msgstr ""
+
+#: classes/wc-gift-wrapper-product-settings.php:135
+#, fuzzy
+#| msgid "Cart/Checkout Gift Wrapping"
+msgid "Cart/checkout per-product wrap settings"
+msgstr "Warenkorb/Checkout Geschenkverpackung"
+
+#: classes/wc-gift-wrapper-product-settings.php:140
+msgid "Gift wrapping in cart"
+msgstr "Geschenkverpackungsoption im Warenkorb"
+
+#: classes/wc-gift-wrapper-product-settings.php:141
+msgid "Enable Gift Wrap Per Product Inside Cart"
+msgstr ""
+"Ermögliche die Geschenkverpackungsoption pro Produkt innerhalb des Warenkorbs"
+
+#: classes/wc-gift-wrapper-product-settings.php:142
+msgid ""
+"If you check this box, gift wrapping will be enabled inside the cart, per "
+"product. The customer will be able to add giftwrapping to products during "
+"checkout, except for any excluded product categories, or individually "
+"excluded products."
+msgstr ""
+"Wenn Sie dieses Kästchen markieren, wird die Geschenkverpackungsoption "
+"innerhalb des Warenkorbs pro Produkt aktiviert. Der Kunde kann die "
+"Geschenkverpackungsoption für Produkte während des Check-Outs wählen. "
+"Ausgenommen sind exkludierte Produktkategorien, oder individuell "
+"ausgeschlossene Produkte."
+
+#: classes/wc-gift-wrapper-product-settings.php:148
+msgid "Should cart per product gift options open in pop-up?"
+msgstr ""
+"Soll Geschenkverpackungs-Option pro Produkt in einem Pop-Up-Fenster "
+"angezeigt werden?"
+
+#: classes/wc-gift-wrapper-product-settings.php:149
+msgid ""
+"If checked, when gift wrap links are clicked, they will open a window for "
+"customers to choose gift wrapping options. It can be styled and might be a "
+"nicer option for your site."
+msgstr ""
+"Falls markiert wenn Geschenkverpackungslinks angeklickt werden, wird ein Pop-"
+"Up-Fenster geöffnet um die Geschenkverpackungsoptionen anzuzeigen. Es kann "
+"angepasst werden und kann eine bessere Option für Ihre Seite sein."
+
+#: classes/wc-gift-wrapper-product-settings.php:153
+#: classes/wc-gift-wrapper-product-settings.php:165
+#: classes/wc-gift-wrapper-product-settings.php:185
+#: classes/wc-gift-wrapper-product-settings.php:197
+#: classes/wc-gift-wrapper-product-settings.php:330
+#: classes/wc-gift-wrapper-settings.php:169
+#: classes/wc-gift-wrapper-settings.php:182
+#: classes/wc-gift-wrapper-settings.php:195
+#: classes/wc-gift-wrapper-settings.php:208
+msgid "Yes"
+msgstr "Ja"
+
+#: classes/wc-gift-wrapper-product-settings.php:154
+#: classes/wc-gift-wrapper-product-settings.php:166
+#: classes/wc-gift-wrapper-product-settings.php:186
+#: classes/wc-gift-wrapper-product-settings.php:198
+#: classes/wc-gift-wrapper-product-settings.php:331
+#: classes/wc-gift-wrapper-settings.php:170
+#: classes/wc-gift-wrapper-settings.php:183
+#: classes/wc-gift-wrapper-settings.php:196
+#: classes/wc-gift-wrapper-settings.php:209
+msgid "No"
+msgstr "Nein"
+
+#: classes/wc-gift-wrapper-product-settings.php:160
+#, fuzzy
+#| msgid "Allow more than one gift wrap product in cart?"
+msgid "Allow more than one wrap type per product?"
+msgstr ""
+"Soll mehr als ein Geschenkverpackungsprodukt im Warenkorb erlaubt werden?"
+
+#: classes/wc-gift-wrapper-product-settings.php:161
+msgid ""
+"Allows items in cart to have numerous wraps. Recommend default no setting, "
+"but for custom/unusual plugin uses, this setting could come handy."
+msgstr ""
+
+#: classes/wc-gift-wrapper-product-settings.php:175
+msgid "Beyond the basic settings"
+msgstr "Nach den Grundeinstellungen"
+
+#: classes/wc-gift-wrapper-product-settings.php:180
+#: classes/wc-gift-wrapper-product-settings.php:326
+#: classes/wc-gift-wrapper-settings.php:164
+msgid "Show thumbnails?"
+msgstr "Anzeige der Thumbnail-Bilder?"
+
+#: classes/wc-gift-wrapper-product-settings.php:181
+msgid "Should gift wrap product thumbnail images be visible?"
+msgstr ""
+"Sollen Thumbnail Bilder der Geschenkverpackungsprodukte angezeigt werden?"
+
+#: classes/wc-gift-wrapper-product-settings.php:192
+#: classes/wc-gift-wrapper-settings.php:177
+msgid "Link thumbnails?"
+msgstr "Miniaturbilder (Thumbnails) verknüpfen?"
+
+#: classes/wc-gift-wrapper-product-settings.php:193
+#: classes/wc-gift-wrapper-settings.php:178
+msgid "Should thumbnail images link to gift wrap product details?"
+msgstr ""
+"Sollen Miniaturbilder (Thumbnail-Bilder) mit den Produktdetails der "
+"Geschenkverpackung verknüpft sein?"
+
+#: classes/wc-gift-wrapper-product-settings.php:204
+#: classes/wc-gift-wrapper-product-settings.php:336
+msgid "Wrap Quantities"
+msgstr "Genschenkverpackungsnachricht hinzufügen"
+
+#: classes/wc-gift-wrapper-product-settings.php:205
+#: classes/wc-gift-wrapper-product-settings.php:344
+msgid ""
+"(Beta setting) Dictate how many giftwraps can be in cart for each line item "
+"product. Loose control, in development."
+msgstr ""
+
+#: classes/wc-gift-wrapper-product-settings.php:209
+#: classes/wc-gift-wrapper-product-settings.php:340
+msgid "Any quantity of wrap"
+msgstr ""
+
+#: classes/wc-gift-wrapper-product-settings.php:210
+#: classes/wc-gift-wrapper-product-settings.php:341
+msgid "One-to-one wrap per product"
+msgstr ""
+
+#: classes/wc-gift-wrapper-product-settings.php:211
+#: classes/wc-gift-wrapper-product-settings.php:342
+msgid "One wrap per product"
+msgstr "Eine Packung pro Produkt"
+
+#: classes/wc-gift-wrapper-product-settings.php:220
+#: classes/wc-gift-wrapper-settings.php:250
+msgid "Thank you!"
+msgstr "Vielen Dank!"
+
+#: classes/wc-gift-wrapper-product-settings.php:222
+#: classes/wc-gift-wrapper-settings.php:252
+msgid ""
+"We love helping WooCommerce users get the most out of their online shops<br/>"
+msgstr ""
+"Wir lieben es WooCommerce Nutzern zu helfen um Ihre Online-Shops bestmöglich "
+"zu optimieren<br/>"
+
+#: classes/wc-gift-wrapper-product-settings.php:222
+#: classes/wc-gift-wrapper-settings.php:252
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Documentation is here</a>. Need further "
+"help? <a href=\"%s\" target=\"_blank\">Send an email to web@little-package."
+"com</a>. Please include as many details as possible."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Hier geht's Zur Dokumentation</a>. Weitere "
+"Hilfe notwendig? <a href=\"%s\" target=\"_blank\">Sende eine E-Mail an "
+"web@little-package.com</a>. Bitte stelle möglichst viele Informationen / "
+"Details zur Verfügung."
+
+#: classes/wc-gift-wrapper-product-settings.php:255
+msgid "Gift Wrapper"
+msgstr "Gift Wrapper"
+
+#: classes/wc-gift-wrapper-product-settings.php:277
+#: classes/wc-gift-wrapper-product-settings.php:308
+msgid "Use global settings"
+msgstr "Nutze die globalen Einstellungen"
+
+#: classes/wc-gift-wrapper-product-settings.php:305
+msgid "Override global settings."
+msgstr "Überschreibe die globalen Einstellungen."
+
+#: classes/wc-gift-wrapper-product-settings.php:309
+msgid "Yes, gift wrap this (override)"
+msgstr "Ja, dieses Produkt als Geschenk verpacken (überschreiben)"
+
+#: classes/wc-gift-wrapper-product-settings.php:310
+msgid "No, do not gift wrap (override)"
+msgstr "Nein, dieses Produkt nicht als Geschenk verpacken (überschreiben)"
+
+#: classes/wc-gift-wrapper-product-settings.php:314
+msgid "Gift wrap category to use"
+msgstr "Einzusetzende Geschenkverpackungskategorie"
+
+#: classes/wc-gift-wrapper-product-settings.php:316
+msgid ""
+"Define the category which holds your gift wrap product(s). Default is the "
+"global gift wrap settings category."
+msgstr ""
+"Lege die Kategorie fest, in welcher deine Geschenkverpackungsprodukte "
+"definiert sind."
+
+#: classes/wc-gift-wrapper-product-settings.php:320
+#, fuzzy
+#| msgid "Gift wrap category to use"
+msgid "Gift wrap product to use"
+msgstr "Einzusetzende Geschenkverpackungskategorie"
+
+#: classes/wc-gift-wrapper-product-settings.php:322
+msgid ""
+"Define a specific wrap product for this product, using its product ID. "
+"Overrides the category setting above."
+msgstr ""
+
+#: classes/wc-gift-wrapper-product-settings.php:329
+#: classes/wc-gift-wrapper-product-settings.php:339
+msgid "Not set"
+msgstr "Nicht eingestellt"
+
+#: classes/wc-gift-wrapper-product-settings.php:333
+msgid ""
+"Should gift wrap product thumbnail images be visible to customers on product "
+"pages?"
+msgstr ""
+"Sollen \"Als Geschenk verpacken\" Produktbilder (Thumbnail Images) im "
+"Warenkorb sichtbar sein?"
+
+#: classes/wc-gift-wrapper-product-settings.php:426
+msgid "Gift Wrapping Options"
+msgstr "Geschenkverpackungs-Optionen"
+
+#: classes/wc-gift-wrapper-product-settings.php:427
+msgid ""
+"Tip: Use the \"<strong>Save changes</strong>\" button below to save these "
+"settings."
+msgstr ""
+"Hinweis: Benutzen Sie den \"<strong>Änderungen Speichern</strong>\" Button "
+"unten um die Einstellungen zu sichern."
+
+#: classes/wc-gift-wrapper-product-settings.php:432
+msgid "Override global to set watermark for this specific variable product."
+msgstr ""
+"Globales Überschreiben um Wasserzeichen für dieses spezifische Produkt zu "
+"setzen."
+
+#: classes/wc-gift-wrapper-product-settings.php:432
+msgid "Set different watermark options for this product variation only"
+msgstr ""
+"Setze unterschiedliche Wasserzeichen Optionen nur für diese Produktvariante"
+
+#: classes/wc-gift-wrapper-product-settings.php:439
+msgid "Turn on Gift Wrapping"
+msgstr "Geschenkverpackungsoption einschalten"
+
+#: classes/wc-gift-wrapper-product-settings.php:441
+msgid "Check to gift wrap this product."
+msgstr "Markieren für Geschenkverpackung."
+
+#: classes/wc-gift-wrapper-product-settings.php:444
+msgid "Turn off Gift Wrapping"
+msgstr "Geschenkverpackungsoption ausschalten"
+
+#: classes/wc-gift-wrapper-product-settings.php:446
+msgid "Do NOT gift wrap this product."
+msgstr "Dieses Produkt NICHT als Geschenk verpacken."
+
+#: classes/wc-gift-wrapper-product.php:407
+#: templates/wcgwp/giftwrap-list-cart-checkout.php:74
+#: templates/wcgwp/giftwrap-list-cart.php:62
+#: templates/wcgwp/giftwrap-list-line-item.php:60
+#: templates/wcgwp/giftwrap-list-product.php:59
+#: templates/wcgwp/modal-coupon.php:81 templates/wcgwp/modal-line-item.php:82
+#: templates/wcgwp/modal-product.php:82 templates/wcgwp/modal.php:86
+msgid "Add Gift Wrap Message:"
+msgstr "Füge Nachricht zur Geschenkverpackung hinzu:"
+
+#: classes/wc-gift-wrapper-product.php:410
+msgid "Add Gift Wrap Note to Order"
+msgstr "Füge eine Notiz zur Geschenkverpackung bei"
+
+#: classes/wc-gift-wrapper-settings.php:30
+msgid "License"
+msgstr "Lizenz"
+
+#: classes/wc-gift-wrapper-settings.php:31
+msgid "Per-Product Settings"
+msgstr "Pro Produkt Einstellungen"
+
+#: classes/wc-gift-wrapper-settings.php:32
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: classes/wc-gift-wrapper-settings.php:47
+msgid "Cart/Checkout Gift Wrapping"
+msgstr "Warenkorb/Checkout Geschenkverpackung"
+
+#: classes/wc-gift-wrapper-settings.php:73
+#, fuzzy
+#| msgid "None Selected"
+msgid "None selected"
+msgstr "Nichts ausgewählt"
+
+#: classes/wc-gift-wrapper-settings.php:78
+msgid "None set up yet"
+msgstr "Noch keine Einrichtung"
+
+#: classes/wc-gift-wrapper-settings.php:98
+msgid "General Gift Wrapping Options"
+msgstr "Allgemeine Geschenkverpackungsoptionen"
+
+#: classes/wc-gift-wrapper-settings.php:100
+msgid ""
+"These settings apply globally, to both cart/checkout and per-product gift "
+"wrapping."
+msgstr ""
+"Diese Einstellungen sind globale Einstellungen, gültig für beides Warenkorb/"
+"checkout und pro Produkt Geschenkverpackung."
+
+#: classes/wc-gift-wrapper-settings.php:100
+#, php-format
+msgid ""
+"Start by <a href=\"%s\" target=\"_blank\">adding at least one product</a> "
+"called \"Gift Wrapping\" or something similar."
+msgstr ""
+"Beginne mit dem <a href=\"%s\" target=\"_blank\">hinzufügen von mindestens "
+"einem Produkt</a> mit der Bezeichnung \"Geschenkverpackung\" oder etwas "
+"ähnliches."
+
+#: classes/wc-gift-wrapper-settings.php:100
+msgid ""
+"Create a unique product category for this/these gift wrapping product(s), "
+"and add them to this category."
+msgstr ""
+"Erstelle eine eigene Produktkategorie für die Geschenkverpackungsprodukte "
+"und füge sie dieser Kategorie zu."
+
+#: classes/wc-gift-wrapper-settings.php:100
+msgid "Then consider the options below."
+msgstr "Dann berücksichtige die unten genannten Optionen."
+
+#: classes/wc-gift-wrapper-settings.php:105
+msgid "Gift wrap category"
+msgstr "Geschenkverpackungskategorie"
+
+#: classes/wc-gift-wrapper-settings.php:106
+msgid "Define the category which holds your gift wrap product(s)."
+msgstr "Definiere die Kategorie für die Geschenkverpackungsprodukte."
+
+#: classes/wc-gift-wrapper-settings.php:112
+msgid "Define a Category"
+msgstr "Definiere eine Kategorie"
+
+#: classes/wc-gift-wrapper-settings.php:118
+msgid "Gift wrap details"
+msgstr "Details zur Geschenkverpackung"
+
+#: classes/wc-gift-wrapper-settings.php:119
+msgid ""
+"Optional text to give any details or conditions of your gift wrap offering. "
+"This text is not translatable by Wordpress i18n, but can be translated by "
+"WPML. Leave this field empty to translate via another means."
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:127
+msgid "Textarea character limit"
+msgstr "Zeichenlimit des Textbereichs"
+
+#: classes/wc-gift-wrapper-settings.php:128
+msgid ""
+"How many characters your customer can type when creating their own note for "
+"giftwrapping. Defaults to 1000 characters; lower this number if you want "
+"shorter notes from your customers."
+msgstr ""
+"Zeigt an wie viele Zeichen der Kunde eintragen kann wenn eine eigene "
+"Nachricht für die Geschenkverpackung gewünscht wird. Standardmäßig 1000 "
+"Zeichen. Verringere die Anzahl der Zeichen, falls du kürzere Nachrichten "
+"erlauben möchtest."
+
+#: classes/wc-gift-wrapper-settings.php:139
+msgid "Cart/Checkout Gift Wrapping Options"
+msgstr "Warenkorb/\"Zur Kasse gehen\" Geschenkverpackungsoptionen"
+
+#: classes/wc-gift-wrapper-settings.php:141
+#, php-format
+msgid ""
+"These settings apply to per-order wrap options in the cart and checkout "
+"areas, not line item (per-item) wrapping. <br /><a href=\"%s\">Per-product "
+"and line item gift wrapping options are in a separate settings tab</a>"
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:147
+msgid "Show gift wrapping"
+msgstr "Zeige Geschenkverpackungsoption"
+
+#: classes/wc-gift-wrapper-settings.php:148
+msgid ""
+"Choose where to show gift wrap options to the customer on the cart page. You "
+"may choose more than one."
+msgstr ""
+"Wähle an welcher Position des Warenkorbs die Geschenkverpackungsoptionen "
+"angezeigt werden sollen. Mehrfachauswahl möglich."
+
+#: classes/wc-gift-wrapper-settings.php:152
+msgid "None"
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:153
+msgid "Under Coupon Field in Cart"
+msgstr "Unterhalb des Coupon Feldes im Warenkorb"
+
+#: classes/wc-gift-wrapper-settings.php:154
+msgid "Before Cart"
+msgstr "Vor dem Warenkorb"
+
+#: classes/wc-gift-wrapper-settings.php:155
+msgid "After Cart"
+msgstr "Nach dem Warenkorb"
+
+#: classes/wc-gift-wrapper-settings.php:156
+msgid "Before Checkout"
+msgstr "Vor dem \"Zur Kasse gehen\""
+
+#: classes/wc-gift-wrapper-settings.php:157
+msgid "After Checkout"
+msgstr "Nach der Kasse"
+
+#: classes/wc-gift-wrapper-settings.php:165
+msgid ""
+"Should gift wrap product thumbnail images be visible to customers in the "
+"cart/checkout area?"
+msgstr ""
+"Sollen die Thumbnail-Bilder der Geschenkverpackungsprodukte für Kunden im "
+"Warenkorb / auf der \"zur Kasse gehen\"-Seite sichtbar sein?"
+
+#: classes/wc-gift-wrapper-settings.php:190
+msgid "Allow more than one gift wrap product in cart?"
+msgstr ""
+"Soll mehr als ein Geschenkverpackungsprodukt im Warenkorb erlaubt werden?"
+
+#: classes/wc-gift-wrapper-settings.php:191
+msgid ""
+"If yes, customers can buy more than one gift wrapping product in one order."
+msgstr ""
+"Falls ja, kann der Kunde mehr als ein Geschenkverpackungsprodukt in einer "
+"Bestellung kaufen."
+
+#: classes/wc-gift-wrapper-settings.php:203
+msgid "Should options open in pop-up?"
+msgstr ""
+"Sollen die Geschenkverpackungsoptionen in einem Pop-Up-Fenster angezeigt "
+"werden?"
+
+#: classes/wc-gift-wrapper-settings.php:204
+msgid ""
+"If checked, there will be a link (\"header\") in the cart, which when "
+"clicked will open a window for customers to choose gift wrapping options. It "
+"can be styled and might be a nicer option for your site."
+msgstr ""
+"Falls ausgewählt wird ein Link (\"header\") im Warenkorb erzeugt. Durch "
+"Anklicken öffnet sich ein Fenster mit Optionen des "
+"Geschenkverpackungsservice. Es kann angepasst werden und bietet eine "
+"schönere Option für Ihre Internetseite."
+
+#: classes/wc-gift-wrapper-settings.php:219
+msgid "Advanced Options"
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:221
+msgid "The nitty gritty..."
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:227
+msgid "Turn off Gift Wrapper JavaScript"
+msgstr "Ausschalten Gift Wrapper JavaSript"
+
+#: classes/wc-gift-wrapper-settings.php:230
+msgid "Check to dequeue Bootstrap JS"
+msgstr "Auswählen um Bootstrap JS zu dequeuen"
+
+#: classes/wc-gift-wrapper-settings.php:231
+msgid ""
+"If you're having theme conflicts with pop-up windows, or your site already "
+"loads Bootstrap JS, try checking this box."
+msgstr ""
+"Wenn Sie Themenkonflikte mit Popup-Fenstern haben oder Ihre Seite bereits "
+"Bootstrap JS lädt, aktivieren Sie dieses Kontrollkästchen."
+
+#: classes/wc-gift-wrapper-settings.php:237
+msgid "Leave No Trace"
+msgstr "Allen Daten entfernen"
+
+#: classes/wc-gift-wrapper-settings.php:240
+msgid "Delete all settings upon plugin uninstall"
+msgstr "Alle Einstellungen nach Plugin De-Installation löschen"
+
+#: classes/wc-gift-wrapper-settings.php:241
+msgid ""
+"If you plan on deleting this plugin and not coming back, and want to keep "
+"your Wordpress database tables tidy, check this box, save settings, then "
+"delete the plugin."
+msgstr ""
+"Falls Sie beabsichtigen dieses Plugin endgültig zu löschen und nicht wieder "
+"installieren wollen und Sie ihre WordPress Datenbank Tabellen bereinigen "
+"wollen, dann klicken Sie auf diesen Button, sichern Sie Ihre Einstellungen "
+"zuvor und löschen dann das Plugin."
+
+#: classes/wc-gift-wrapper-settings.php:317
+#: classes/wc-gift-wrapper-settings.php:345
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:324
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:329
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:332
+msgid "Invalid license key. Please double-check you've entered it correctly."
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:336
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:339
+msgid ""
+"This appears to be an invalid license key for WooCommerce Gift Wrapper Plus"
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:342
+msgid ""
+"Your license key has reached its activation limit. Try deactivating on "
+"another site or purchase another license."
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:382
+#, fuzzy
+#| msgid "Woocommerce Gift Wrapper Plus"
+msgid "WooCommerce Gift Wrapper License"
+msgstr "Woocommerce Gift Wrapper Plus"
+
+#: classes/wc-gift-wrapper-settings.php:383
+#, fuzzy, php-format
+#| msgid ""
+#| "You can find your API key and email at <a href=\"%s\" target=\"_blank"
+#| "\">https://web.little-package.com/account</a> under \"API Keys.\""
+msgid ""
+"You can find your API key and email at <a href=\"%s\" target=\"_blank"
+"\">https://web.little-package.com/account</a> under \"Purchases.\""
+msgstr ""
+"Sie finden Ihren API Schlüssel (Key) sowie die hierzu relevante Email unter "
+"<a href=\"%s\" target=\"_blank\">https://web.little-package.com/account</a> "
+"unter \"API Keys.\""
+
+#: classes/wc-gift-wrapper-settings.php:417
+#, php-format
+msgid "<a href=\"%s\">%s</a> "
+msgstr ""
+
+#: classes/wc-gift-wrapper-settings.php:417
+#, fuzzy
+#| msgid "Turn on Gift Wrapping"
+msgid "Return to Gift Wrapper settings"
+msgstr "Geschenkverpackungsoption einschalten"
+
+#: classes/wc-gift-wrapper-sl.php:228
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: classes/wc-gift-wrapper-sl.php:236
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: classes/wc-gift-wrapper-sl.php:474
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: classes/wc-gift-wrapper-sl.php:474
+msgid "Error"
+msgstr "Fehler"
+
+#: classes/wc-gift-wrapper-wrapping.php:314
+#: templates/wcgwp/giftwrap-list-cart-checkout.php:32
+#: templates/wcgwp/modal-coupon.php:34 templates/wcgwp/modal-line-item.php:35
+#: templates/wcgwp/modal-product.php:34 templates/wcgwp/modal.php:38
+msgid "We offer the following gift wrap options:"
+msgstr ""
+
+#: templates/wcgwp/giftwrap-list-cart-checkout.php:79
+#: templates/wcgwp/giftwrap-list-cart.php:67
+#: templates/wcgwp/modal-coupon.php:88 templates/wcgwp/modal-line-item.php:94
+#: templates/wcgwp/modal-product.php:91 templates/wcgwp/modal.php:95
+msgid "Add Gift Wrap to Order"
+msgstr "Geschenkverpackung zur Bestellung hinzufügen"
+
+#: templates/wcgwp/giftwrap-simple.php:18
+#, php-format
+msgid "Add gift wrapping for %s?"
+msgstr "Geschenkverpackung für %s hinzufügen?"
+
+#: templates/wcgwp/modal-coupon.php:24 templates/wcgwp/modal-line-item.php:26
+#: templates/wcgwp/modal.php:28
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: templates/wcgwp/modal-product.php:21
+msgid "Gift wrap added. Change?"
+msgstr "Geschenkverpackung hinzugefügt. Veränderung?"
+
+#: templates/wcgwp/modal-product.php:90
+msgid "Cancel/Remove"
+msgstr "Abbrechen/Entfernen"
+
+#: templates/wcgwp/replace-wrap-js.php:24
+msgid "Are you sure you want to replace the gift wrap in your cart?"
+msgstr "Sind Sie sicher die Geschenkverpackung aus dem Warenkorb zu entfernen?"
+
+#: woocommerce-gift-wrapper-plus.php:65
+msgid "Cloning is forbidden."
+msgstr "Das Klonen ist verboten."
+
+#: woocommerce-gift-wrapper-plus.php:72
+msgid "Unserializing instances of this class is forbidden."
+msgstr "Unserialisierte Instanzen dieser Klasse sind verboten."
+
+#. Plugin Name of the plugin/theme
+msgid "Woocommerce Gift Wrapper Plus"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin shows gift wrap options on the WooCommerce cart and/or checkout "
+"page, and adds gift wrapping to the order"
+msgstr ""
+"Dieses Plugin zeigt Optionen zur Geschenkverpackung auf der WooCommerce "
+"Warenkorb- und/oder der \"zur Kasse gehen\"-Seite an und fügt diese zur "
+"Bestellung hinzu"
+
+#. Author of the plugin/theme
+msgid "Little Package"
+msgstr ""
+
+#, fuzzy
+#~| msgid "gift_wrap_note"
+#~ msgid "wcgwp_note"
+#~ msgstr "Geschenkverpackungsnachricht"
+
+#~ msgid "API Key Activation"
+#~ msgstr "API Schlüssel (Key) Aktivierung"
+
+#~ msgid "API Key Deactivation"
+#~ msgstr "API Schlüssel (Key) De-Aktivierung"
+
+#, php-format
+#~ msgid ""
+#~ "<b>Warning!</b> You're blocking external requests which means you won't "
+#~ "be able to get %s updates. Please add %s to %s."
+#~ msgstr ""
+#~ "<b>Warnung!</b> Sie blocken externe Anfragen und sind daher nicht in der "
+#~ "Lage %s Updates zu erhalten. Bitte fügen Sie %s zu %s hinzu."
+
+#~ msgid ""
+#~ "To deactivate or reset, check/uncheck the deactivate checkbox under the "
+#~ "\"<strong>API Key Deactivation</strong>\" tab and save. Make sure "
+#~ "checkbox is unchecked if you're having trouble activating."
+#~ msgstr ""
+#~ "Zur Deaktivierung oder um ein Reset durchzuführen, markieren/demarkieren "
+#~ "Sie das Kontrollkästchen im Reiter\"<strong>API Schlüssel (Key) "
+#~ "Deaktivierung</strong>\" und speichern Sie diese Einstellung. Stellen Sie "
+#~ "sicher, das dieses Kontrollkästchen demarkiert ist wenn Sie Probleme bei "
+#~ "der Aktivierung haben."
+
+#~ msgid "Save Changes"
+#~ msgstr "Änderungen speichern"
+
+#~ msgid "API Key"
+#~ msgstr "API Schlüssel (Key)"
+
+#~ msgid "Product ID"
+#~ msgstr "Produkt ID"
+
+#~ msgid "API Key Status"
+#~ msgstr "API Schlüssel (Key) Status"
+
+#~ msgid "API Deactivation"
+#~ msgstr "API Deaktivierung"
+
+#~ msgid "Deactivate API Key"
+#~ msgstr "Deaktivieren des API Schlüssels (Keys)"
+
+#~ msgid "Delete Gift Wrapper Data"
+#~ msgstr "Löschen der Gift Wrapper Daten"
+
+#~ msgid "Activated"
+#~ msgstr "Aktiviert"
+
+#~ msgid "Deactivated"
+#~ msgstr "Deaktiviert"
+
+#, php-format
+#~ msgid "%s activated. "
+#~ msgstr "%s aktiviert "
+
+#~ msgid "API Key deactivated. "
+#~ msgstr "API Schlüssel deaktiviert "
+
+#~ msgid ""
+#~ " Remove all Gift Wrapper data when using the \"Delete\" link on the "
+#~ "plugins screen?"
+#~ msgstr ""
+#~ " Sollen alle Gift Wrapper Daten entfernt werden, wenn der \"Löschen\" "
+#~ "link auf der Plugin-Anzeige angeklickt wird?"
+
+#~ msgid "Keep it simple"
+#~ msgstr "Halte es einfach"
+
+#~ msgid "Show only a simple checkbox gift wrap opt-in"
+#~ msgstr ""
+#~ "Zeige eine einfache Kontrollkästchen-Option für die Geschenkverpackung an"
+
+#~ msgid ""
+#~ "If you only have one giftwrap product option, and want to keep things "
+#~ "simple, check this box and Gift Wrapper will show the customer a simple "
+#~ "opt-in."
+#~ msgstr ""
+#~ "Wenn Sie nur eine Geschenkverpackungsoption anbieten wollen, markieren "
+#~ "Sie dieses Kästchen. Gift Wrapper wird Ihren Kunden eine einfache "
+#~ "Bestelloption anzeigen."
+
+#~ msgid "Cheatin&#8217; uh?"
+#~ msgstr "Schummeln&#8217; was?"
+
+#~ msgid ""
+#~ "Sorry, WooCommerce Gift Wrapper Plus requires you use WooCommerce version "
+#~ "3.0 or newer, mostly for security reasons."
+#~ msgstr ""
+#~ "Entschuldigung, WooCommerce Gift Wrapper Plus benötigt WooCommerce "
+#~ "Version 3.0 oder höher."
+
+#~ msgid " License"
+#~ msgstr "Lizenz"
+
+#~ msgid ""
+#~ "<p>FYI, the <strong>%s</strong> license key has not been activated. "
+#~ "%sActivate %s %s to enable automatic plugin updates.</p><p><a href=\"%1$s"
+#~ "\">Hide This Notice</a></p>"
+#~ msgstr ""
+#~ "<p>Zur Information, der <strong>%s</strong> Lizenzschlüssel (Key) wurde "
+#~ "nicht aktiviert. %sAktivieren %s %s um automatische Plugin Updates zu "
+#~ "erhalten.</p><p><a href=\"%1$s\">Verberge diesen Hinweis</a></p>"
+
+#~ msgid "API Email"
+#~ msgstr "API Email"
+
+#~ msgid ""
+#~ "Connection failed to the License Key API server. <a href=\"https://www."
+#~ "little-package.com/contact\">Please inform the administrator</a>."
+#~ msgstr "Verbindung zum Lizenz Key API Server fehlgeschlagen."
+
+#~ msgid ""
+#~ "The API Key could not be deactivated. Try using the API Key Deactivation "
+#~ "tab to manually deactivate the API Key before activating a new API Key."
+#~ msgstr ""
+#~ "Der API Schlüssel (Key) konnte nicht deaktiviert werden. Zur manuellen De-"
+#~ "Aktivierung die API Schlüssel De-Aktivierung Tab."
+
+#~ msgid " Deactivates an API Key so it can be used on another Wordpress site."
+#~ msgstr ""
+#~ " Deaktiviert einen API Schlüssel (Key), so dass dieser auf einer anderen "
+#~ "WordPress-Seite genutzt werden kann."
+
+#~ msgid ""
+#~ "The license key for %s has expired, meaning access to support and plugin "
+#~ "updates have been lost. You can purchase a new license key from your <a "
+#~ "href=\"%s\" target=\"_blank\">little-package.com account dashboard</a>. "
+#~ "Once you have a license, go to the <a href=\"%s\">Gift Wrapper License "
+#~ "settings page</a> to activate automatic updates."
+#~ msgstr ""
+#~ "Der Lizenzschlüssel (Key) für %s ist abgelaufen, daher erhalten Sie "
+#~ "keinen Support und Plugin Updates mehr. Sie können einen neuen "
+#~ "Lizenzschlüssel (Key) über Ihr <a href=\"%s\" target=\"_blank\">little-"
+#~ "package.com account dashboard</a> kaufen. Wenn Sie die neue Lizenz "
+#~ "erhalten haben gehen Sie auf die Seite <a href=\"%s\">Gift Wrapper "
+#~ "License settings page</a> um die Funktion für automatische Updates zu "
+#~ "aktivieren."
+
+#~ msgid ""
+#~ "A license key for %s could not be found. Maybe you forgot to enter a "
+#~ "license key when setting up %s, or the key was deactivated in your "
+#~ "account. You can <a href=\"%s\" target=\"_blank\">purchase a Woocommerce "
+#~ "Gift Wrapper Plus license key here</a>, and then <a href=\"%s\">enter it "
+#~ "here to activate</a>."
+#~ msgstr ""
+#~ "Ein Lizenzschlüssel (Key) für %s konnte nicht gefunden werden. Eventuell "
+#~ "haben Sie vergessen den Lizenzschlüssel (Key) bei der Einrichtung von %s "
+#~ "einzugeben oder der Lizenzschlüssel (Key) wurde in  Ihrem Konto "
+#~ "deaktiviert. Sie können <a href=\"%s\" target=\"_blank\">hier einen "
+#~ "Woocommerce Gift Wrapper Plus Lizenzschlüssel (Key) kaufen </a> und "
+#~ "diesen dann <a href=\"%s\"> hier eingeben um die Lizenz zu aktivieren </"
+#~ "a>."
+
+#~ msgid ""
+#~ "Download permission for %s has been revoked possibly due to a license key "
+#~ "expiring. You can <a href=\"%s\" target=\"_blank\">purchase a renewal "
+#~ "license key here</a>. Log into web.little-package.com/account first for "
+#~ "the 50% renewal price."
+#~ msgstr ""
+#~ "Download Berechtigung für %s wurde vermutlich wegen eines abgelaufenen "
+#~ "Lizenzschlüssel (Key) entzogen. Sie können <a href=\"%s\" target=\"_blank"
+#~ "\"> einen erneuerten Lizenzschlüssel (Key) hier kaufen </a>. Loggen Sie "
+#~ "sich zuerst auf web.little-package.com/account ein um den um 50% "
+#~ "reduzierten Preis zu erhalten."
+
+#~ msgid ""
+#~ "Your %s license has not been activated. Go to the <a href=\"%s\">Gift "
+#~ "Wrapper License settings page</a> and enter the license key and email to "
+#~ "activate %s automatic updates."
+#~ msgstr ""
+#~ "Ihre %s Lizenz wurde nicht aktiviert. Gehen Sie auf die Seite <a href=\"%s"
+#~ "\">Gift Wrapper License settings page</a> und tragen Sie den "
+#~ "Lizenzschlüssel (Key) der Email ein um %s automatische Updates zu "
+#~ "aktivieren."
+
+#~ msgid "Default product category"
+#~ msgstr "Standard Produktkategorie"
+
+#~ msgid "Global Settings"
+#~ msgstr "Globale Einstellungen"
+
+#~ msgid ""
+#~ "Use the information below to set global options for all variable products."
+#~ msgstr ""
+#~ "Nutze die unten genannte Information um globale Optionen für alle "
+#~ "variablen Produkte einzurichten."
+
+#~ msgid ""
+#~ "Optional text to give any details or conditions of your gift wrap "
+#~ "offering. This text is not translatable by Wordpress i18n."
+#~ msgstr ""
+#~ "Optionaler Text um Details oder Konditionen für das Geschenkverpacken zu "
+#~ "nennen. Dieser Text ist nicht übersetzbar durch WordPress i18n."
+
+#~ msgid "Gift wrap note"
+#~ msgstr "Geschenkverpackungsnotiz"

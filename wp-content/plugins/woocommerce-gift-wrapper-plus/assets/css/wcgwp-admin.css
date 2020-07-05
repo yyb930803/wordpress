@@ -1,0 +1,2 @@
+.wp-admin #woocommerce-order-items .woocommerce_order_items_wrapper table.woocommerce_order_items .wcgwp-line-item > td:first-child{padding-left:3em}
+.wcgwp-line-item .name:before{content:"\0021b3 ";display:inline}

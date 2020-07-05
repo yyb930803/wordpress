@@ -1,0 +1,25 @@
+So you found my to-do list for this plugin? Well, hope you enjoy the little sneak preview of what's coming. 
+Missing some features you might like? Drop me a line at support@adtribes.io and we might just add it to the list. Thanks!
+
+Tutorial / Blog posts:
+- Explain all the different fields/attributes that can be selected from the drop-downs
+
+Priority issues:
+- Add feature to remove local pickup shipping costs from feed
+- Add support for Polylang
+- Add possibility to copy feed configuration from one WooCommerce instance to the other instance
+- Add support for Multisites
+- Add a filter on review score (and amount of reviews)
+- Change XML header for Elite users (so it doesn't say its free for example)
+- Make extra woosea fields available for front-end usage
+- Only update feed when changes to products have been made
+- Add header to extra fields on product edit pages
+- Add support for woocommerce multi currency plugin: https://wordpress.org/plugins/woo-multi-currency/
+- Do not use server time as update time in the feed but local time settings
+- Add g:tax support: https://support.google.com/merchants/answer/6324454?hl=en&ref_topic=6324338
+- Add possibility to create OR rules
+- Change root XML node for custom feeds
+- Build a better WP Cron check, current one is not good enough
+- AMAZON integration:
+	- requires a professional seller account, 39 dollar a month, before being able to create a developer account
+	- only than we can use their MWS service needed to connect our plugin

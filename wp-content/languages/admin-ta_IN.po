@@ -1,0 +1,2260 @@
+# Translation of WordPress - 4.7.x - Administration in Tamil
+# This file is distributed under the same license as the WordPress - 4.7.x - Administration package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-26 08:55:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ta_IN\n"
+"Project-Id-Version: WordPress - 4.7.x - Administration\n"
+
+#. translators: default start of the week. 0 = Sunday, 1 = Monday
+#: wp-admin/includes/schema.php:402
+msgctxt "start of week"
+msgid "1"
+msgstr "1"
+
+#. translators: default GMT offset or timezone string. Must be either a valid
+#. offset (-12 to 14) 	   or a valid timezone string (America/New_York). See
+#. https://secure.php.net/manual/en/timezones.php 	   for all timezone strings
+#. supported by PHP.
+#: wp-admin/includes/schema.php:387
+msgctxt "default GMT offset or timezone string"
+msgid "0"
+msgstr "0"
+
+#: wp-admin/theme-install.php:59
+msgid "Expand Sidebar"
+msgstr "பக்கப்பட்டியை விரி"
+
+#: wp-admin/nav-menus.php:812
+msgid "Display location"
+msgstr "காட்சி இடம்"
+
+#. translators: 1: user id, 2: user login
+#: wp-admin/users.php:385
+msgid "ID #%1$s: %2$s <strong>Sorry, you are not allowed to remove this user.</strong>"
+msgstr "ஐடி #%1$s: %2$s <strong>மன்னிக்கவும், இந்த பயனரை அகற்ற உங்களுக்கு அனுமதி இல்லை.</strong>"
+
+#. translators: The user language selection field label
+#: wp-admin/user-edit.php:280
+msgid "Language"
+msgstr "மொழி"
+
+#: wp-admin/themes.php:258 wp-admin/themes.php:388
+msgid "New version available."
+msgstr "புதிய பதிப்பு கிடைக்கிறது."
+
+#: wp-admin/theme-install.php:213
+msgid "Edit Filters"
+msgstr "வடிகட்டிகளைத் திருத்து"
+
+#: wp-admin/theme-install.php:188 wp-admin/theme-install.php:208
+msgid "Clear current filters"
+msgstr "தற்போதைய வடிகட்டிகளை நீக்கவும்"
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:566
+#: wp-admin/includes/plugin-install.php:593
+msgctxt "Active plugin installs"
+msgid "Less Than 10"
+msgstr "பத்திற்கும் குறைவான "
+
+#: wp-admin/freedoms.php:45 wp-admin/includes/plugin-install.php:235
+#: wp-admin/includes/plugin-install.php:599 wp-admin/plugin-install.php:82
+#: wp-admin/plugins.php:392
+msgid "https://wordpress.org/plugins/"
+msgstr "https://wordpress.org/plugins/"
+
+#. translators: %s: plugin name
+#: wp-admin/includes/class-wp-plugins-list-table.php:613
+#: wp-admin/includes/class-wp-plugins-list-table.php:634
+msgctxt "plugin"
+msgid "Delete %s"
+msgstr "%s -ஐஅழி "
+
+#. translators: %s: plugin name
+#: wp-admin/includes/class-wp-plugins-list-table.php:627
+msgctxt "plugin"
+msgid "Deactivate %s"
+msgstr "%s -ஐ செயலிழக்கச் செய்"
+
+#. translators: %s: Plugin name
+#: wp-admin/includes/update.php:747
+msgctxt "plugin"
+msgid "%s was successfully deleted."
+msgstr "%s வெற்றிகரமாக நீக்கப்பட்டது."
+
+#: wp-admin/includes/theme.php:253
+msgid "Custom Logo"
+msgstr "தனிப்பயன் இலச்சினை"
+
+#: wp-admin/includes/theme.php:280
+msgid "Portfolio"
+msgstr "தொகுப்பு"
+
+#: wp-admin/includes/theme.php:279
+msgid "Photography"
+msgstr "புகைப்படம்"
+
+#: wp-admin/includes/theme.php:278
+msgid "News"
+msgstr "செய்தி"
+
+#: wp-admin/includes/theme.php:276
+msgid "Food & Drink"
+msgstr "உணவு மற்றும் பானம்"
+
+#: wp-admin/includes/theme.php:275
+msgid "Entertainment"
+msgstr "பொழுதுபோக்கு"
+
+#: wp-admin/includes/theme.php:274
+msgid "Education"
+msgstr "கல்வி"
+
+#: wp-admin/includes/theme.php:273
+msgid "E-Commerce"
+msgstr "மின் வணிகம்"
+
+#. translators: %s: WordPress version
+#: wp-admin/includes/update.php:247 wp-admin/includes/update.php:260
+msgid "https://codex.wordpress.org/Version_%s"
+msgstr "https://codex.wordpress.org/Version_%s"
+
+#: wp-admin/includes/ms.php:1084
+msgid "Info"
+msgstr "தகவல்"
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:472
+msgctxt "plugin"
+msgid "Active"
+msgstr "செயலில் உள்ளது "
+
+#: wp-admin/includes/meta-boxes.php:654
+msgid "https://codex.wordpress.org/Using_Custom_Fields"
+msgstr "https://codex.wordpress.org/Using_Custom_Fields"
+
+#. translators: 1: relative date, 2: time
+#: wp-admin/includes/dashboard.php:863
+msgctxt "dashboard"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: wp-admin/user-edit.php:192
+msgid "Error while saving the new email address. Please try again."
+msgstr "புதிய மின்னஞ்சல் முகவரியை சேமிக்கும் போது பிழை. தயவு செய்து மீண்டும் முயற்சிக்கவும்."
+
+#: wp-admin/themes.php:168
+msgid "New theme activated."
+msgstr "புதிய வார்ப்புரு செயல்படுத்தப்பட்டது "
+
+#: wp-admin/themes.php:166
+msgid "Settings saved and theme activated."
+msgstr "அமைப்புகள் சேமிக்கப்பட்டு  வார்ப்புரு செயல்படுத்தப்பட்டது"
+
+#: wp-admin/setup-config.php:196
+msgid "Your database username."
+msgstr "உங்கள் தரவுத்தள பயனீட்டாளர் பெயர் "
+
+#: wp-admin/freedoms.php:46 wp-admin/theme-install.php:86
+#: wp-admin/themes.php:92
+msgid "https://wordpress.org/themes/"
+msgstr "https://wordpress.org/themes/"
+
+#: wp-admin/setup-config.php:201
+msgid "Your database password."
+msgstr "உங்கள் தரவுத்தள பயனீட்டாளர் கடவுச்சொல் "
+
+#: wp-admin/setup-config.php:191
+msgid "The name of the database you want to use with WordPress."
+msgstr "வேர்ட்பிரஸ் உடன் நீங்கள் பயன்படுத்த விரும்பும் தரவுத்தளத்தின் பெயர் "
+
+#: wp-admin/includes/dashboard.php:644
+msgid "View this comment"
+msgstr "இந்தக் கருத்தைப் பார்க்கவும்."
+
+#: wp-admin/user-new.php:470
+msgid "Send the new user an email about their account."
+msgstr "புதிய பயனருக்கு அவர்களின் கணக்கு விவரத்தை அனுப்பவும்"
+
+#: wp-admin/user-new.php:467
+msgid "Send User Notification"
+msgstr "புதிய பயனர் தகவலை அனுப்பு "
+
+#. translators: %s: menu name
+#: wp-admin/nav-menus.php:820
+msgctxt "menu location"
+msgid "(Currently set to: %s)"
+msgstr "(தற்போதுள்ள: %s)"
+
+#. translators: %s: Gravatar URL
+#: wp-admin/user-edit.php:500
+msgid "You can change your profile picture on <a href=\"%s\">Gravatar</a>."
+msgstr "நீங்கள் தங்கள் புகைப்படத்தை <a href=\"%s\">கிரவதார்</a> வழியாக மாற்றலாம்."
+
+#: wp-admin/user-edit.php:501
+msgid "https://en.gravatar.com/"
+msgstr "https://en.gravatar.com/"
+
+#: wp-admin/user-edit.php:494
+msgid "Profile Picture"
+msgstr "சுயவிவர புகைப்படம் "
+
+#: wp-admin/about.php:260
+msgid "Maintenance Releases"
+msgstr "பராமரிப்பு வெளியீடு "
+
+#: wp-admin/about.php:263
+msgid "Security Releases"
+msgstr "பாதுகாப்பு வெளியீடு "
+
+#: wp-admin/about.php:47 wp-admin/about.php:266
+msgid "Maintenance and Security Releases"
+msgstr "பாதுகாப்பு மற்றும் பராமரிப்பு வெளியீடு "
+
+#: wp-admin/options-permalink.php:181
+msgid "Plain"
+msgstr "வெற்று"
+
+#. translators: %s: Codex URL
+#: wp-admin/setup-config.php:168
+msgid "Need more help? <a href=\"%s\">We got it</a>."
+msgstr ""
+"மேலும் உதவிக்கு? \n"
+"<a href=\"%s\">நங்கள் பெற்றுக்கொண்டோம்</a>."
+
+#. translators: %s: wp-content/uploads
+#: wp-admin/options-media.php:110
+msgid "Default is %s"
+msgstr "%s தான் இயல்புநிலை"
+
+#: wp-admin/theme-install.php:158
+msgctxt "themes"
+msgid "Favorites"
+msgstr "பிடித்தவை"
+
+#: wp-admin/maint/repair.php:32
+msgid "Allow automatic database repair"
+msgstr "தானியங்கி தரவுத்தள பழுது பார்த்தலுக்கு அனுமதி"
+
+#: wp-admin/maint/repair.php:74
+msgid "Database repair results"
+msgstr "தரவுத்தள பழுது பார்த்தல் முடிவுகள்"
+
+#: wp-admin/setup-config.php:401
+msgid "Successful database connection"
+msgstr "வெற்றிகரமான தரவுத்தள இணைப்பு"
+
+#. translators: %s: plugin file name
+#: wp-admin/plugin-editor.php:214
+msgid "Editing %s (inactive)"
+msgstr "தோகுப்பாக்கு %s (செயலற்ற)"
+
+#. translators: %s: plugin file name
+#: wp-admin/plugin-editor.php:217
+msgid "Browsing %s (inactive)"
+msgstr "உலாவல் %s (செயலற்ற)"
+
+#. translators: %s: plugin file name
+#: wp-admin/plugin-editor.php:209
+msgid "Browsing %s (active)"
+msgstr "உலாவல் %s (செயலில்)"
+
+#. translators: %s: plugin file name
+#: wp-admin/plugin-editor.php:206
+msgid "Editing %s (active)"
+msgstr "தோகுப்பாக்கு %s (செயலில்)"
+
+#: wp-admin/options-permalink.php:254
+msgid "<a href=\"https://codex.wordpress.org/Nginx\">Documentation on Nginx configuration</a>."
+msgstr "<a href=\"https://codex.wordpress.org/Nginx\"> Nginx கட்டமைப்பு ஆவணம் </a>."
+
+#. translators: %s: local time
+#: wp-admin/options-general.php:166
+msgid "Local time is %s."
+msgstr "உள்ளூர் நேரப்படி %s"
+
+#: wp-admin/my-sites.php:64
+msgctxt "site"
+msgid "Add New"
+msgstr "புதிதாக சேர்க்க"
+
+#: wp-admin/link-manager.php:71
+msgid "Links list"
+msgstr "இணைப்புகள் பட்டியல்"
+
+#: wp-admin/includes/ms.php:973
+msgid "Select a user"
+msgstr "பயனர் தேர்ந்தெடு"
+
+#: wp-admin/includes/ms.php:988
+msgid "Site: %s"
+msgstr "தளம்: %s"
+
+#: wp-admin/includes/media.php:868
+msgid "Invalid image URL"
+msgstr "தவறான பட உரலி"
+
+#: wp-admin/includes/ms.php:948
+msgid "Warning! User %s cannot be deleted."
+msgstr "எச்சரிக்கை! பயனர் %s -ஐ நீக்க முடியாது."
+
+#: wp-admin/includes/class-wp-screen.php:1227
+msgid "View Mode"
+msgstr "பார்வை முறை"
+
+#: wp-admin/includes/class-wp-screen.php:1031
+msgid "Boxes"
+msgstr "பெட்டிகள்"
+
+#: wp-admin/includes/class-wp-screen.php:1120
+msgid "%s column"
+msgid_plural "%s columns"
+msgstr[0] "%s பத்தியில்"
+msgstr[1] "%s பத்திகளில் "
+
+#: wp-admin/includes/class-wp-screen.php:922
+msgid "Additional settings"
+msgstr "கூடுதல் அமைப்புகள்"
+
+#: wp-admin/includes/class-wp-screen.php:704
+msgid "Items list"
+msgstr "பொருட்கள் பட்டியல்"
+
+#. translators: date and time format for recent posts on the dashboard, from a
+#. different calendar year, see https://secure.php.net/date
+#: wp-admin/includes/dashboard.php:850
+msgid "M jS Y"
+msgstr "M jS Y"
+
+#. translators: 1: Title of an update, 2: Error message
+#: wp-admin/includes/class-bulk-upgrader-skin.php:42
+msgid "An error occurred while updating %1$s: %2$s"
+msgstr "புதுப்பிக்கும்போது பிழை ஏற்பட்டுள்ளது %1$s: %2$s"
+
+#: wp-admin/includes/class-wp-users-list-table.php:548
+msgctxt "no user roles"
+msgid "None"
+msgstr "எதுவும் இல்லை "
+
+#: wp-admin/includes/class-wp-list-table.php:685
+msgid "No pending comments"
+msgstr "நிலுவையில் கருத்துகள் இல்லை."
+
+#: wp-admin/users.php:369
+msgid "You have specified this user for removal:"
+msgstr "நீங்கள் இந்தப் பயனரை நீக்குமாறு குறிப்பிட்டுள்ளீர்கள்:"
+
+#. translators: 1: User's display name.
+#: wp-admin/user-edit.php:606
+msgid "Log %s out of all locations."
+msgstr "எல்லா இடங்களிலிருந்தும் %sஐ வெளியேற்று"
+
+#: wp-admin/user-edit.php:582 wp-admin/user-edit.php:592
+msgid "Log Out Everywhere Else"
+msgstr "மற்ற எல்லா இடங்களிலிருந்தும் வெளியேறு"
+
+#: wp-admin/user-edit.php:552 wp-admin/user-new.php:444
+msgid "Cancel password change"
+msgstr "கடவுச்சொல் மாற்றத்தைப்  பின்வாங்கு"
+
+#: wp-admin/user-edit.php:543
+msgid "Generate Password"
+msgstr "கடவுச்சொல் உருவாக்கு"
+
+#: wp-admin/user-edit.php:537
+msgid "Account Management"
+msgstr "கணக்கு மேலாண்மை"
+
+#: wp-admin/user-edit.php:580 wp-admin/user-edit.php:590
+#: wp-admin/user-edit.php:600
+msgid "Sessions"
+msgstr "அமர்வுகள்"
+
+#. translators: The non-breaking space prevents 1Password from thinking the
+#. text "log in" should trigger a password save prompt.
+#: wp-admin/install.php:153
+msgid "You will need this password to log&nbsp;in. Please store it in a secure location."
+msgstr "நீங்கள் உள்நுழைய இக்கடவுச்சொல் தேவைப்படும். ஒரு பாதுகாப்பான இடத்தில் சேமித்து வைக்கவும்."
+
+#: wp-admin/includes/class-wp-list-table.php:672
+msgid "No approved comments"
+msgstr "அங்கீகரிக்கப்பட்ட கருத்துகள் இல்லை"
+
+#: wp-admin/includes/class-wp-list-table.php:660
+#: wp-admin/includes/class-wp-list-table.php:672
+#: wp-admin/includes/class-wp-list-table.php:685
+msgid "No comments"
+msgstr "கருத்துகள் இல்லை"
+
+#: wp-admin/includes/class-wp-list-table.php:655
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] "%s கருத்து காத்திருக்கின்றது"
+msgstr[1] "%s கருத்துகள் காத்திருக்கின்றன"
+
+#: wp-admin/includes/class-wp-list-table.php:654
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] "%s அங்கீகரிக்கப்பட்ட கருத்து"
+msgstr[1] "%s அங்கீகரிக்கப்பட்ட கருத்துகள்"
+
+#: wp-admin/includes/class-wp-list-table.php:653
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s கருத்து"
+msgstr[1] "%s கருத்துக்கள்"
+
+#. translators: %s: plugin name
+#: wp-admin/includes/class-wp-plugins-list-table.php:642
+msgid "Edit %s"
+msgstr "திருத்து %s"
+
+#: wp-admin/install.php:167 wp-admin/user-edit.php:567
+#: wp-admin/user-new.php:458
+msgid "Confirm Password"
+msgstr "கடவுச்சொல்லை உறுதிப்படுத்து"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:616
+#: wp-admin/includes/class-wp-list-table.php:523
+#: wp-admin/includes/class-wp-list-table.php:1324
+#: wp-admin/includes/update.php:687
+msgid "Show more details"
+msgstr "மேலும் விவரங்கள் காட்டு "
+
+#: wp-admin/includes/class-wp-users-list-table.php:485
+msgid "%s post by this author"
+msgid_plural "%s posts by this author"
+msgstr[0] "இந்தஆசிரியரின் %s பதிவு"
+msgstr[1] "இந்தஆசிரியரின் %s பதிவுகள்"
+
+#: wp-admin/includes/class-wp-list-table.php:841
+msgid "Last page"
+msgstr "கடைசி பக்கம்"
+
+#: wp-admin/includes/class-wp-press-this.php:1524
+msgid "More actions"
+msgstr " மேலும் செயல்கள்"
+
+#: wp-admin/includes/class-wp-press-this.php:241
+msgid "This category already exists."
+msgstr "இந்த பகுப்பு ஏற்கனவே உள்ளது."
+
+#: wp-admin/edit-form-comment.php:104 wp-admin/includes/meta-boxes.php:214
+msgid "Date and time"
+msgstr "தேதி மற்றும் நேரம்"
+
+#: wp-admin/includes/class-wp-list-table.php:798
+msgid "First page"
+msgstr "முதல் பக்கம்"
+
+#: wp-admin/edit-form-comment.php:84
+msgid "Comment status"
+msgstr "கருத்து நிலவரம்"
+
+#. translators: %s: post link
+#: wp-admin/edit-form-comment.php:122
+msgid "In response to: %s"
+msgstr "%s: இதற்கு மறுமொழியாக"
+
+#. translators: %s: comment link
+#: wp-admin/edit-form-comment.php:137
+msgid "In reply to: %s"
+msgstr "%s: இதற்கு மறுமொழியாக"
+
+#: wp-admin/revision.php:120
+msgid "<a href=\"https://codex.wordpress.org/Revision_Management\">Revisions Management</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Revision_Management\" target=\"_blank\">திருத்தப்பதிவுகள் மேலாண்மை</a>"
+
+#: wp-admin/includes/dashboard.php:1501
+msgid "https://codex.wordpress.org/First_Steps_With_WordPress"
+msgstr "https://codex.wordpress.org/First_Steps_With_WordPress"
+
+#: wp-admin/edit-tags.php:268
+msgid "<a href=\"https://codex.wordpress.org/Posts_Tags_Screen\">Documentation on Tags</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Posts_Tags_Screen\" target=\"_blank\">குறிச்சொற்கள் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/options-writing.php:45
+msgid "<a href=\"https://codex.wordpress.org/Settings_Writing_Screen\">Documentation on Writing Settings</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Settings_Writing_Screen\">எழுதுதலின் அமைப்புகள் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/edit-form-advanced.php:397
+msgid "<a href=\"https://codex.wordpress.org/Pages_Add_New_Screen\">Documentation on Adding New Pages</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Pages_Add_New_Screen\" target=\"_blank\">புதிய பக்கங்கள் சேர்த்தல் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/edit.php:249
+msgid "<a href=\"https://codex.wordpress.org/Pages_Screen\">Documentation on Managing Pages</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Pages_Screen\" target=\"_blank\">பக்கங்கள் மேலாண்மை குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/nav-menus.php:571
+msgid "<a href=\"https://codex.wordpress.org/Appearance_Menus_Screen\">Documentation on Menus</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Appearance_Menus_Screen\" target=\"_blank\">பட்டிகள் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/import.php:29
+msgid "<a href=\"https://codex.wordpress.org/Tools_Import_Screen\">Documentation on Import</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Tools_Import_Screen\" target=\"_blank\">இறக்குமதி குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/custom-background.php:100
+msgid "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\">Documentation on Custom Background</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\" target=\"_blank\">விருப்பப் பின்னணி குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/index.php:97
+msgid "<a href=\"https://codex.wordpress.org/Dashboard_Screen\">Documentation on Dashboard</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Dashboard_Screen\" target=\"_blank\">கட்டுப்பாட்டு மையம் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/edit-tags.php:264
+msgid "<a href=\"https://codex.wordpress.org/Posts_Categories_Screen\">Documentation on Categories</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Posts_Categories_Screen\" target=\"_blank\">பகுப்புகள் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/user-new.php:213
+msgid "<a href=\"https://codex.wordpress.org/Users_Add_New_Screen\">Documentation on Adding New Users</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Users_Add_New_Screen\" target=\"_blank\">புதிய பயனர்கள் சேர்த்தல் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/comment.php:51 wp-admin/edit-comments.php:181
+msgid "<a href=\"https://codex.wordpress.org/Administration_Screens#Comments\">Documentation on Comments</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Administration_Screens#Comments\" target=\"_blank\">கருத்துகளைப் பற்றிய ஆவணங்கள்</a>"
+
+#: wp-admin/edit-form-advanced.php:382
+msgid "<a href=\"https://codex.wordpress.org/Posts_Add_New_Screen\">Documentation on Writing and Editing Posts</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Posts_Add_New_Screen\" target=\"_blank\">பதிவுகளை எழுதுதல் மற்றும் திருத்துதல் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/update-core.php:575
+msgid "<a href=\"https://codex.wordpress.org/Dashboard_Updates_Screen\">Documentation on Updating WordPress</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Dashboard_Updates_Screen\" target=\"_blank\">வர்ட்ப்ரஸ் புதுப்பித்தல் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/options-media.php:34
+msgid "<a href=\"https://codex.wordpress.org/Settings_Media_Screen\">Documentation on Media Settings</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Settings_Media_Screen\" target=\"_blank\">ஊடக அமைப்புகள் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/options-general.php:45
+msgid "<a href=\"https://codex.wordpress.org/Settings_General_Screen\">Documentation on General Settings</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Settings_General_Screen\" target=\"_blank\">பொது அமைப்புகள் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/export.php:54
+msgid "<a href=\"https://codex.wordpress.org/Tools_Export_Screen\">Documentation on Export</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Tools_Export_Screen\" target=\"_blank\">ஏற்றுமதி குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/link-manager.php:66
+msgid "<a href=\"https://codex.wordpress.org/Links_Screen\">Documentation on Managing Links</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Links_Screen\" target=\"_blank\">தொடுப்புகள் நிர்வாகம் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/custom-header.php:127
+msgid "<a href=\"https://codex.wordpress.org/Appearance_Header_Screen\">Documentation on Custom Header</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Appearance_Header_Screen\" target=\"_blank\">விருப்பத் தலைப்பகுதி குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/tools.php:28
+msgid "<a href=\"https://codex.wordpress.org/Tools_Screen\">Documentation on Tools</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Tools_Screen\" target=\"_blank\">கருவிகள் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/edit-form-advanced.php:398
+msgid "<a href=\"https://codex.wordpress.org/Pages_Screen#Editing_Individual_Pages\">Documentation on Editing Pages</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Pages_Screen#Editing_Individual_Pages\" target=\"_blank\">பக்கங்கள் திருத்துதல் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/options-permalink.php:45
+msgid "<a href=\"https://codex.wordpress.org/Using_Permalinks\">Documentation on Using Permalinks</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Using_Permalinks\" target=\"_blank\"> நிரந்தர தொடுப்புகள் உபயோகம் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/edit-comments.php:183
+msgid "<a href=\"https://codex.wordpress.org/Keyboard_Shortcuts\">Documentation on Keyboard Shortcuts</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Keyboard_Shortcuts\" target=\"_blank\">விசைப்பலகை குறுக்குவழிகள் குறித்த ஆவணங்கள் </a>"
+
+#: wp-admin/my-sites.php:47
+msgid "<a href=\"https://codex.wordpress.org/Dashboard_My_Sites_Screen\">Documentation on My Sites</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Dashboard_My_Sites_Screen\" target=\"_blank\">என் தளங்கள் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/user-edit.php:261
+msgid "<a href=\"https://codex.wordpress.org/Keyboard_Shortcuts\" target=\"_blank\">More information</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Keyboard_Shortcuts\" target=\"_blank\">மேலும் விவரங்கள்</a>"
+
+#: wp-admin/edit-comments.php:182
+msgid "<a href=\"https://codex.wordpress.org/Comment_Spam\">Documentation on Comment Spam</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Comment_Spam\" target=\"_blank\">பொருத்தமற்ற கருத்துகள் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/options-general.php:298
+msgid "<a href=\"https://codex.wordpress.org/Formatting_Date_and_Time\">Documentation on date and time formatting</a>."
+msgstr "<a href=\"https://codex.wordpress.org/Formatting_Date_and_Time\">நாள் மற்றும் நேர வடிவமைப்பு குறித்த ஆவணங்கள்</a>."
+
+#: wp-admin/theme-install.php:114
+msgid "<a href=\"https://codex.wordpress.org/Using_Themes#Adding_New_Themes\">Documentation on Adding New Themes</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Using_Themes#Adding_New_Themes\" target=\"_blank\">புதிய வார்ப்புருகள் சேர்த்தல் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/theme-editor.php:39
+msgid "<a href=\"https://codex.wordpress.org/Theme_Development\">Documentation on Theme Development</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Theme_Development\" target=\"_blank\">வார்ப்புரு உருவாக்கம் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/theme-editor.php:40 wp-admin/themes.php:118
+msgid "<a href=\"https://codex.wordpress.org/Using_Themes\">Documentation on Using Themes</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Using_Themes\" target=\"_blank\">வார்ப்புருகள் உபயோகம் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/theme-editor.php:41
+msgid "<a href=\"https://codex.wordpress.org/Editing_Files\">Documentation on Editing Files</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Editing_Files\" target=\"_blank\">கோப்புகள் திருத்தம் குறித்த ஆவணங்கள்</a>"
+
+#: wp-admin/theme-editor.php:42
+msgid "<a href=\"https://codex.wordpress.org/Template_Tags\">Documentation on Template Tags</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Template_Tags\" target=\"_blank\">மாதிரி படிவ குறிச்சொற்கள் குறித்த ஆவணங்கள்</a>"
+
+#. translators: 1: WordPress version number, 2: Minimum required MySQL version
+#. number, 3: Current MySQL version number
+#: wp-admin/update-core.php:78 wp-admin/upgrade.php:85
+msgid "You cannot update because <a href=\"https://codex.wordpress.org/Version_%1$s\">WordPress %1$s</a> requires MySQL version %2$s or higher. You are running version %3$s."
+msgstr "நீங்கள் மை-எஸ்-க்யூ-எல் பதிப்பு %3$s உபயோகிக்கிறீர்கள். <a href=\"https://codex.wordpress.org/Version_%1$s\">வர்ட்ப்ரஸ் %1$s</a> -க்கு மை-எஸ்-க்யூ-எல் பதிப்பு %2$s அல்லது மேலே தேவை என்பதால் உங்களால் புதுப்பிக்க முடியாது. "
+
+#: wp-admin/includes/meta-boxes.php:622 wp-admin/includes/meta-boxes.php:676
+msgid "https://codex.wordpress.org/Introduction_to_Blogging#Managing_Comments"
+msgstr "https://codex.wordpress.org/Introduction_to_Blogging#Managing_Comments"
+
+#: wp-admin/includes/file.php:1207
+msgid "example: www.wordpress.org"
+msgstr "உதாரணம்: www.wordpress.org"
+
+#: wp-admin/theme-install.php:56 wp-admin/themes.php:141
+msgid "Number of Themes found: %d"
+msgstr "%d வார்ப்புருக்கள் உள்ளன"
+
+#: wp-admin/options-general.php:259 wp-admin/options-general.php:295
+msgid "example:"
+msgstr "உதாரணம்:"
+
+#: wp-admin/options-general.php:293
+msgid "Custom time format:"
+msgstr "தனிப்பயன் நேர வடிவம்:"
+
+#: wp-admin/options-general.php:292
+msgid "enter a custom time format in the following field"
+msgstr "கீழ்க்கண்ட புலனில் ஒரு தனிப்பயன் நேர வடிவத்தை உள்ளிடவும் "
+
+#: wp-admin/options-general.php:257
+msgid "Custom date format:"
+msgstr "தனிப்பயன் தேதி வடிவம்:"
+
+#: wp-admin/options-general.php:256
+msgid "enter a custom date format in the following field"
+msgstr "கீழ்க்கண்ட புலனில் ஒரு தனிப்பயன் தேதி வடிவத்தை உள்ளிடவும் "
+
+#: wp-admin/includes/class-plugin-upgrader.php:58
+msgid "Plugins updated successfully."
+msgstr "செருகிகள் வெற்றிகரமாகப் புதுப்பிக்கப்பட்டன."
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:570
+msgid "%s Active Installs"
+msgstr "%s செயலில் உள்ள நிறுவல்கள்"
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:564
+#: wp-admin/includes/plugin-install.php:591
+msgctxt "Active plugin installs"
+msgid "1+ Million"
+msgstr "1+ மில்லியன்"
+
+#: wp-admin/includes/class-wp-media-list-table.php:502
+msgid "Detach"
+msgstr "கழற்று"
+
+#: wp-admin/menu-header.php:246
+msgid "Main menu"
+msgstr "முக்கிய பட்டி"
+
+#: wp-admin/users.php:442
+msgid "%s user deleted."
+msgid_plural "%s users deleted."
+msgstr[0] "%s பயனர் நீக்கப்பட்டார்"
+msgstr[1] "%s பயனர்கள்  நீக்கப்பட்டனர்"
+
+#: wp-admin/users.php:242
+msgid "You have specified these users for deletion:"
+msgstr "நீங்கள் இப்பயனர்களை நீக்குமாறு குறிப்பிட்டுள்ளீர்கள்:"
+
+#: wp-admin/plugins.php:294
+msgid "Delete Plugins"
+msgstr "செருகுகளை நீக்கு"
+
+#: wp-admin/plugins.php:298
+msgid "You are about to remove the following plugins:"
+msgstr "நீங்கள் கீழ்க்கண்ட செருகுகளை நீக்க உள்ளீர்கள்:"
+
+#: wp-admin/includes/ajax-actions.php:433
+#: wp-admin/includes/class-wp-list-table.php:762
+#: wp-admin/includes/class-wp-list-table.php:1349
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s உருப்படி"
+msgstr[1] "%s உருப்படிகள்"
+
+#: wp-admin/edit.php:282
+msgid "1 page not updated, somebody is editing it."
+msgstr "யாரோ திருத்திக்கொண்டிருப்பதால் 1 பக்கம் புதுப்பிக்கப்படவில்லை."
+
+#: wp-admin/plugins.php:296
+msgid "These plugins may be active on other sites in the network."
+msgstr "இந்த செருகிகள் இவ்வலையமைப்பில் வேறு தளங்களில் செயலில் இருக்கலாம்."
+
+#: wp-admin/edit.php:274
+msgid "1 post not updated, somebody is editing it."
+msgstr "யாரோ திருத்திக் கொண்டிருப்பதால் 1 பதிவு புதுப்பிக்கப்படவில்லை."
+
+#: wp-admin/includes/class-wp-press-this.php:1363
+msgid "Hide post options"
+msgstr "பதிவு விருப்பங்களை மறை"
+
+#. translators: date and time format for exact current time, mainly about
+#. timezones, see https://secure.php.net/date
+#: wp-admin/options-general.php:21
+msgctxt "timezone date format"
+msgid "Y-m-d H:i:s"
+msgstr "Y-m-d H:i:s"
+
+#: wp-admin/update-core.php:421
+msgid "New translations are available."
+msgstr "புது மொழிபெயர்ப்புகள் உள்ளன"
+
+#: wp-admin/includes/template.php:1717
+msgid "Front Page"
+msgstr "முன் பக்கம்"
+
+#: wp-admin/includes/file.php:31 wp-admin/includes/template.php:1721
+msgid "Posts Page"
+msgstr "பதிவுகளின் பக்கம்"
+
+#: wp-admin/includes/template.php:2126
+msgid "You are currently editing the page that shows your latest posts."
+msgstr "நீங்கள் தற்சமயம் உங்கள் பதிவுகளைக் காட்டும் பக்கத்தைத் திருத்திக் கொண்டிருக்கிறீர்கள் "
+
+#: wp-admin/includes/class-wp-screen.php:1140
+msgid "Number of items per page:"
+msgstr "ஒரு பக்கத்தில் உள்ள உருப்படிகளின் எண்ணிக்கை"
+
+#: wp-admin/theme-install.php:319
+msgid "This theme has not been rated yet."
+msgstr "இந்த வார்ப்புரு இன்னும் மதிப்பிடப்படவில்லை."
+
+#: wp-admin/includes/revision.php:208 wp-admin/includes/revision.php:250
+msgctxt "revision date short format"
+msgid "j M @ H:i"
+msgstr "j M @ H:i"
+
+#: wp-admin/includes/class-wp-press-this.php:1406
+#: wp-admin/includes/class-wp-press-this.php:1407
+msgid "Post title"
+msgstr "பதிவின் தலைப்பு"
+
+#: wp-admin/includes/class-wp-press-this.php:908
+msgid "Search categories by name"
+msgstr "பகுப்புகளை பெயர் கொண்டு தேடு"
+
+#: wp-admin/includes/class-wp-press-this.php:1162
+msgctxt "Used in Press This to indicate where the content comes from."
+msgid "Source:"
+msgstr "மூலம்:"
+
+#: wp-admin/includes/class-wp-press-this.php:1361
+msgid "Show post options"
+msgstr "பதிவு விருப்பங்களைக் காட்டு"
+
+#: wp-admin/includes/class-wp-press-this.php:106
+msgid "Missing post ID."
+msgstr "பதிவு ஐடி காணவில்லை."
+
+#: wp-admin/includes/ms.php:522
+msgid "Size in megabytes"
+msgstr " மெகாபைட்டுகளில் அளவு"
+
+#: wp-admin/includes/ms.php:519
+msgid "Site Upload Space Quota"
+msgstr "தள பதிவேற்ற இட ஒதுக்கீடு"
+
+#: wp-admin/includes/class-wp-press-this.php:1371
+msgid "Scan"
+msgstr "கண்ணோட்டம்"
+
+#: wp-admin/includes/class-wp-press-this.php:1478
+#: wp-admin/includes/class-wp-press-this.php:1489
+#: wp-admin/includes/class-wp-press-this.php:1500
+msgid "Back to post options"
+msgstr "பதிவு விருப்பங்களுக்கு மீண்டும் செல்"
+
+#: wp-admin/includes/class-wp-press-this.php:1411
+msgid "Suggested media"
+msgstr "பரிந்துரைக்கப்பட்ட ஊடகங்கள்"
+
+#: wp-admin/includes/class-wp-press-this.php:1370
+msgid "Enter a URL to scan"
+msgstr "கண்ணோட்டமிட ஒரு உரலியை உள்ளிடவும்"
+
+#: wp-admin/includes/class-wp-press-this.php:1369
+msgid "Scan site for content"
+msgstr "உள்ளடக்கத்திற்காக தளத்தை கண்ணோட்டமிடு"
+
+#: wp-admin/includes/class-wp-press-this.php:910
+msgid "Search categories"
+msgstr "பகுப்புகளில் தேடு "
+
+#. translators: Publish box date format, see https://secure.php.net/date
+#: wp-admin/edit-form-advanced.php:133 wp-admin/edit-form-comment.php:93
+#: wp-admin/includes/meta-boxes.php:175 wp-admin/includes/meta-boxes.php:308
+#: wp-admin/includes/revision.php:207 wp-admin/includes/revision.php:249
+msgid "M j, Y @ H:i"
+msgstr "M j, Y @ H:i"
+
+#: wp-admin/includes/class-wp-posts-list-table.php:981
+msgid "Y/m/d g:i:s a"
+msgstr "Y/m/d g:i:s a"
+
+#: wp-admin/comment.php:195
+msgid "Submitted on"
+msgstr "சமர்ப்பித்த நாள்"
+
+#. translators: column name or table row header
+#: wp-admin/comment.php:169
+#: wp-admin/includes/class-wp-comments-list-table.php:402
+msgid "In Response To"
+msgstr "அதற்கு மறுமொழியாக"
+
+#: wp-admin/options-discussion.php:224
+msgid "Mystery Person"
+msgstr "மர்மமான மனிதர்"
+
+#: wp-admin/includes/dashboard.php:1121 wp-admin/index.php:76
+#: wp-admin/index.php:82
+msgid "https://planet.wordpress.org/"
+msgstr "https://planet.wordpress.org/"
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:578
+msgid "Untested with your version of WordPress"
+msgstr "உங்கள் வேர்ட்பிரஸ் பதிப்பில் சோதிக்கவில்லை"
+
+#: wp-admin/includes/dashboard.php:1130
+msgid "https://planet.wordpress.org/feed/"
+msgstr "https://planet.wordpress.org/feed/"
+
+#: wp-admin/includes/class-wp-links-list-table.php:113
+#: wp-admin/includes/class-wp-posts-list-table.php:449
+msgid "Filter by category"
+msgstr "வகைவாரியாக வடிகட்டுக"
+
+#: wp-admin/includes/ajax-actions.php:3112
+msgid "You are now logged out everywhere else."
+msgstr "நீங்கள் இப்போது மற்ற எல்லா இடங்களிலிருந்தும் வெளியேற்றப்பட்டுவிட்டீர்கள்."
+
+#: wp-admin/includes/class-wp-comments-list-table.php:327
+msgid "Filter by comment type"
+msgstr "கருத்து வகையின் படி தேர்ந்தெடு"
+
+#. translators: 1: User's display name.
+#: wp-admin/includes/ajax-actions.php:3116
+msgid "%s has been logged out."
+msgstr "%s வெளியேற்றப்பட்டார்."
+
+#: wp-admin/edit-tag-form.php:149 wp-admin/edit-tags.php:399
+msgctxt "term parent"
+msgid "Parent"
+msgstr "மூலம்"
+
+#: wp-admin/includes/ajax-actions.php:3011
+msgid "This preview is unavailable in the editor."
+msgstr "திருத்தியில் இந்த முன்னோட்டம் கிடைக்கப்பெறவில்லை."
+
+#: wp-admin/includes/class-wp-users-list-table.php:193
+msgctxt "users"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "அனைத்து <span class=\"count\">(%s)</span>"
+msgstr[1] "அனைத்து <span class=\"count\">(%s)</span>கள்"
+
+#: wp-admin/edit-link-form.php:94
+#: wp-admin/includes/class-wp-links-list-table.php:128
+msgctxt "link name"
+msgid "Name"
+msgstr "பெயர்"
+
+#: wp-admin/menu.php:192
+msgctxt "theme editor"
+msgid "Editor"
+msgstr "திருத்தி"
+
+#: wp-admin/includes/class-wp-screen.php:1047
+msgctxt "Welcome panel"
+msgid "Welcome"
+msgstr "நல்வரவு"
+
+#: wp-admin/upload.php:50
+msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first."
+msgstr "நீங்கள் பதிவேற்றிய அனைத்து கோப்புகளும் ஊடக நூலகத்தில் பட்டியலிடப்பட்டுள்ளன. மிக சமீபத்திய பதிவேற்றங்கள் முதலில்  பட்டியலிடப்பட்டுள்ளன."
+
+#: wp-admin/plugin-install.php:48
+msgid "Add Plugins"
+msgstr "செருகிகள் சேர்"
+
+#: wp-admin/edit-tags.php:535 wp-admin/options-general.php:352
+msgid "Note:"
+msgstr "குறிப்பு:"
+
+#: wp-admin/includes/translation-install.php:23
+msgid "Invalid translation type."
+msgstr "தவறான மொழிபெயர்ப்பு வகை."
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:580
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr "உங்கள் வர்ட்ப்ரஸ் பதிப்புக்குப் <strong>பொருந்தாதது</strong>"
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:582
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr "உங்கள் வர்ட்ப்ரஸ் பதிப்புக்குப் <strong>பொருத்தமானது</strong>"
+
+#: wp-admin/includes/plugin-install.php:627
+msgid "%d star"
+msgid_plural "%d stars"
+msgstr[0] "%d நட்சத்திரம்"
+msgstr[1] "%d நட்சத்திரங்கள்"
+
+#: wp-admin/update-core.php:196
+msgid "BETA TESTERS:"
+msgstr "பீட்டா சோதனையாளர்கள்"
+
+#: wp-admin/theme-install.php:293
+msgctxt "Button label for a theme"
+msgid "Next"
+msgstr "அடுத்த"
+
+#: wp-admin/theme-install.php:292
+msgctxt "Button label for a theme"
+msgid "Previous"
+msgstr "முந்தைய"
+
+#: wp-admin/includes/template.php:727
+msgid "Minute"
+msgstr "நிமிடம்"
+
+#: wp-admin/includes/template.php:726
+msgid "Hour"
+msgstr "மணி நேரம்"
+
+#: wp-admin/includes/template.php:724
+msgid "Day"
+msgstr "நாள்"
+
+#: wp-admin/includes/template.php:714
+msgid "Month"
+msgstr "மாதம்"
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:404
+msgctxt "Plugin installer group title"
+msgid "Tools"
+msgstr "கருவிகள்"
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:91
+msgctxt "Plugin Installer"
+msgid "Beta Testing"
+msgstr "பீட்டா சோதனை"
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:788
+msgid "View details"
+msgstr "விவரங்களை பார்"
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:507
+msgid "More Details"
+msgstr "மேலதிக விவரங்களுக்கு"
+
+#: wp-admin/includes/plugin-install.php:637
+msgid "Contributors"
+msgstr "பங்களிப்பாளர்கள்"
+
+#: wp-admin/includes/plugin-install.php:494
+msgctxt "Plugin installer section title"
+msgid "Reviews"
+msgstr "ஆய்வுகள்"
+
+#: wp-admin/includes/ajax-actions.php:2981
+msgid "%s failed to embed."
+msgstr "%s உட்பொதியத் தவறியது"
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:402
+msgctxt "Plugin installer group title"
+msgid "Performance"
+msgstr "செயல்திறன்"
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:403
+msgctxt "Plugin installer group title"
+msgid "Social"
+msgstr "சமூக"
+
+#: wp-admin/includes/class-wp-terms-list-table.php:188
+msgctxt "Number/count of items"
+msgid "Count"
+msgstr "எண்ணிக்கை "
+
+#: wp-admin/includes/class-wp-theme-install-list-table.php:67
+msgctxt "themes"
+msgid "Recently Updated"
+msgstr "சமீபத்தில் புதுப்பிக்கப்பட்டவை"
+
+#: wp-admin/includes/image-edit.php:105
+msgid "To crop the image, click on it and drag to make your selection."
+msgstr "படத்தை நறுக்க, அதன் மேலே சொடுக்கி இழுத்து தேர்வு செய்யவும்"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:329
+msgid "All comment types"
+msgstr "கருத்து வகைகள் அனைத்தும்"
+
+#: wp-admin/theme-install.php:156
+msgctxt "themes"
+msgid "Popular"
+msgstr "பிரபலமான"
+
+#: wp-admin/includes/class-wp-theme-install-list-table.php:66
+#: wp-admin/theme-install.php:157
+msgctxt "themes"
+msgid "Latest"
+msgstr "சமீபத்திய"
+
+#: wp-admin/maint/repair.php:147
+msgid "https://wordpress.org/support/forum/how-to-and-troubleshooting"
+msgstr "https://wordpress.org/support/forum/how-to-and-troubleshooting"
+
+#: wp-admin/theme-install.php:23
+msgid "Add Themes"
+msgstr "வார்ப்புருகள் சேர் "
+
+#: wp-admin/theme-install.php:47
+msgid "Search Themes"
+msgstr "வார்ப்புருக்களில் தேடு"
+
+#: wp-admin/theme-install.php:48
+msgid "Search themes..."
+msgstr "வார்ப்புருக்களில் தேடு"
+
+#: wp-admin/theme-install.php:250
+msgctxt "theme"
+msgid "Details &amp; Preview"
+msgstr "விவரங்கள் &amp; முன்னோட்டம்"
+
+#: wp-admin/includes/ms.php:990 wp-admin/users.php:273
+msgid "Delete all content."
+msgstr "உள்ளடக்கம் முழுவதையும் நீக்கு."
+
+#: wp-admin/includes/ajax-actions.php:1773
+msgid "Type"
+msgstr "வகை"
+
+#: wp-admin/admin-footer.php:34
+msgid "Thank you for creating with <a href=\"%s\">WordPress</a>."
+msgstr "<a href=\"%s\">வர்ட்ப்ரஸ்</a> கொண்டு உருவாக்கியமைக்கு நன்றி."
+
+#. translators: 1: number of megabytes, 2: percentage
+#: wp-admin/includes/dashboard.php:1315
+msgid "%1$s MB (%2$s%%) Space Used"
+msgstr "%1$s எம் பி (%2$s%%) இடம் உபயோகத்தில் உள்ளது "
+
+#. translators: number of megabytes
+#: wp-admin/includes/dashboard.php:1303
+msgid "%s MB Space Allowed"
+msgstr "%s எம் பி இடம் அனுமதிக்கப்பட்டுள்ளது"
+
+#. translators: date and time format for recent posts on the dashboard, see
+#. https://secure.php.net/date
+#: wp-admin/includes/dashboard.php:853
+msgid "M jS"
+msgstr "M jS"
+
+#. translators: 1: The rating, 2: The number of ratings
+#: wp-admin/includes/template.php:2098
+msgid "%1$s rating based on %2$s rating"
+msgid_plural "%1$s rating based on %2$s ratings"
+msgstr[0] "%2$s மதிப்பீட்டைச் சார்ந்து %1$s மதிப்பீடு"
+msgstr[1] "%2$s மதிப்பீட்டைச்/மதிப்பீடுகளைச் சார்ந்து %1$s மதிப்பீடுகள்"
+
+#. translators: 1: The rating
+#: wp-admin/includes/template.php:2102
+msgid "%s rating"
+msgstr "%s மதிப்பீடு"
+
+#: wp-admin/includes/class-wp-automatic-updater.php:809
+msgid "The following translations were successfully updated:"
+msgstr "கீழ்க்கண்ட மொழிபெயர்ப்புகள் வெற்றிகரமாக புதுப்பிக்கப்பட்டன."
+
+#: wp-admin/includes/dashboard.php:46
+msgid "Activity"
+msgstr "நடவடிக்கை"
+
+#: wp-admin/includes/class-wp-automatic-updater.php:853
+msgid "[%s] Background updates have finished"
+msgstr "[%s] பின்னணி மேம்பாடுகள் முடிந்துவிட்டன."
+
+#: wp-admin/includes/dashboard.php:51
+msgid "Quick Draft"
+msgstr "விரைவான வரைவு"
+
+#: wp-admin/includes/dashboard.php:568
+msgctxt "drafts"
+msgid "View all"
+msgstr "அனைத்தையும் பார்"
+
+#. translators: 1: Site name, 2: WordPress version number.
+#: wp-admin/includes/class-wp-automatic-updater.php:621
+msgid "[%1$s] WordPress %2$s is available. Please update!"
+msgstr "[%1$s] வர்ட்ப்ரஸ் %2$s தயாராக உள்ளது. புதுப்பிக்கவும்!"
+
+#: wp-admin/update-core.php:411 wp-admin/update-core.php:419
+msgid "Translations"
+msgstr "மொழிபெயர்ப்புகள்"
+
+#: wp-admin/includes/class-wp-automatic-updater.php:712
+msgid "The WordPress Team"
+msgstr "வர்ட்ப்ரஸ் குழு"
+
+#: wp-admin/includes/class-wp-automatic-updater.php:731
+msgid "Error code: %s"
+msgstr "பிழை குறியீடு: %s"
+
+#: wp-admin/update-core.php:412
+msgid "Your translations are all up to date."
+msgstr "உங்கள் மொழிபெயர்ப்புகள் அனைத்தும் இன்றுவரை புதுப்பிக்கப்பட்டுவிட்டன."
+
+#: wp-admin/includes/post.php:1583
+msgid "This content is currently locked."
+msgstr "இந்த உள்ளடக்கம் தற்போது பூட்டிவைக்கப்பட்டுள்ளது."
+
+#: wp-admin/includes/class-language-pack-upgrader.php:119
+msgid "Downloading translation from <span class=\"code\">%s</span>&#8230;"
+msgstr "மொழிபெயர்ப்பு <span class=\"code\">%s</span>-இலிருந்து பதிவிறக்கப்படுகிறது &#8230; "
+
+#: wp-admin/includes/class-language-pack-upgrader.php:122
+msgid "Translation updated successfully."
+msgstr "மொழிபெயர்ப்பு வெற்றிகரமாக புதுப்பிக்கப்பட்டது."
+
+#: wp-admin/includes/class-language-pack-upgrader.php:117
+msgid "The translations are up to date."
+msgstr "மொழிபெயர்ப்பு இன்றுவரை புதுப்பிக்கப்பட்டுவிட்டது."
+
+#: wp-admin/includes/class-wp-automatic-updater.php:309
+msgid "Updating theme: %s"
+msgstr "வார்ப்புரு புதுப்பிக்கப்படுகிறது: %s"
+
+#: wp-admin/includes/class-wp-automatic-updater.php:315
+msgid "Updating plugin: %s"
+msgstr "செருகி புதுப்பிக்கப்படுகிறது: %s"
+
+#: wp-admin/includes/class-wp-automatic-updater.php:302
+msgid "Updating to WordPress %s"
+msgstr "வர்ட்ப்ரஸ் %s -க்கு புதுப்பிக்கப்படுகிறது"
+
+#: wp-admin/install.php:354
+msgid "The username you provided has invalid characters."
+msgstr "நீங்கள் கொடுத்த பயனர்பெயரில் தவறான எழுத்துகள் உள்ளன."
+
+#: wp-admin/includes/file.php:1219
+msgid "This password will not be stored on the server."
+msgstr "இந்த கடவுச்சொல் வழங்கியில் சேமிக்கப்படமாட்டது."
+
+#: wp-admin/includes/update-core.php:879
+msgid "Preparing to install the latest version&#8230;"
+msgstr "சமீபத்திய பதிப்பு நிறுவத் தயாராகிறது&#8230;"
+
+#: wp-admin/includes/update-core.php:941
+msgid "Copying the required files&#8230;"
+msgstr "தேவையான கோப்புகள் நகலெடுக்கப்படுகின்றன&#8230;"
+
+#: wp-admin/install.php:350
+msgid "Please provide a valid username."
+msgstr "ஒரு செல்லுபடியாகும் பயனர்பெயரைக் கொடுக்கவும்."
+
+#: wp-admin/install.php:359
+msgid "Your passwords do not match. Please try again."
+msgstr "உங்கள் கடவுச்சொற்கள் பொருந்தவில்லை. மீண்டும் முயற்சிக்கவும்."
+
+#: wp-admin/install.php:364
+msgid "You must provide an email address."
+msgstr "நீங்கள் ஒரு மின்னஞ்சல் முகவரி கொடுக்க வேண்டும்."
+
+#: wp-admin/includes/edit-tag-messages.php:26
+msgid "Category updated."
+msgstr "பகுப்பு புதுபிக்கப்பட்டது"
+
+#: wp-admin/includes/edit-tag-messages.php:39
+msgid "Tags deleted."
+msgstr "குறிச்சொற்கள் நீக்கப்பட்டன."
+
+#: wp-admin/edit.php:278
+msgid "%s post restored from the Trash."
+msgid_plural "%s posts restored from the Trash."
+msgstr[0] "%s பதிவு குப்பையிலிருந்து மீட்கப்பட்டது."
+msgstr[1] "%s பதிவுகள் குப்பையிலிருந்து மீட்கப்பட்டன."
+
+#: wp-admin/includes/edit-tag-messages.php:24
+msgid "Category added."
+msgstr "பகுப்பு சேர்க்கப்பட்டது."
+
+#: wp-admin/includes/edit-tag-messages.php:25
+msgid "Category deleted."
+msgstr "பகுப்பு நீக்கப்பட்டது."
+
+#: wp-admin/includes/edit-tag-messages.php:27
+msgid "Category not added."
+msgstr "பகுப்பு சேர்க்கப்படவில்லை."
+
+#: wp-admin/includes/edit-tag-messages.php:28
+msgid "Category not updated."
+msgstr "பகுப்பு புதுப்பிக்கப்படவில்லை."
+
+#: wp-admin/includes/edit-tag-messages.php:29
+msgid "Categories deleted."
+msgstr "பகுப்புகள் நீக்கப்பட்டன."
+
+#: wp-admin/includes/edit-tag-messages.php:34
+msgid "Tag added."
+msgstr "குறிச்சொல் சேர்க்கப்பட்டது. "
+
+#: wp-admin/includes/edit-tag-messages.php:35
+msgid "Tag deleted."
+msgstr "குறிச்சொல் நீக்கப்பட்டது. "
+
+#: wp-admin/includes/edit-tag-messages.php:36
+msgid "Tag updated."
+msgstr "குறிச்சொல் புதுப்பிக்கப்பட்டது."
+
+#: wp-admin/includes/edit-tag-messages.php:37
+msgid "Tag not added."
+msgstr "குறிச்சொல் சேர்க்கப்படவில்லை. "
+
+#: wp-admin/includes/edit-tag-messages.php:38
+msgid "Tag not updated."
+msgstr "குறிச்சொல் புதுப்பிக்கப்படவில்லை. "
+
+#. translators: 1: audio track title
+#: wp-admin/includes/media.php:317
+msgid "\"%s\"."
+msgstr "\"%s\"."
+
+#. translators: Post revisions heading. 1: The number of available revisions
+#: wp-admin/includes/meta-boxes.php:202
+msgid "Revisions: %s"
+msgstr "திருத்தங்கள்: %s"
+
+#. translators: 1: audio track title, 2: album title
+#: wp-admin/includes/media.php:311
+msgid "\"%1$s\" from %2$s."
+msgstr "%2$s-இலிருந்து \"%1$s\"."
+
+#: wp-admin/includes/meta-boxes.php:204
+msgctxt "revisions"
+msgid "Browse"
+msgstr "உலாவு"
+
+#: wp-admin/includes/revision.php:360
+msgid "Autosave by %s"
+msgstr "%s -ஆல் செய்யப்பட்ட தன்னியக்க சேமிப்பு"
+
+#: wp-admin/includes/revision.php:363
+msgid "Current Revision by %s"
+msgstr "%s-ஆல் செய்யப்பட்ட தற்போதைய திருத்தப்பதிப்பு"
+
+#: wp-admin/includes/revision.php:366
+msgid "Revision by %s"
+msgstr "%s--ஆல் செய்யப்பட்ட திருத்தப்பதிவு "
+
+#: wp-admin/edit-form-advanced.php:496
+msgid "<strong>Connection lost.</strong> Saving has been disabled until you&#8217;re reconnected."
+msgstr "<strong>இணைப்பு துண்டிக்கப்பட்டது.</strong> நீங்கள் மீண்டும் இணைக்கப்ப்படும்வரை சேமித்தல் செயல்படாது."
+
+#: wp-admin/user-edit.php:560
+msgid "Repeat New Password"
+msgstr "புதிய கடவுச்சொல்லை மறுபடியும் உள்ளிடவும் "
+
+#: wp-admin/install.php:158 wp-admin/user-new.php:452
+msgid "Repeat Password"
+msgstr "கடவுச்சொல்லை மறுபடியும் உள்ளிடவும் "
+
+#: wp-admin/includes/class-wp-upgrader.php:168
+msgid "The package contains no files."
+msgstr "தொகுப்பில் ஒரு கோப்பும் இல்லை."
+
+#: wp-admin/includes/class-theme-upgrader.php:70
+msgid "The theme contains no files."
+msgstr "வார்ப்புருவில் ஒரு கோப்பும் இல்லை."
+
+#: wp-admin/post.php:249
+msgid "This item has already been deleted."
+msgstr "இந்த உருப்படி ஏற்கனவே நீக்கப்பட்டது."
+
+#: wp-admin/post.php:208
+msgid "The item you are trying to move to the Trash no longer exists."
+msgstr "நீங்கள் குப்பையில் போட முயலும் உருப்படி இல்லை."
+
+#: wp-admin/post.php:231
+msgid "The item you are trying to restore from the Trash no longer exists."
+msgstr "நீங்கள் குப்பையிலிருந்து மீட்க முயலும் உருப்படி இல்லை."
+
+#: wp-admin/includes/revision.php:329
+msgctxt "Button label for a next revision"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#. translators: Audio file genre information. 1: Audio genre name
+#: wp-admin/includes/media.php:353
+msgid "Genre: %s."
+msgstr "வகையினம்: %s"
+
+#. translators: 1: audio album title, 2: artist name
+#: wp-admin/includes/media.php:324
+msgid "%1$s by %2$s."
+msgstr "%2$s-ஆல் %1$s"
+
+#: wp-admin/nav-menus.php:648
+msgctxt "menu"
+msgid "Use new menu"
+msgstr "புதிய பட்டியை உபயோகி"
+
+#. translators: Audio file track information. 1: Year of audio track release
+#: wp-admin/includes/media.php:337
+msgid "Released: %d."
+msgstr "வெளியிடப்பட்டது: %d."
+
+#: wp-admin/nav-menus.php:595
+msgid "Edit Menus"
+msgstr "பட்டிகளைத் திருத்து"
+
+#: wp-admin/includes/media.php:2947
+msgid "Audio Format:"
+msgstr "ஒலித வடிவமைப்பு:"
+
+#: wp-admin/includes/post.php:1623
+msgid "Your latest changes were saved as a revision."
+msgstr "உங்கள் சமீபத்திய மாற்றங்கள் திருத்தப்பதிப்பாக சேமிக்கப்பட்டது."
+
+#: wp-admin/nav-menus.php:523 wp-admin/themes.php:73
+msgid "From this screen you can:"
+msgstr "இத்திரையிலிருந்து நீங்கள் கீழ்க்கண்டவற்றைச் செய்யலாம்:"
+
+#: wp-admin/nav-menus.php:524
+msgid "Create, edit, and delete menus"
+msgstr "பட்டிகள் உருவாக்கு, திருத்து மற்றும் நீக்கு"
+
+#: wp-admin/nav-menus.php:540
+msgid "Menu Management"
+msgstr "பட்டிகள் மேலாண்மை"
+
+#: wp-admin/user-edit.php:666
+msgid "Denied: %s"
+msgstr "மறுக்கப்பட்டது: %s"
+
+#. translators: 1: Post creation date, 2: Post creation time
+#: wp-admin/includes/ajax-actions.php:1252
+msgid "Draft created on %1$s at %2$s"
+msgstr "%1$s அன்று %2$s-க்கு உருவாக்கப்பட்ட வரைவு"
+
+#: wp-admin/nav-menus.php:673
+msgid "Edit your menu below, or <a href=\"%s\">create a new menu</a>."
+msgstr "கீழே உங்கள் பட்டியைத் திருத்தவும் அல்லது <a href=\"%s\">புதிய பட்டி உருவாக்கவும்</a>."
+
+#: wp-admin/includes/class-wp-posts-list-table.php:910
+#: wp-admin/includes/misc.php:749
+msgid "%s is currently editing"
+msgstr "%s தற்போது திருத்திக்கொண்டிருக்கிறார்"
+
+#: wp-admin/async-upload.php:63
+msgctxt "media item"
+msgid "Edit"
+msgstr "திருத்து"
+
+#: wp-admin/custom-background.php:454 wp-admin/custom-header.php:846
+#: wp-admin/includes/ajax-actions.php:2042
+msgid "The uploaded file is not a valid image. Please try again."
+msgstr "பதிவேற்றப்பட்ட கோப்பு செல்லாத படம். மீண்டும் முயற்சிக்கவும்."
+
+#: wp-admin/includes/dashboard.php:1501
+msgid "Learn more about getting started"
+msgstr "தொடங்குவதைக் குறித்து மேலும் அறிந்து கொள்ளுங்கள்"
+
+#: wp-admin/includes/media.php:2859
+msgid "File URL:"
+msgstr "கோப்பு URL:"
+
+#. translators: 1: user id, 2: user login
+#: wp-admin/users.php:382
+msgid "ID #%1$s: %2$s <strong>The current user will not be removed.</strong>"
+msgstr "ID #%1$s: %2$s <strong>தற்போதைய பயனர் நீக்கப்பட மாட்டார்.</strong>"
+
+#: wp-admin/users.php:235
+msgid "Please select an option."
+msgstr "ஒரு விருப்பத்தை தேர்ந்தெடுக்கவும்."
+
+#: wp-admin/includes/image-edit.php:259 wp-admin/includes/image-edit.php:324
+#: wp-admin/includes/image-edit.php:466
+msgid "$image needs to be an WP_Image_Editor object"
+msgstr "$image ஒரு WP_Image_Editor பொருளாக இருக்கவேண்டும்"
+
+#. translators: Attachment information. 1: Date the attachment was uploaded
+#: wp-admin/includes/meta-boxes.php:310
+msgid "Uploaded on: <b>%1$s</b>"
+msgstr "பதிவேற்றப்பட்ட நாள்: <b>%1$s</b>"
+
+#: wp-admin/includes/update-core.php:1227 wp-admin/update-core.php:501
+msgid "Welcome to WordPress %1$s. You will be redirected to the About WordPress screen. If not, click <a href=\"%2$s\">here</a>."
+msgstr "வர்ட்ப்ரஸ் %1$s-க்கு நல்வரவு. நீங்கள் 'வர்ட்ப்ரஸ் பற்றி' திரைக்கு திருப்பப்படுவீர்கள். இல்லையெனில்,  <a href=\"%2$s\">இங்கே</a> சொடுக்கவும்."
+
+#: wp-admin/includes/dashboard.php:1477
+msgid "Write your first blog post"
+msgstr "உங்கள் முதல் வலைப்பதிவை எழுதவும்"
+
+#: wp-admin/includes/dashboard.php:341
+msgid "Search Engines Discouraged"
+msgstr "தேடுபொறிகள் ஊக்குவிக்கப்பட மாட்டாது"
+
+#: wp-admin/includes/widgets.php:225
+msgctxt "widget"
+msgid "Add"
+msgstr "சேர்"
+
+#: wp-admin/themes.php:111
+msgid "Previewing and Customizing"
+msgstr "முன்னோட்டம் மற்றும் தனிப்பயனாக்கல்"
+
+#: wp-admin/export.php:173 wp-admin/export.php:184 wp-admin/export.php:207
+#: wp-admin/export.php:226 wp-admin/export.php:249
+msgid "All"
+msgstr "அனைத்தும்"
+
+#: wp-admin/edit-form-advanced.php:635
+msgid "Word count: %s"
+msgstr "வார்த்தை எண்ணிக்கை: %s"
+
+#. translators: %s: Time since the last update
+#: wp-admin/includes/class-wp-media-list-table.php:449
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:559
+#: wp-admin/includes/class-wp-posts-list-table.php:988
+#: wp-admin/includes/plugin-install.php:575 wp-admin/includes/revision.php:209
+#: wp-admin/includes/revision.php:251
+msgid "%s ago"
+msgstr "%s-க்கு முன்"
+
+#: wp-admin/includes/plugin-install.php:283
+#: wp-admin/includes/theme-install.php:67
+msgid "Keyword"
+msgstr "குறிச்சொல்"
+
+#: wp-admin/includes/template.php:428
+msgid "Add Comment"
+msgstr "கருத்து சேர்"
+
+#. Author of the plugin/theme
+msgid "Matt Mullenweg"
+msgstr "மாட் முல்லென்வெக்"
+
+#. Author URI of the plugin/theme
+msgid "http://ma.tt/"
+msgstr "http://ma.tt/"
+
+#. translators: 1: month number (01, 02, etc.), 2: month abbreviation
+#: wp-admin/includes/template.php:720
+msgid "%1$s-%2$s"
+msgstr "%1$s-%2$s"
+
+#: wp-admin/install.php:110 wp-admin/install.php:315
+msgctxt "Howdy"
+msgid "Welcome"
+msgstr "நல்வரவு"
+
+#: wp-admin/ms-delete-site.php:89
+msgid "Remember, once deleted your site cannot be restored."
+msgstr "ஒருமுறை நீக்கிவிட்டால் உங்கள் தளத்தை மீட்க முடியாது என்பது நினைவிருக்கட்டும்."
+
+#: wp-admin/includes/ms.php:744
+msgid "English"
+msgstr "ஆங்கிலம்"
+
+#: wp-admin/includes/ms.php:406
+msgid "[%s] New Email Address"
+msgstr "[%s] புதிய மின்னஞ்சல் முகவரி"
+
+#. translators: My sites label
+#: wp-admin/includes/ms.php:836
+msgid "Primary Site"
+msgstr "முதல் தளம்"
+
+#: wp-admin/includes/ms.php:682
+msgid "Your Sites"
+msgstr "உங்கள் தளங்கள்"
+
+#: wp-admin/setup-config.php:200
+msgctxt "example password"
+msgid "password"
+msgstr "கடவுச்சொல் "
+
+#: wp-admin/setup-config.php:174
+msgid "Let&#8217;s go!"
+msgstr "போவோம்!"
+
+#: wp-admin/setup-config.php:147
+msgid "Database name"
+msgstr "தரவுத்தளப் பெயர் "
+
+#: wp-admin/setup-config.php:212
+msgid "Table Prefix"
+msgstr "அட்டவணை முன்னொட்டு"
+
+#: wp-admin/setup-config.php:195
+msgctxt "example username"
+msgid "username"
+msgstr "பயனர்பெயர்"
+
+#: wp-admin/setup-config.php:149
+msgid "Database password"
+msgstr "தளவுதர கடவுச்சொல்"
+
+#: wp-admin/includes/plugin-install.php:495
+msgctxt "Plugin installer section title"
+msgid "Other Notes"
+msgstr "மேலும் குறிப்புகள்"
+
+#: wp-admin/about.php:259
+msgid "Maintenance Release"
+msgstr "பராமரிப்பு வெளியீடு"
+
+#: wp-admin/about.php:265
+msgid "Maintenance and Security Release"
+msgstr "பராமரிப்பு மற்றும் பாதுகாப்பு வெளியீடு"
+
+#: wp-admin/edit-tags.php:256
+msgid "Adding Categories"
+msgstr "பகுப்புகள் சேர்த்தல்"
+
+#: wp-admin/plugins.php:397
+msgid "Troubleshooting"
+msgstr "பழுதுபார்த்தல்"
+
+#: wp-admin/update-core.php:569
+msgid "How to Update"
+msgstr "புதுப்பிப்பது எப்படி"
+
+#: wp-admin/themes.php:97
+msgid "Adding Themes"
+msgstr "வார்ப்புருகள் சேர்த்தல்"
+
+#: wp-admin/edit.php:208 wp-admin/upload.php:197
+msgid "Available Actions"
+msgstr "பெறக்கூடிய செயல்கள்"
+
+#: wp-admin/options-writing.php:29
+msgid "Post Via Email"
+msgstr "மின்னஞ்சல் வழியாக பதிவு செய்க"
+
+#: wp-admin/widgets.php:68
+msgid "Missing Widgets"
+msgstr "காணாத ஒட்டிகள்"
+
+#: wp-admin/credits.php:21 wp-admin/freedoms.php:20
+msgid "Welcome to WordPress %s"
+msgstr "வர்ட்ப்ரஸ் %s -க்கு நல்வரவு"
+
+#: wp-admin/credits.php:50
+msgid "WordPress is created by a worldwide team of passionate individuals."
+msgstr "வர்ட்ப்ரஸ் பேரார்வமுள்ள தனி நபர்கள் கொண்ட ஒரு சர்வதேச அணியால் உருவாக்கப்பட்டது."
+
+#: wp-admin/includes/dashboard.php:1459 wp-admin/includes/dashboard.php:1461
+msgid "Customize Your Site"
+msgstr "உங்கள் தளத்தை தனிப்பயனாக்கவும்."
+
+#: wp-admin/index.php:51
+msgid "Navigation"
+msgstr "வழிசெலுத்தல்"
+
+#. translators: %s: Plugin version
+#: wp-admin/about.php:38 wp-admin/credits.php:25 wp-admin/freedoms.php:24
+#: wp-admin/includes/ajax-actions.php:3683
+#: wp-admin/includes/ajax-actions.php:3726
+#: wp-admin/includes/class-wp-plugins-list-table.php:773
+#: wp-admin/includes/update.php:193 wp-admin/includes/update.php:218
+msgid "Version %s"
+msgstr "பதிப்பு %s"
+
+#: wp-admin/includes/class-wp-users-list-table.php:321
+#: wp-admin/user-edit.php:343 wp-admin/user-new.php:343
+#: wp-admin/user-new.php:475
+msgid "Role"
+msgstr "பங்கு"
+
+#: wp-admin/menu.php:223 wp-admin/menu.php:225 wp-admin/user-edit.php:206
+#: wp-admin/users.php:498
+msgctxt "user"
+msgid "Add New"
+msgstr "புதியதை சேர்"
+
+#: wp-admin/users.php:457
+msgid "Changed roles."
+msgstr "பங்குகள் மாற்றப்பட்டது."
+
+#: wp-admin/includes/ms.php:1020 wp-admin/users.php:295
+msgid "Confirm Deletion"
+msgstr "நீக்கத்தை உறுதி செய்"
+
+#: wp-admin/options-general.php:330
+msgid "Site Language"
+msgstr "தள மொழி"
+
+#: wp-admin/menu.php:86
+msgid "All Comments"
+msgstr "அனைத்து கருத்துகள்"
+
+#: wp-admin/credits.php:117
+msgid "Core Contributors to WordPress %s"
+msgstr "வர்ட்ப்ரஸ் %s-க்கு முக்கிய பங்களிப்பாளர்கள்"
+
+#: wp-admin/includes/class-wp-screen.php:1114 wp-admin/includes/theme.php:237
+#: wp-admin/includes/theme.php:302 wp-admin/index.php:62
+msgid "Layout"
+msgstr "அமைப்பு"
+
+#: wp-admin/includes/class-wp-list-table.php:824
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%2$s-க்குள் %1$s"
+
+#: wp-admin/options-writing.php:83
+msgid "Default Post Format"
+msgstr "இயல்புநிலை பதிவு வடிவமைப்பு"
+
+#. translators: Default page slug
+#: wp-admin/includes/upgrade.php:241
+msgid "sample-page"
+msgstr "sample-page"
+
+#: wp-admin/upgrade.php:96
+msgid "Database Update Required"
+msgstr "தரவுதளம் புதுப்பிக்கப்பட வேண்டும்"
+
+#: wp-admin/includes/class-plugin-upgrader-skin.php:28 wp-admin/update.php:54
+msgid "Update Plugin"
+msgstr "செருகியை புதுப்பி"
+
+#: wp-admin/includes/class-theme-upgrader.php:55
+msgid "Theme update failed."
+msgstr "வார்ப்புரு புதுப்பித்தல் தோல்வி."
+
+#: wp-admin/export.php:191 wp-admin/export.php:233 wp-admin/export.php:265
+msgid "Date range:"
+msgstr "தேதி பரப்பு:"
+
+#: wp-admin/export.php:166
+msgid "All content"
+msgstr "அனைத்து உள்ளடக்கம்"
+
+#: wp-admin/export.php:177 wp-admin/export.php:219
+msgid "Authors:"
+msgstr "ஆசிரியர்கள்:"
+
+#. translators: Admin screen title. 1: Admin screen name
+#: wp-admin/admin-header.php:47
+msgid "%1$s &#8212; WordPress"
+msgstr "%1$s &#8212; வர்ட்ப்ரஸ்"
+
+#. translators: Admin screen title. 1: Admin screen name, 2: Network or site
+#. name
+#: wp-admin/admin-header.php:50
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; வர்ட்ப்ரஸ்"
+
+#: wp-admin/update-core.php:592
+msgid "Please select one or more themes to update."
+msgstr "ஒன்று அல்லது அதற்கு மேற்பட்ட வார்ப்புருக்களை புதுப்பிப்பதற்குத் தேர்ந்தெடுக்கவும்."
+
+#: wp-admin/includes/class-wp-list-table.php:815
+#: wp-admin/includes/class-wp-list-table.php:818
+msgid "Current Page"
+msgstr "தற்போதைய பக்கம்"
+
+#: wp-admin/includes/dashboard.php:390
+msgid "Create a New User"
+msgstr "புதிய பயனரை உருவாக்கு"
+
+#: wp-admin/includes/dashboard.php:1088
+msgid "https://wordpress.org/news/"
+msgstr "http://ta.wordpress.org/news/"
+
+#: wp-admin/custom-header.php:823
+msgid "Crop and Publish"
+msgstr "நறுக்கி வெளியிடு"
+
+#: wp-admin/includes/file.php:1194
+msgid "FTP/SSH Username"
+msgstr "எஃப்டிபி/எஸ்எஸ்எச் பயனர்பெயர்"
+
+#: wp-admin/custom-background.php:95
+msgid "Don&#8217;t forget to click on the Save Changes button when you are finished."
+msgstr "நீங்கள் முடித்ததும் 'மாற்றங்களை சேமி' பொத்தானை சொடுக்க மறக்க வேண்டாம்."
+
+#: wp-admin/update-core.php:165
+msgid "You have the latest version of WordPress."
+msgstr "நீங்கள் மிக சமீபத்திய வேர்ட்பிரஸ் பதிப்பை உபயோகிக்கிறீர்கள்."
+
+#: wp-admin/edit-tags.php:239
+msgid "When adding a new tag on this screen, you&#8217;ll fill in the following fields:"
+msgstr "திரையில் புதிய குறிச்சொல்லை சேர்க்கும்போது, கீழ்க்கண்ட புலன்களை நிரப்ப வேண்டும்:"
+
+#: wp-admin/includes/nav-menu.php:398
+msgid "Most Recent"
+msgstr "மிக சமீபத்தியவை"
+
+#: wp-admin/users.php:366
+msgid "Remove Users from Site"
+msgstr "தளத்திலிருந்து பயனர்களை நீக்கு"
+
+#: wp-admin/includes/post.php:728
+msgid "Sorry, you are not allowed to create posts or drafts on this site."
+msgstr "இத்தளத்தில் பதிவுகள் மற்றும் வரைவுகள் உருவாக்க உங்களுக்கு அனுமதியில்லை."
+
+#: wp-admin/includes/nav-menu.php:345 wp-admin/includes/nav-menu.php:630
+msgid "No items."
+msgstr "உருப்படிகள் இல்லை."
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:235
+#: wp-admin/includes/class-wp-theme-install-list-table.php:145
+#: wp-admin/setup-config.php:247
+msgid "Try again"
+msgstr "மீண்டும்  முயற்சிக்கவும்"
+
+#: wp-admin/custom-background.php:339
+msgid "Display Options"
+msgstr "காட்சி விருப்பங்கள்"
+
+#: wp-admin/users.php:396
+msgid "Confirm Removal"
+msgstr "நீக்கத்தை உறுதி செய்"
+
+#. translators: 1: Title of an update
+#: wp-admin/includes/class-bulk-upgrader-skin.php:46
+msgid "%1$s updated successfully."
+msgstr "%1$s வெற்றிகரமாக புதுப்பிக்கப்பட்டது."
+
+#: wp-admin/includes/upgrade.php:83
+msgid "Your chosen password."
+msgstr "நீங்கள் தேர்ந்தெடுத்த கடவுச்சொல்."
+
+#. translators: %s: number of comments restored from the Trash
+#: wp-admin/edit-comments.php:270
+msgid "%s comment restored from the Trash"
+msgid_plural "%s comments restored from the Trash"
+msgstr[0] "%s கருத்து குப்பையிலிருந்து மீட்கப்பட்டது."
+msgstr[1] "%s கருத்துகள் குப்பையிலிருந்து மீட்கப்பட்டன."
+
+#: wp-admin/includes/file.php:27
+msgid "Author Template"
+msgstr "ஆசிரியர் மாதிரி படிவம்"
+
+#: wp-admin/edit-form-advanced.php:158
+msgid "Page saved."
+msgstr "பக்கம் சேமிக்கப்பட்டது."
+
+#: wp-admin/install.php:151 wp-admin/user-edit.php:175
+msgid "Important:"
+msgstr "முக்கியமானது:"
+
+#: wp-admin/user-edit.php:339
+msgid "Usernames cannot be changed."
+msgstr "பயனர்பெயர்களை மாற்ற முடியாது"
+
+#: wp-admin/nav-menus.php:264
+msgid "The menu has been successfully deleted."
+msgstr "பட்டி வெற்றிகரமாக நீக்கப்பட்டது."
+
+#: wp-admin/includes/schema.php:910
+msgid "The network already exists."
+msgstr "அந்த வலையமைப்பு ஏற்கனவே உள்ளது."
+
+#: wp-admin/includes/user.php:477
+msgid "Notice:"
+msgstr "அறிவிப்பு:"
+
+#: wp-admin/includes/upgrade.php:98
+msgid "The password you chose during the install."
+msgstr "நிறுவும்போது நீங்கள் தேர்ந்தெடுத்த கடவுச்சொல்"
+
+#: wp-admin/includes/class-wp-automatic-updater.php:355
+#: wp-admin/includes/update-core.php:1224 wp-admin/update-core.php:500
+msgid "WordPress updated successfully"
+msgstr "வேர்டுபிரெஸ் வெற்றிகரமாக புதுப்பிக்கப்பட்டது."
+
+#: wp-admin/includes/nav-menu.php:403 wp-admin/includes/nav-menu.php:688
+msgid "View All"
+msgstr "அனைத்தையும் பார்"
+
+#. translators: %s: Importer name
+#. translators: %s: plugin name
+#. translators: %s: Theme name
+#: wp-admin/import.php:136
+#: wp-admin/includes/class-wp-theme-install-list-table.php:289
+#: wp-admin/includes/dashboard.php:1263 wp-admin/theme-install.php:276
+msgid "Install %s"
+msgstr "நிறுவல்/நிறுவு %s"
+
+#: wp-admin/includes/class-wp-users-list-table.php:270
+msgid "Change"
+msgstr "மாற்றுக"
+
+#: wp-admin/plugins.php:467
+msgid "Plugin could not be deleted due to an error: %s"
+msgstr "%s: இந்தத் தவறால் செருகை நீக்கமுடியவில்லை."
+
+#: wp-admin/includes/theme-install.php:133
+msgid "Find Themes"
+msgstr "வர்ப்புருக்களைத் தேடு"
+
+#: wp-admin/options-general.php:89
+msgid "Anyone can register"
+msgstr "யார் வேண்டுமானாலும் பதியலாம்"
+
+#: wp-admin/options-discussion.php:141 wp-admin/options-discussion.php:142
+msgid "Before a comment appears"
+msgstr "ஒரு கருத்துக்கு முன்"
+
+#: wp-admin/options-media.php:67 wp-admin/options-media.php:77
+msgid "Max Width"
+msgstr "அதிகபட்ச அகலம் "
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:417
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] "செயல்படுகின்றது <span class=\"count\">(%s)</span>"
+msgstr[1] "செயல்படுகின்றவை <span class=\"count\">(%s)</span>"
+
+#. translators: User role name with count
+#: wp-admin/includes/class-wp-users-list-table.php:206
+#: wp-admin/includes/class-wp-users-list-table.php:220
+msgid "%1$s <span class=\"count\">(%2$s)</span>"
+msgstr "%1$s <span class=\"count\">(%2$s)</span>"
+
+#: wp-admin/widgets.php:271
+msgid "Widget %s"
+msgstr "ஒட்டி %s"
+
+#: wp-admin/menu.php:75
+msgid "Comments %s"
+msgstr "கருத்துகள் %s"
+
+#: wp-admin/includes/update-core.php:1098
+msgid "Upgrading database&#8230;"
+msgstr "தரவுதளம் மேம்படுத்தல்&#8230;"
+
+#: wp-admin/user-edit.php:563
+msgid "Type your new password again."
+msgstr "உங்கள் புதிய கடவுச்சொல்லை மீண்டும் உள்ளிடவும்."
+
+#: wp-admin/user-edit.php:384
+msgid "Nickname"
+msgstr "புனைப்பெயர்"
+
+#: wp-admin/options-discussion.php:74
+msgid "Automatically close comments on articles older than %s days"
+msgstr "%s நாட்களுக்கு மேலான கட்டுரைகளின் கருத்துகளைத் தானாகவே மூடவும்"
+
+#. translators: %s: Theme version
+#: wp-admin/includes/theme.php:658 wp-admin/theme-install.php:324
+#: wp-admin/themes.php:448
+msgid "Version: %s"
+msgstr "பதிப்பு: %s"
+
+#: wp-admin/options-discussion.php:121
+msgid "newer"
+msgstr "புதிய"
+
+#: wp-admin/update-core.php:105
+msgid "Hide this update"
+msgstr "இந்த மேம்பாட்டை மறை"
+
+#: wp-admin/upgrade.php:117
+msgid "%s seconds"
+msgstr "%s நொடிகள்"
+
+#: wp-admin/includes/theme.php:244
+msgid "Right Sidebar"
+msgstr "வலது பக்கப்பட்டை"
+
+#: wp-admin/themes.php:171
+msgid "Theme deleted."
+msgstr "வார்ப்புரு நீக்கப்பட்டது."
+
+#: wp-admin/install.php:177
+msgid "Your Email"
+msgstr "உங்கள் மின்னஞ்சல்"
+
+#: wp-admin/options-discussion.php:108
+msgid "first"
+msgstr "முதல்"
+
+#: wp-admin/update-core.php:262 wp-admin/update-core.php:272
+msgid "Compatibility with WordPress %1$s: Unknown"
+msgstr "வர்ட்ப்ரஸ் %1$s-உடனான பொருத்தம்: தெரியவில்லை"
+
+#: wp-admin/options-permalink.php:185
+msgid "Day and name"
+msgstr "நாள் மற்றும் பெயர்"
+
+#. translators: add new plugin
+#: wp-admin/menu.php:208 wp-admin/plugins.php:496
+msgctxt "plugin"
+msgid "Add New"
+msgstr "புதியதை சேர்"
+
+#: wp-admin/includes/update.php:282
+msgid "Update to %s"
+msgstr "%s-க்கு புதுப்பி"
+
+#: wp-admin/options-general.php:86 wp-admin/options-general.php:87
+msgid "Membership"
+msgstr "உறுப்பினர்"
+
+#: wp-admin/link-manager.php:94
+msgid "%s link deleted."
+msgid_plural "%s links deleted"
+msgstr[0] "%s தொடுப்பு நீக்கப்பட்டது."
+msgstr[1] "%s தொடுப்புகள் நீக்கப்பட்டன."
+
+#: wp-admin/includes/misc.php:882 wp-admin/includes/post.php:1785
+#: wp-admin/widgets.php:342
+msgid "Error while saving."
+msgstr "சேமிக்கும்போது பிழை."
+
+#: wp-admin/options-discussion.php:173
+msgid "Avatars"
+msgstr "அவதாரங்கள்"
+
+#: wp-admin/plugin-editor.php:182 wp-admin/theme-editor.php:156
+msgid "File edited successfully."
+msgstr "கோப்பு வெற்றிகரமாக திருத்தப்பட்டது."
+
+#: wp-admin/options-media.php:65 wp-admin/options-media.php:66
+msgid "Medium size"
+msgstr "நடுத்தர அளவு"
+
+#: wp-admin/includes/class-wp-automatic-updater.php:353
+#: wp-admin/update-core.php:495
+msgid "Installation Failed"
+msgstr "நிறுவ முடியவில்லை"
+
+#: wp-admin/plugins.php:484
+msgid "Selected plugins <strong>activated</strong>."
+msgstr "தேர்ந்தெடுக்கப்பட்ட செருகிகள் <strong>செயலாக்கப்பட்டன</strong>."
+
+#: wp-admin/edit-form-comment.php:67 wp-admin/includes/template.php:402
+msgid "Comment"
+msgstr "கருத்து "
+
+#: wp-admin/includes/media.php:2290
+msgid "Random"
+msgstr "ரேண்டம்"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:590
+#: wp-admin/includes/dashboard.php:635
+msgid "Reply to this comment"
+msgstr "இந்த மறுமொழிக்குப் பதில் தருக"
+
+#: wp-admin/includes/template.php:1948 wp-admin/nav-menus.php:657
+#: wp-admin/options.php:300
+msgid "Save Changes"
+msgstr "மாற்றங்களை சேமிக்கவும்"
+
+#. translators: %s: directory name
+#: wp-admin/includes/class-wp-filesystem-base.php:299
+msgid "Found %s"
+msgstr "%s கண்டுபிடிக்கப்பட்டது."
+
+#: wp-admin/includes/class-wp-filesystem-ftpext.php:57
+#: wp-admin/includes/class-wp-filesystem-ftpsockets.php:56
+msgid "FTP password is required"
+msgstr "FTP கடவுச்சொல் தேவை"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1128
+msgid "sibling"
+msgstr "உடன்பிறப்பு"
+
+#: wp-admin/includes/file.php:298
+msgid "No file was uploaded."
+msgstr "ஒரு கோப்பும் பதிவேற்றப்படவில்லை."
+
+#: wp-admin/includes/meta-boxes.php:1180
+msgid "Notes"
+msgstr "குறிப்புகள்"
+
+#: wp-admin/includes/image-edit.php:91
+msgid "Restore image"
+msgstr "படத்தை மீள்"
+
+#: wp-admin/includes/dashboard.php:112
+msgid "View all"
+msgstr "அனைத்தையும் பார்"
+
+#: wp-admin/includes/class-wp-filesystem-ssh2.php:96
+msgid "SSH2 username is required"
+msgstr "SSH2 பயனர்பெயர் தேவை"
+
+#: wp-admin/includes/image-edit.php:908
+msgid "Image saved"
+msgstr "படம் சேமிக்கப்பட்டது"
+
+#: wp-admin/includes/class-plugin-upgrader.php:71
+msgid "Installing the plugin&#8230;"
+msgstr "செருகி நிறுவப்படுகிறது&#8230;"
+
+#: wp-admin/includes/dashboard.php:167
+msgid "Configure"
+msgstr "கட்டமை"
+
+#: wp-admin/edit-link-form.php:102
+msgid "Web Address"
+msgstr "வலை முகவரி"
+
+#: wp-admin/includes/class-wp-upgrader.php:158 wp-admin/includes/plugin.php:819
+#: wp-admin/includes/theme.php:62
+msgid "Filesystem error."
+msgstr "கோப்பு முறைமை பிழை"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:398
+#: wp-admin/includes/class-wp-post-comments-list-table.php:28
+msgctxt "column name"
+msgid "Comment"
+msgstr "கருத்து"
+
+#: wp-admin/includes/file.php:1158
+msgid "SSH2"
+msgstr "SSH2"
+
+#: wp-admin/includes/class-plugin-upgrader.php:68
+#: wp-admin/includes/class-theme-upgrader.php:66
+msgid "Install package not available."
+msgstr "நிறுவல் தொகுப்பு கிடைக்கவில்லை."
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1094
+msgid "co-worker"
+msgstr "சக தொழிலாளி"
+
+#: wp-admin/includes/file.php:645 wp-admin/includes/file.php:699
+msgid "Could not retrieve file from archive."
+msgstr "கோப்பை காப்பகத்திலிருந்து மீட்க முடியவில்லை."
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1069
+msgid "contact"
+msgstr "தொடர்பு"
+
+#: wp-admin/comment.php:329
+msgid "Unknown action."
+msgstr "அறியப்படாத செயல்"
+
+#: wp-admin/includes/import.php:188
+msgid "Blogroll"
+msgstr "வலைப்பதிவுச் சுருள்"
+
+#: wp-admin/edit.php:273
+msgid "%s post updated."
+msgid_plural "%s posts updated."
+msgstr[0] "%s பதிவு புதுப்பிக்கப்பட்டது."
+msgstr[1] "%s பதிவுகள் புதுப்பிக்கப்பட்டன."
+
+#: wp-admin/includes/media.php:2230
+msgid "All Tabs:"
+msgstr "அனைத்து தாவல்கள்:"
+
+#: wp-admin/includes/file.php:1249
+msgid "Private Key:"
+msgstr "தனிப்பட்ட சாவி:"
+
+#: wp-admin/includes/template.php:397
+msgid "Reply to Comment"
+msgstr "கருத்துக்கு பதிலளி"
+
+#: wp-admin/includes/meta-boxes.php:184 wp-admin/includes/meta-boxes.php:194
+msgid "Publish <b>immediately</b>"
+msgstr "<b>உடனே</b> வெளியிடு"
+
+#: wp-admin/includes/class-plugin-installer-skin.php:41
+msgid "Successfully installed the plugin <strong>%s %s</strong>."
+msgstr "<strong>%s %s</strong> செருகி வெற்றிகரமாக நிறுவப்பட்டது."
+
+#: wp-admin/includes/class-wp-media-list-table.php:447
+msgid "%s from now"
+msgstr "இப்பொழுதிலிருந்து %s"
+
+#: wp-admin/includes/plugin-install.php:705
+msgid "Latest Version Installed"
+msgstr "சமீபத்திய பதிப்பு நிறுவப்பட்டுள்ளது"
+
+#: wp-admin/includes/image-edit.php:87
+msgid "Previously edited copies of the image will not be deleted."
+msgstr "படத்தின் ஏற்கனவே திருத்தப்பட்ட நகல்கள் நீக்கப்பட மாட்டாது."
+
+#: wp-admin/custom-background.php:242
+msgid "Background updated. <a href=\"%s\">Visit your site</a> to see how it looks."
+msgstr "பின்னணி புதுப்பிக்கப்பட்டது. அதைக் காண, <a href=\"%s\">உங்கள் தளத்திற்குச்</a> செல்லவும்."
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:559
+#: wp-admin/includes/plugin-install.php:572
+msgid "Last Updated:"
+msgstr "கடைசியாக புதுப்பிக்கப்பட்டது:"
+
+#: wp-admin/includes/media.php:2044 wp-admin/includes/media.php:2255
+#: wp-admin/includes/media.php:2522
+msgid "Save all changes"
+msgstr "அனைத்து மாற்றங்களையும் சேமி"
+
+#: wp-admin/includes/class-wp-posts-list-table.php:1590
+#: wp-admin/includes/class-wp-posts-list-table.php:1599
+msgid "Do not allow"
+msgstr "அனுமதிக்காதே"
+
+#: wp-admin/includes/media.php:1472
+msgid "Upload date:"
+msgstr "பதிவேற்றப்பட்ட நாள்:"
+
+#: wp-admin/includes/media.php:463
+msgid "Uploads"
+msgstr "பதிவேற்றங்கள்"
+
+#: wp-admin/includes/image-edit.php:129
+msgid "Selection:"
+msgstr "தேர்வு:"
+
+#: wp-admin/includes/plugin-install.php:607
+msgid "Average Rating"
+msgstr "சராசரி மதிப்பீடு"
+
+#: wp-admin/includes/meta-boxes.php:1007
+msgid "Choose the target frame for your link."
+msgstr "உங்கள் தொடுப்புக்கு இலக்கைத் தேர்ந்தெடுக்கவும்."
+
+#. translators: manage posts column name
+#: wp-admin/includes/class-wp-posts-list-table.php:539
+msgctxt "column name"
+msgid "Title"
+msgstr "தலைப்பு"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1122
+msgid "kin"
+msgstr "உறவினர்"
+
+#: wp-admin/includes/plugin-install.php:517 wp-admin/update.php:123
+msgid "Plugin Install"
+msgstr "செருகி நிறுவு"
+
+#: wp-admin/includes/image-edit.php:200
+msgid "Flip vertically"
+msgstr "செங்குத்தாக திருப்பு"
+
+#: wp-admin/includes/class-plugin-upgrader.php:55
+msgid "Could not remove the old plugin."
+msgstr "பழைய செருகியை நீக்கமுடியவில்லை."
+
+#: wp-admin/includes/file.php:709
+msgid "Could not extract file from archive."
+msgstr "காப்பகத்திலிருந்து கோப்பை எடுக்க முடியவில்லை."
+
+#: wp-admin/custom-background.php:324 wp-admin/custom-header.php:579
+#: wp-admin/includes/class-wp-theme-install-list-table.php:63
+#: wp-admin/includes/media.php:1951 wp-admin/includes/media.php:1953
+msgid "Upload"
+msgstr "பதிவேற்று"
+
+#: wp-admin/includes/class-wp-media-list-table.php:154
+#: wp-admin/includes/class-wp-media-list-table.php:514
+#: wp-admin/includes/class-wp-media-list-table.php:694
+msgid "Attach"
+msgstr "இணை"
+
+#: wp-admin/includes/class-wp-media-list-table.php:441
+#: wp-admin/includes/class-wp-posts-list-table.php:978
+msgid "Unpublished"
+msgstr "வெளியிடப்படாத"
+
+#: wp-admin/custom-background.php:320 wp-admin/custom-header.php:575
+msgid "Choose an image from your computer:"
+msgstr "உங்கள் கணினியில் இருந்து ஒரு படத்தைத் தேர்வுசெய்க:"
+
+#: wp-admin/comment.php:127
+msgid "Approve Comment"
+msgstr "கருத்தை அங்கீகரிக்கவும்"
+
+#: wp-admin/comment.php:126
+msgid "You are about to approve the following comment:"
+msgstr "நீங்கள் பின்வரும் கருத்தை அங்கீகரிக்க உள்ளீர்கள்:"
+
+#: wp-admin/comment.php:123
+msgid "Permanently Delete Comment"
+msgstr "கருத்தை நிரந்தரமாக நீக்கவும்"
+
+#. translators: %s: number of comments permanently deleted
+#: wp-admin/edit-comments.php:275
+msgid "%s comment permanently deleted"
+msgid_plural "%s comments permanently deleted"
+msgstr[0] "%s கருத்து நிரந்தரமாக நீக்கப்பட்டது"
+msgstr[1] "%s கருத்துகள் நிரந்தரமாக நீக்கப்பட்டன"
+
+#. translators: %s: number of comments approved
+#: wp-admin/edit-comments.php:248
+msgid "%s comment approved"
+msgid_plural "%s comments approved"
+msgstr[0] "%s கருத்து ஏற்றுக் கொள்ளப்பட்டது "
+msgstr[1] "%s கருத்துகள் ஏற்றுக் கொள்ளப்பட்டன"
+
+#: wp-admin/includes/class-wp-media-list-table.php:506
+msgid "(Unattached)"
+msgstr "(இணைக்கப்படாதது)"
+
+#: wp-admin/includes/media.php:2450 wp-admin/includes/nav-menu.php:361
+#: wp-admin/includes/nav-menu.php:646
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: wp-admin/includes/media.php:2451 wp-admin/includes/nav-menu.php:362
+#: wp-admin/includes/nav-menu.php:647
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#. translators: draft saved date format, see https://secure.php.net/date
+#: wp-admin/includes/misc.php:885
+msgid "g:i:s a"
+msgstr "g:i:s a"
+
+#: wp-admin/includes/ajax-actions.php:1773
+#: wp-admin/includes/class-wp-posts-list-table.php:577
+#: wp-admin/includes/class-wp-posts-list-table.php:1414
+msgid "Date"
+msgstr "தேதி"
+
+#: wp-admin/comment.php:122
+msgid "You are about to delete the following comment:"
+msgstr "நீங்கள் கீழ்க்கண்ட கருத்தை நீக்க இருக்கிறீர்கள்"
+
+#: wp-admin/includes/ajax-actions.php:755
+msgid "Comment %d does not exist"
+msgstr "கருத்து %d இருப்பில் இல்லை "
+
+#: wp-admin/comment.php:61 wp-admin/comment.php:255
+#: wp-admin/includes/post.php:1532
+msgid "Go back"
+msgstr "பின் செல்லவும் "
+
+#: wp-admin/comment.php:39 wp-admin/edit-form-comment.php:16
+#: wp-admin/includes/template.php:396
+msgid "Edit Comment"
+msgstr "கருத்தை திருத்தவும் "
+
+#: wp-admin/admin.php:225
+msgid "Invalid plugin page"
+msgstr "செல்லாத செருகி பக்கம் "
+
+#: wp-admin/includes/ajax-actions.php:1620
+msgid "Someone"
+msgstr "யாரோ ஒருவர் "
+
+#: wp-admin/edit-form-comment.php:76 wp-admin/includes/ajax-actions.php:1773
+#: wp-admin/includes/class-wp-posts-list-table.php:1626
+msgid "Status"
+msgstr "நிலவரம் "
+
+#: wp-admin/comment.php:257 wp-admin/edit-comments.php:229
+#: wp-admin/includes/comment.php:49
+msgid "Sorry, you are not allowed to edit comments on this post."
+msgstr "மன்னிக்கவும், உங்களுக்கு இந்தப் பதிவில் கருத்துகளைத் திருத்த அனுமதி இல்லை."

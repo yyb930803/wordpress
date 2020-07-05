@@ -1,0 +1,112 @@
+# Translation of Plugins - Page scroll to id - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Page scroll to id - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-25 07:48:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Page scroll to id - Stable (latest release)\n"
+
+#: includes/blocks/blocks.js:51
+msgid "Enter a target id (e.g. my-id)"
+msgstr "Escribe un ID de destino (Ej.: mi-id)"
+
+#: includes/blocks/blocks.js:23
+msgid "Target section"
+msgstr "Sección de destino"
+
+#: includes/blocks/blocks.js:23
+msgid "HTML Anchor"
+msgstr "Anclaje HTML"
+
+#: includes/mo-admin-notice.php:72
+msgid "Activate MailOptin Now!"
+msgstr "¡Activar MailOptin ahora!"
+
+#: includes/mo-admin-notice.php:67
+msgid "Install MailOptin Now for Free!"
+msgstr "¡Instala MailOptin ahora gratis!"
+
+#: malihu-pagescroll2id.php:123 malihu-pagescroll2id.php:128
+msgid "<div class=\"error\"><p><strong>"
+msgstr "<div class=\"error\"><p><strong>"
+
+#: includes/mo-admin-notice.php:57
+msgid "Free optin form plugin that will %1$sincrease your email list subscribers%2$s and keep them engaged with %1$sautomated and schedule newsletters%2$s."
+msgstr "Plugin gratuito de formulario de suscripción que %1$saumentará tus suscriptores%2$s y los mantendrá comprometidos con %1$sboletines programados y automatizados%2$s."
+
+#: includes/mo-admin-notice.php:77 includes/mo-admin-notice.php:82
+msgid "Dismiss this notice"
+msgstr "Omitir este aviso"
+
+#: includes/admin.php:5
+msgid "<span><span class=\"dashicons dashicons-editor-help\"></span> Plugin help &amp; resources:</span> <a href=\"#\" class=\"mPS2id-open-help mPS2id-open-help-overview\">Overview</a> <a href=\"#\" class=\"mPS2id-open-help mPS2id-open-help-get-started\">Get started</a> <a href=\"#\" class=\"mPS2id-open-help mPS2id-open-help-plugin-settings\">Plugin settings</a> <a href=\"#\" class=\"mPS2id-open-help mPS2id-open-help-shortcodes\">Shortcodes</a> <a href=\"http://manos.malihu.gr/page-scroll-to-id-for-wordpress/\" class=\"mPS2id-external-link\" target=\"_blank\">Plugin homepage &amp; documentation</a> <a href=\"http://manos.malihu.gr/page-scroll-to-id-for-wordpress/2/\" class=\"mPS2id-external-link\" target=\"_blank\">Knowledge Base – FAQ</a> <a href=\"http://manos.malihu.gr/page-scroll-to-id-for-wordpress-tutorial/\" class=\"mPS2id-external-link\" target=\"_blank\">Basic tutorial</a>"
+msgstr "<span><span class=\"dashicons dashicons-editor-help\"></span> Ayuda y recursos del plugin:</span> <a href=\"#\" class=\"mPS2id-open-help mPS2id-open-help-overview\">Resumen</a> <a href=\"#\" class=\"mPS2id-open-help mPS2id-open-help-get-started\">Primeros pasos</a> <a href=\"#\" class=\"mPS2id-open-help mPS2id-open-help-plugin-settings\">Ajustes del plugin</a> <a href=\"#\" class=\"mPS2id-open-help mPS2id-open-help-shortcodes\">Shortcodes</a> <a href=\"http://manos.malihu.gr/page-scroll-to-id-for-wordpress/\" class=\"mPS2id-external-link\" target=\"_blank\">Página principal del plugin y documentación</a> <a href=\"http://manos.malihu.gr/page-scroll-to-id-for-wordpress/2/\" class=\"mPS2id-external-link\" target=\"_blank\">Base de conocimientos – FAQ</a> <a href=\"http://manos.malihu.gr/page-scroll-to-id-for-wordpress-tutorial/\" class=\"mPS2id-external-link\" target=\"_blank\">Tutorial básico</a>"
+
+#: includes/class-malihu-pagescroll2id-widget.php:42
+msgid "Optional element selector to use for highlighting (e.g. #another-id)"
+msgstr "Elemento selector opcional para ser usado como resaltado (ej: #another-id)"
+
+#: includes/class-malihu-pagescroll2id-widget.php:37
+msgid "Unique identifier without spaces (e.g. my-id)"
+msgstr "Identificador unico sin espacios (ej: my-id)"
+
+#: includes/class-malihu-pagescroll2id-widget.php:35
+msgid "id:"
+msgstr "id:"
+
+#: includes/class-malihu-pagescroll2id-widget.php:40
+msgid "Highlight target selector:"
+msgstr "Resaltar el selector de destino:"
+
+#: includes/class-malihu-pagescroll2id-widget.php:17
+msgid "Single target element (anchor point)"
+msgstr "Elemento objetivo único (punto de anclaje)"
+
+#: includes/class-malihu-pagescroll2id-widget.php:16
+msgid "Page scroll to id target"
+msgstr "Desplazar la página al ID de destino"
+
+#: includes/admin.php:9
+msgid "Click to toggle"
+msgstr "Haz clic para alternar"
+
+#. Author URI of the plugin
+msgid "http://manos.malihu.gr"
+msgstr "http://manos.malihu.gr"
+
+#. Author of the plugin
+msgid "malihu"
+msgstr "malihu"
+
+#. Plugin URI of the plugin
+msgid "http://manos.malihu.gr/page-scroll-to-id"
+msgstr "http://manos.malihu.gr/page-scroll-to-id"
+
+#. Plugin Name of the plugin
+msgid "Page scroll to id"
+msgstr "Page scroll to id"
+
+#: includes/admin.php:7
+msgid "More actions"
+msgstr "Más acciones"
+
+#: includes/admin.php:6
+msgid "Add instance"
+msgstr "Añadir instancia"
+
+#. Description of the plugin
+msgid "Page scroll to id is an easy-to-use jQuery plugin that enables animated (smooth) page scrolling to specific id within the document."
+msgstr "«Page scroll to id» es un plugin jQuery fácil de usar que permite el scroll animado (suave) de la página a un ID específico dentro del documento."
+
+#: includes/admin.php:8
+msgid "Delete all and reset to default"
+msgstr "Eliminar todo y restablecer a los valores por defecto"
+
+#: includes/admin.php:8
+msgid "Reset to default"
+msgstr "Restablecer a los valores por defecto"

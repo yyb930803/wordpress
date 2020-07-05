@@ -1,0 +1,94 @@
+.nasa-chosen-icon{
+    cursor: pointer;
+}
+.nasa-tranparent{
+    position: fixed;
+    z-index: 9998;
+    background: #111;
+    opacity: .3;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.nasa-input-search-icon{
+    display: block;
+    padding: 10px 15px;
+    margin: 10px;
+    width: 95%;
+    border: 3px solid #ddd;
+    border-radius: 5px; 
+}
+.nasa-list-icons-select{
+    position: fixed;
+    top: 0;
+    right: -500px;
+    width: 400px;
+    height: 90%;
+    padding: 40px 10px 10px 10px;
+    overflow-y: auto;
+    z-index: 9999;
+    background: #fff;
+    border: 1px solid #ccc;
+}
+.nasa-list-icons-select h3{
+    display: block;
+    width: 100%;
+    clear: both;
+    margin: 0 10px 10px 10px;
+    padding-top: 5px;
+}
+.nasa-list-icons-select hr{
+    width: 100%;
+    clear: both;
+    margin: 20px 0;
+}
+.nasa-fill-icon{
+    float: left;
+    margin: 10px;
+    display: inline-block;
+    padding: 2px 6px;
+    font-size: 150%;
+    text-decoration: none;
+}
+.nasa-fill-icon.nasa-pe7-icon i{
+    font-weight: bold;
+}
+.nasa-ico-preview i{
+    font-size: 150%;
+}
+.nasa-ico-preview i.pe7-icon{
+    font-weight: bold;
+}
+.nasa-remove-icon{
+    display: inline-block;
+    padding: 3px 8px;
+    margin-left: 5px;
+    color: #FF0000;
+}
+.nasa-remove-icon:hover{
+    color: #FF0000;
+}
+.hidden-tag, .nasa-theme-option-child {
+    /* display: none */
+}
+
+#wc_tab_specifications{
+    padding: 15px;
+    display: none;
+}
+body.post-type-product .composer-switch .wpb_switch-to-composer,
+body.post-type-portfolio .composer-switch .wpb_switch-to-composer,
+body.post-type-nasa_block .composer-switch .wpb_switch-to-composer,
+body.post-type-header .composer-switch .wpb_switch-to-composer,
+body.post-type-footer .composer-switch .wpb_switch-to-composer {
+    border-radius: 0 4px 4px 0;
+}
+body.post-type-product .composer-switch .wpb_switch-to-front-composer,
+body.post-type-portfolio .composer-switch .wpb_switch-to-front-composer,
+body.post-type-nasa_block .composer-switch .wpb_switch-to-front-composer,
+body.post-type-header .composer-switch .wpb_switch-to-front-composer,
+body.post-type-footer .composer-switch .wpb_switch-to-front-composer {
+    display: none;
+}

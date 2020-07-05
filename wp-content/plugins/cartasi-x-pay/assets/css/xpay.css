@@ -1,0 +1,50 @@
+/**
+ * Copyright (c) 2019 Nexi Payments S.p.A.
+ *
+ * @author      iPlusService S.r.l.
+ * @category    Payment Module
+ * @package     Nexi XPay
+ * @version     4.0.0
+ * @copyright   Copyright (c) 2019 Nexi Payments S.p.A. (https://ecommerce.nexi.it)
+ * @license     GNU General Public License v3.0
+ */
+
+#order_xpay{
+    padding: 23px 24px 12px;
+}
+
+#order_xpay_details h2 {
+    margin: 0;
+    font-family: HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 1.2;
+    text-shadow: 1px 1px 1px #fff;
+    padding: 0;
+}
+
+#order_xpay_details .order_data_column_container {
+    clear: both;
+    display: flex;
+}
+
+#order_xpay_details .order_data_column {
+    width: 32%;
+    padding: 0 2% 0 0;
+    float: left;
+    height: 200px;
+}
+
+#order_xpay_details .order_data_column p {
+    padding: 0 !important;
+}
+
+#order_xpay_details p {
+    color: #777;
+}
+
+li.payment_method_xpay img
+{
+  max-height: 20px;
+    display: unset;
+}

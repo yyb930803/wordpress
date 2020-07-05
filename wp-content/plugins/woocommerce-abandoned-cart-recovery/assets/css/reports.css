@@ -1,0 +1,281 @@
+html, body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
+    font-size: 14px;
+}
+
+#wpwrap {
+    background-color: #eee;
+}
+
+#wpcontent .vlt-tab-group a {
+    text-decoration: none;
+    color: black;
+}
+
+.vlt-tab-group {
+    margin: 0 1.5rem 0 0;
+    /*background-color: white;*/
+    padding: 10px 0;
+    border-top-left-radius: 5px;
+    /*border-right: 1px solid #eee;*/
+}
+
+.vlt-tab-group .vlt-tab-item {
+    padding: 12px 20px;
+}
+
+@media screen and (max-width: 600px) {
+    .vlt-tab-group .vlt-tab-item {
+        padding: 8px 10px 12px;
+    }
+}
+
+.vlt-tab-group .vlt-tab-item.vlt-active {
+    border: 1px solid #d4d4d5;
+    border-bottom-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-weight: bold;
+    background-color: white;
+}
+
+.wacv-abandoned-reports .wacv-active {
+    font-weight: 600;
+}
+
+.wacv-abandoned-reports select {
+    height: unset;
+}
+
+.subsubsub {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.wacv-abandoned-reports {
+    background-color: white;
+    padding-top: 1rem !important;
+    margin-right: 1.5rem;
+    border: 1px solid #d4d4d5;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.wacv-select-time-range td {
+    /*display: flex;*/
+    padding: 5px;
+}
+
+.wacv-select-time-report {
+    width: 100%;
+}
+
+/*.wacv-select-time-range > * {*/
+/*width: 150px;*/
+/*margin-right: 15px;*/
+/*}*/
+
+.wacv-general-reports-group {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.wacv-general-reports-group table {
+    width: 100%;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 20px;
+}
+
+.wacv-general-reports-group table td {
+    width: 25%;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background: linear-gradient(to bottom, white, #fafbfc);
+}
+
+.wacv-general-reports-group table td h5 {
+    font-weight: 500;
+}
+
+.wacv-general-reports-group table td div {
+    margin: 0.5rem 0;
+}
+
+.wacv-report-element {
+    text-align: center;
+    padding: 10px 30px;
+}
+
+.wacv-report-element .wacv-report-element-inner {
+    /*background-color: #ddd;*/
+    padding: 15px;
+}
+
+#button {
+    background: linear-gradient(to bottom, white, #f9fafb);
+    border: 1px solid #c4cdd5;
+    box-shadow: inset 0 1px 0 0 #6f7bcb;
+}
+
+.vlt-none-shadow {
+    box-shadow: none !important;
+}
+
+.vlt-height-32 {
+    height: 32px !important;
+}
+
+@media screen and (min-width: 1200px) {
+    .wacv-select-time-group {
+        display: flex;
+        /*padding: 10px 30px;*/
+    }
+
+    .wacv-select-time-group .wacv-select-time-2 {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .wacv-select-time-group .wacv-select-time-2 {
+        flex: 1;
+    }
+
+    .wacv-select-time-group .wacv-select-time-1, .wacv-select-time-group .wacv-select-time-2 {
+        display: flex;
+        margin-bottom: 1rem;
+    }
+
+    .wacv-select-time-group .wacv-select-time-title {
+        width: 100px;
+    }
+
+    .wacv-select-time-1 .wacv-select-time-report {
+        width: 160px;
+    }
+
+    .wacv-select-time-2 input {
+        margin-right: 5px;
+        width: 160px !important
+    }
+}
+
+.vlt-button {
+    line-height: 1;
+    background: linear-gradient(to bottom, white, #f9fafb);
+}
+
+.wacv-select-time-group .wacv-select-time-title {
+    margin: 5px 0;
+}
+
+.wacv-select-time-group .wacv-select-time-2 .wacv-custom-time-range-group {
+    display: flex;
+}
+
+.wacv-custom-time-range input, .wacv-custom-time-range .wacv-view-reports {
+    /*width: 120px;*/
+    margin-left: 5px;
+}
+
+.wacv-custom-time-range {
+    width: 100%;
+    display: flex;
+    font-size: 14px;
+}
+
+.box-shadow {
+    box-shadow: 0 0 0 1px rgba(63, 63, 68, .05), 0 1px 1px 0 rgba(63, 63, 68, .15);
+    border-radius: 3px;
+    background: linear-gradient(to bottom, white, #f9fafb);
+    border: 1px solid #eeeeee
+}
+
+.wacv-chart-container {
+    /*width: 1600px;*/
+    margin: auto;
+    max-width: 100% !important;
+    padding: 46px;
+    /*height: 500px;*/
+}
+
+#myChart {
+    /*height: 500px;*/
+    /*color: blue;*/
+
+}
+
+.wacv-added {
+    color: green;
+}
+
+.wacv-removed {
+    color: red;
+}
+
+.wacv-date-input {
+    padding: 1px 4px;
+    box-shadow: none !important;
+}
+
+.wacv-submit-btn:hover {
+    background: linear-gradient(to bottom, white, #f1f2f3);
+    cursor: pointer;
+}
+
+.wacv-submit-btn {
+    background: linear-gradient(to bottom, white, #f9fafb);
+    border: 1px solid #c4cdd5;
+    font-size: 16px;
+}
+
+.wacv-select-time-group {
+    float: left;
+    margin-top: 3px;
+}
+
+.bulkactions {
+    display: none;
+}
+
+.wacv-country-flag {
+    width: 15px;
+}
+
+.wacv-cart-log-rows {
+    /*width: 100%;*/
+}
+
+.wacv-cart-log-rows td.add_item  {
+    color: #00b100;
+}
+
+.wacv-cart-log-rows td.remove_item  {
+    color: red;
+}
+
+.wacv-cart-log-rows tr td {
+    padding: 0 5px 5px 5px;
+    line-height: 1;
+}
+
+.manage-column.column-time, .manage-column.column-email, .manage-column.column-action, .time.column-time, .manage-column.column-country {
+    white-space: nowrap;
+    word-break: normal;
+}
+
+.manage-column.column-time, .manage-column.column-email, .manage-column.column-country {
+    width: 20%;
+}
+
+
+table.fixed {
+    table-layout: auto;
+}
+
+@media screen and (max-width: 800px) {
+    .wacv-cart-log-rows tr {
+        display: flex;
+    }
+}

@@ -1,0 +1,8 @@
+build:
+  image: registry.iplusservice.it/automazione-infrastruttura/utils:latest
+  script:
+  - ./verify_keyworks_blacklist.sh
+  variables:
+    GET_SOURCES_ATTEMPTS: '3'
+    GIT_CHECKOUT: 'true'
+    GIT_STRATEGY: clone

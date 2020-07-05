@@ -1,0 +1,145 @@
+# Translation of Plugins - Duplicate Page - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Duplicate Page - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-25 14:11:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Duplicate Page - Development (trunk)\n"
+
+#: inc/admin-settings.php:47
+msgid "Choose Editor"
+msgstr "Välj redigerare"
+
+#: inc/admin-settings.php:51
+msgid "Gutenberg Editor"
+msgstr "Gutenberg-redigeraren"
+
+#: inc/admin-settings.php:50
+msgid "Classic Editor"
+msgstr "Classic Editor"
+
+#: inc/admin-settings.php:53
+msgid "Please select which editor your are using. <strong>Default:</strong> Classic Editor"
+msgstr "Välj vilken redigerare du använder. <strong>Standard:</strong> Classic Editor"
+
+#: duplicatepage.php:302
+msgid "Duplicate This as "
+msgstr "Duplicera detta som"
+
+#: inc/admin-settings.php:61
+msgid "Publish"
+msgstr "Publicera"
+
+#: inc/admin-settings.php:60
+msgid "Draft"
+msgstr "Utkast"
+
+#: inc/admin-settings.php:63
+msgid "Pending"
+msgstr "Inväntar granskning"
+
+#: inc/admin-settings.php:62
+msgid "Private"
+msgstr "Privat"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/mndpsingh287/"
+msgstr "https://profiles.wordpress.org/mndpsingh287/"
+
+#. Author of the plugin
+msgid "mndpsingh287"
+msgstr "mndpsingh287"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/duplicate-page/"
+msgstr "https://wordpress.org/plugins/duplicate-page/"
+
+#: duplicatepage.php:71
+msgid "Settings"
+msgstr "Inställningar"
+
+#. Plugin Name of the plugin
+#: duplicatepage.php:85
+msgid "Duplicate Page"
+msgstr "Duplicate Page"
+
+#. Description of the plugin
+msgid "Duplicate Posts, Pages and Custom Posts using single click."
+msgstr "Duplicera inlägg, sidor och anpassade inlägg med ett enda klick."
+
+#: duplicatepage.php:211 duplicatepage.php:227
+msgid "Duplicate This"
+msgstr "Duplicera detta"
+
+#: duplicatepage.php:72
+msgid "Donate"
+msgstr "Donera"
+
+#: inc/admin-settings.php:91
+msgid "Contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Bidra med en liten donation för att göra tillägget stabilare. Du kan betala det belopp du valt."
+
+#: inc/admin-settings.php:81
+msgid "Add a suffix for duplicate or clone post as Copy, Clone etc. It will show after title."
+msgstr "Lägger till ett suffix för duplicerade eller klonade inlägg som Kopia, Klon etc. Det kommer visas efter rubriken."
+
+#: inc/admin-settings.php:78
+msgid "Duplicate Post Suffix"
+msgstr "Suffix för duplicerat inlägg"
+
+#: inc/admin-settings.php:11
+msgid "Buy PRO"
+msgstr "Köp PRO"
+
+#: inc/admin-settings.php:11
+msgid "Duplicate Page Settings "
+msgstr "Inställningar för Duplicate Page"
+
+#: inc/admin-settings.php:16
+msgid "<strong>Saving Please wait...</strong>"
+msgstr "<strong>Sparar, vänta…</strong>"
+
+#: inc/admin-settings.php:74
+msgid "Please select any post redirection, redirect you to selected after click on duplicate this link. <strong>Default:</strong> To current list."
+msgstr "Välj var användaren ska omdirigeras efter att ha klickat på länken ”Duplicera detta”. <strong>Standard:</strong> Till nuvarande listan."
+
+#: inc/admin-settings.php:72
+msgid "To Duplicate Edit Screen"
+msgstr "Till vyn för att redigera dupliceringen"
+
+#: inc/admin-settings.php:71
+msgid "To All Posts List"
+msgstr "Till listan över alla inlägg"
+
+#: inc/admin-settings.php:69
+msgid "Redirect to after click on <strong>Duplicate This Link</strong>"
+msgstr "Omdirigera efter klick på länken <strong>Duplicera denna</strong>"
+
+#: inc/admin-settings.php:65
+msgid "Please select any post status you want to assign for duplicate post. <strong>Default:</strong> Draft."
+msgstr "Välj vilken inläggsstatus det duplicerade inlägget ska ha. <strong>Standard:</strong> Utkast."
+
+#: inc/admin-settings.php:57
+msgid "Duplicate Post Status"
+msgstr "Status för duplicerat inlägg"
+
+#: inc/admin-settings.php:35
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings not saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Inställningarna sparades inte.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Avfärda detta meddelande.</span></button></div>"
+
+#: inc/admin-settings.php:32
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Inställningarna sparades.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Avfärda detta meddelande.</span></button></div>"

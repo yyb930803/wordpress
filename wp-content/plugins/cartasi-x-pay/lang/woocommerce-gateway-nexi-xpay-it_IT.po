@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-23 14:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Project-Id-Version: Plugins Nexi XPay for WooCommerce - Stable (latest "
+"release)\n"
+"POT-Creation-Date: 2019-07-23 14:52+0000\n"
+"Language-Team: Italiano\n"
+"Last-Translator: dasda fgdg <francesco.divita@iplusservice.it>\n"
+"Language: it_IT\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: woocommerce-gateway-nexi-xpay.php:77
+msgid "Nexi XPay is inactive because WooCommerce is not installed."
+msgstr "Nexi XPay inattivo. Woocommerce non è installato."
+
+#: templates/details_payment_xpay.php:10
+msgid "Card Holder"
+msgstr "Titolare Carta"
+
+#: templates/details_payment_xpay.php:14
+msgid "Name: "
+msgstr "Nome: "
+
+#: templates/details_payment_xpay.php:26
+msgid "Card Detail"
+msgstr "Dettagli Carta"
+
+#: templates/details_payment_xpay.php:30
+msgid "Card: "
+msgstr "Carta:"
+
+#: templates/details_payment_xpay.php:35
+msgid "Nationality: "
+msgstr "Nazionalità: "
+
+#: templates/details_payment_xpay.php:40
+msgid "Card Pan: "
+msgstr "N.Carta: "
+
+#: templates/details_payment_xpay.php:45
+msgid "Expiry date: "
+msgstr "Scadenza: "
+
+#: templates/details_payment_xpay.php:52
+msgid "Transaction Detail"
+msgstr "Dettagli Transazioni"
+
+#: templates/details_payment_xpay.php:55
+msgid "Date: "
+msgstr "Data: "
+
+#: templates/details_payment_xpay.php:58
+msgid "Amount: "
+msgstr "Importo: "
+
+#: templates/details_payment_xpay.php:61
+msgid "Transaction code: "
+msgstr "Codice transazione: "
+
+#: templates/details_payment_xpay.php:64
+msgid "Result: "
+msgstr "Esito: "
+
+#: templates/details_payment_xpay.php:67
+msgid "Message: "
+msgstr "Messaggio: "
+
+#: templates/details_payment_xpay.php:71
+msgid "# Contract: "
+msgstr "N.Contratto: "
+
+#: templates/details_payment_xpay.php:76
+msgid "Status: "
+msgstr "Stato: "
+
+#: templates/details_payment_xpay.php:84
+msgid "Accounting Operations"
+msgstr "Operazioni Contabili"
+
+#: templates/details_payment_xpay.php:89
+msgid "Op. Kind"
+msgstr "Tipo Operazione"
+
+#: templates/details_payment_xpay.php:90
+msgid "Amount"
+msgstr "Importo"
+
+#: templates/details_payment_xpay.php:91
+msgid "Currency"
+msgstr "Divisa"
+
+#: templates/details_payment_xpay.php:92
+msgid "Status"
+msgstr "Stato"
+
+#: templates/details_payment_xpay.php:93
+msgid "Date"
+msgstr "Data"
+
+#: templates/details_payment_xpay.php:94
+msgid "User"
+msgstr "Utente"
+
+#: includes/class-wc-gateway-nexi-xpay-pro.php:30
+msgid "OneClick checkout configuration"
+msgstr "Configurazione OneClick"
+
+#: includes/class-wc-gateway-nexi-xpay-pro.php:35
+msgid "Enable/Disable OneClick"
+msgstr "Abilita/Disabilita OneClick"
+
+#: includes/class-wc-gateway-nexi-xpay-pro.php:37
+msgid "Enable Nexi XPay for OneClick payment"
+msgstr "Abilita Nexi XPay ai pagamenti OneClick"
+
+#: includes/class-wc-gateway-nexi-xpay-pro.php:42
+msgid "OneClick Alias"
+msgstr "Alias OneClick"
+
+#: includes/class-wc-gateway-nexi-xpay-pro.php:44
+#: includes/class-wc-gateway-nexi-xpay-pro.php:49
+#: includes/class-wc-gateway-nexi-xpay-pro.php:54
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:73
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:78
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:83
+#: includes/class-wc-gateway-nexi-xpay-easy.php:86
+#: includes/class-wc-gateway-nexi-xpay-easy.php:91
+msgid "Given to Merchant by Nexi."
+msgstr "Fornito da Nexi al venditore"
+
+#: includes/class-wc-gateway-nexi-xpay-pro.php:47
+msgid "OneClick key MAC"
+msgstr "Chiave MAC OneClick"
+
+#: includes/class-wc-gateway-nexi-xpay-pro.php:52
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:81
+msgid "Group"
+msgstr "Gruppo"
+
+#: includes/class-wc-gateway-nexi-xpay-pro.php:162
+#: includes/class-wc-gateway-nexi-xpay.php:565
+#: includes/class-wc-gateway-nexi-xpay.php:571
+msgid ""
+"Thank you for shopping with us. Your account has been charged and your "
+"transaction is successful. We will be shipping your order to you soon."
+msgstr ""
+"Grazie per l'acquisto con noi. Il tuo account è stato addebitato e la tua "
+"transazione è andata a buon fine. Spediremo il tuo ordine a breve."
+
+#: includes/class-wc-gateway-nexi-xpay-pro.php:171
+#: includes/class-wc-gateway-nexi-xpay.php:519
+#: includes/class-wc-gateway-nexi-xpay.php:530
+msgid ""
+"Thank you for shopping with us. However, the transaction has been declined."
+msgstr "Grazie per l'acquisto. Tuttavia, la transazione è stata rifiutata."
+
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:59
+msgid "Subscription configuration"
+msgstr "Configurazione ricorrenze"
+
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:64
+msgid "Enable/Disable Recurring"
+msgstr "Abilita/Disabilita Ricorrenze"
+
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:66
+msgid "Enable Nexi XPay for subscription's payment"
+msgstr "Abilita Nexi XPay per i pagamenti ricorrenti"
+
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:71
+msgid "Recurring Alias"
+msgstr "Alias pagamenti ricorrenti"
+
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:76
+msgid "Recurring key MAC"
+msgstr "Chiave MAC pagamenti ricorrenti"
+
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:138
+#, php-format
+msgid "Error: %s"
+msgstr "Errore: %s"
+
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:199
+#, php-format
+msgid "num_contratto for XPay was not found in order #%s."
+msgstr "num_contratto per XPay non è stato trovato per l'ordine #%s."
+
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:202
+#, php-format
+msgid "scadenza pan for XPay was not found in order #%s."
+msgstr "scadenza pan per XPay non è stato trovato per l'ordine #%s."
+
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:208
+#, php-format
+msgid "error: #%s."
+msgstr "Errore: %s"
+
+#: includes/class-wc-gateway-nexi-xpay-subscription.php:229
+#, php-format
+msgid "Nexi XPay subscription renewal failed - %s"
+msgstr "Nexi XPay incasso pagamento ricorrente fallito - %s"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:35
+msgid "Payment module configuration"
+msgstr "Configurazione modulo di pagamento"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:40
+msgid "Enable/Disable"
+msgstr "Attiva/Disattiva"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:42
+msgid "Enable Nexi XPay Payment Module."
+msgstr "Abilita il modulo di pagamento Nexi XPay."
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:46
+msgid "Language form"
+msgstr "Lingua pagina di pagamento"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:49
+msgid "Select the language for Nexi form"
+msgstr "Scegli la lingua per la pagina di pagamento"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:52
+msgid "Accounting"
+msgstr "Contabilizzazione"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:55
+msgid ""
+"(PRODUCTION ONLY) The field identifies the collection method that the "
+"merchant wants to apply to the single transaction, if valued with:<br>- I "
+"(immediate) the transaction if authorized is also collected without further "
+"intervention by the operator and without considering the default profile set "
+"on the terminal.<br>- D (deferred) or the field is not inserted the "
+"transaction if authorized is managed according to what is defined by the "
+"terminal profile"
+msgstr ""
+"(SOLO IN PRODUZIONE) Il campo identifica la modalità di incasso che "
+"l'esercente vuole applicare alla singola transazione, se valorizzato con: "
+"<br>- I (immediata) la transazione se autorizzata viene anche incassata "
+"senza altri interventi da parte dell'esercente e senza considerare il "
+"profilo di default impostato sul terminale. <br>- D (differita) o non viene "
+"inserito il campo la transazione se autorizzata viene gestita secondo quanto "
+"definito dal profilo del terminale"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:58
+msgid "Enable/Disable TEST Mode"
+msgstr "Abilita/Disabilita la modalità TEST"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:60
+msgid "Enable Nexi Payment Module in testing mode."
+msgstr "Abilita il modulo Nexi in modalità TEST"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:62
+msgid "Register on"
+msgstr "Registrati su"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:62
+msgid "ecommerce.nexi.it/area-test"
+msgstr "ecommerce.nexi.it/area-test"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:62
+msgid "to have TEST's credentials."
+msgstr "per avere le credenziali di TEST."
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:65
+msgid "Enable/Disable image tracker"
+msgstr "Abilita/Disabilita image tracker"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:67
+msgid "Enable image tracer service"
+msgstr "Abilita il servizio di Image Tracker"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:69
+msgid "Disable only if with your template you have problem in card logos"
+msgstr ""
+"Disabilita solo se con il tuo template hai problemi nella visualizzazione "
+"dei loghi dei metodi di pagamento."
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:72
+msgid "Gateway Nexi XPay configuration"
+msgstr "Configurazione Gateway Nexi XPay"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:77
+msgid "Enable 3D Secure 2.0"
+msgstr "Abilita 3D Secure 2.0"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:79
+msgid "Enable the sending of the fields for the 3D Secure 2.0"
+msgstr "Abilita l'invio dei campi per il 3D Secure 2.0"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:81
+msgid ""
+"The new 3D Secure 2.0 protocol adopted by the main international circuits "
+"(Visa, MasterCard, American Express), introduces new authentication methods, "
+"able to improve and speed up the cardholder's purchase experience.<br><br>By "
+"activating this option it is established that the terms and conditions that "
+"you submit to your customers, with particular reference to the privacy "
+"policy, are foreseen to include the acquisition and processing of additional "
+"data provided by the <a href=\\\"https://ecommerce.nexi.it/specifiche-"
+"tecniche/3dsecure20/introduzione.html\\\" target="_blank">3D Secure 2\\.0 Service</a> \\(for "
+"example, shipping and / or invoicing address, payment details). Nexi and the "
+"International Circuits use the additional data collected separately for the "
+"purpose of fraud prevention"
+msgstr ""
+"Il nuovo protocollo 3D Secure 2.0 adottato dai principali circuiti "
+"internazionali (Visa, MasterCard, American Express), introduce nuove "
+"modalità di autenticazione, in grado di migliorare e velocizzare "
+"l’esperienza di acquisto del titolare della carta. <br><br> Attivando questa "
+"opzione occorre verificare che i termini e le condizioni che sottoponi alla "
+"tua clientela, con particolare riferimento all’informativa sulla privacy, "
+"siano modificati per includere l'acquisizione ed il trattamento dei dati "
+"aggiuntivi previsti dal servizio <a href=\\\"https://ecommerce.nexi."
+"it/specifiche-tecniche/3dsecure20/introduzione.html\\\">3D Secure 2.0</a> "
+"(ad esempio indirizzo di spedizione e/o fatturazione, dettagli del pagamento)"
+". Nexi e i Circuiti Internazionali utilizzeranno i dati aggiuntivi raccolti "
+"esclusivamente per la finalità relative alla prevenzione delle frodi"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:84
+msgid "Alias"
+msgstr "Alias"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:89
+msgid "Key MAC"
+msgstr "Chiave MAC"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:122
+msgid "Please click the button below to pay with Nexi XPay."
+msgstr "Clicca sul seguente bottone per pagare con Nexi Xpay"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:145
+msgid "Pay via Nexi XPay"
+msgstr "Paga tramite Nexi XPay"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:146
+msgid "Cancel order &amp; restore cart"
+msgstr "Annulla ordine &amp; ripristina carrello"
+
+#: includes/class-wc-gateway-nexi-xpay-easy.php:153
+msgid "Thank you for your order. Now you'll be redirect to Nexi Payment Page."
+msgstr ""
+"Grazie per aver effettuato l'ordine. Ora verrai rediretto sulla pagina di "
+"Nexi per il pagamento."
+
+#. Name of the plugin
+#: includes/class-wc-gateway-nexi-xpay.php:25
+msgid "Nexi XPay"
+msgstr "Nexi XPay"
+
+#: includes/class-wc-gateway-nexi-xpay.php:26
+msgid "Nexi XPay credit/debit card payment gateway."
+msgstr "Gateway di pagamento Nexi XPay"
+
+#: includes/class-wc-gateway-nexi-xpay.php:27
+msgid ""
+"For a correct behavior of the module, check in the configuration section of "
+"the Nexi back-office that the transaction cancellation in the event of a "
+"failed notification is set."
+msgstr ""
+"Per un corretto funzionamento del modulo, verificare nella sezione di "
+"configurazione del back-office Nexi che sia impostato l'annullo delle "
+"transazioni in caso di notifica fallita."
+
+#: includes/class-wc-gateway-nexi-xpay.php:83
+msgid "Payment Cards"
+msgstr "Carte di pagamento"
+
+#: includes/class-wc-gateway-nexi-xpay.php:113
+msgid ""
+"Pay securely by credit and debit card or alternative payment methods through "
+"Nexi."
+msgstr ""
+"Puoi pagare in modo sicuro con carte di credito e debito o con sistemi di "
+"pagamento innovativi grazie al servizio offerto da Nexi."
+
+#: includes/class-wc-gateway-nexi-xpay.php:116
+msgid " Accepted methods:"
+msgstr " Strumenti accettati:"
+
+#: includes/class-wc-gateway-nexi-xpay.php:317
+msgid "Immediate"
+msgstr "Immediata"
+
+#: includes/class-wc-gateway-nexi-xpay.php:318
+msgid "Deferred"
+msgstr "Differita"
+
+#: includes/class-wc-gateway-nexi-xpay.php:461
+msgid ""
+"Thank you for using Nexi XPay, the order will be processed as soon as "
+"possible."
+msgstr ""
+"Grazie per aver utilizzato Nexi XPay, l'ordine verrà evaso non appena "
+"possibile"
+
+#: includes/class-wc-gateway-nexi-xpay.php:480
+#: includes/class-wc-gateway-nexi-xpay.php:481
+#, php-format
+msgid "Unable to refund order %s. Order does not have XPay capture reference."
+msgstr ""
+"Impossibile effettuare lo storno dell'ordine %s. L'ordine non riporta le "
+"informazioni necessarie."
+
+#: includes/class-wc-gateway-nexi-xpay.php:633
+msgid ""
+"Attention, the order for which you are making payment contains recurring "
+"payments, payment data will be stored securely by Nexi."
+msgstr ""
+"Attenzione, l'ordine per il quale si sta provvedendo al pagamento contiene "
+"pagamenti ricorrenti, i dati di pagamento verranno memorizzati in modo "
+"sicuro da Nexi."
+
+#: includes/class-wc-gateway-nexi-xpay.php:659
+msgid "Remember the payment option securely for the next time."
+msgstr ""
+"Ricorda l'opzione di pagamento in modo sicuro per i prossimi pagamenti."
+
+#. 1: credit card type 2: last 4 digits 3: expiry month 4: expiry year
+#: includes/class-wc-gateway-nexi-xpay.php:683
+#, php-format
+msgid "%1$s ending in %2$s (expiry %3$s/%4$s)"
+msgstr "%1$s termina con %2$s (scadenza %3$s/%4$s)"
+
+#: includes/class-wc-gateway-nexi-xpay-api.php:148
+#, php-format
+msgid "Refuond %s OK"
+msgstr "rimborso %s OK"
+
+#: includes/class-wc-gateway-nexi-xpay-api.php:156
+#: includes/class-wc-gateway-nexi-xpay-api.php:157
+#: includes/class-wc-gateway-nexi-xpay-api.php:211
+#: includes/class-wc-gateway-nexi-xpay-api.php:212
+#: includes/class-wc-gateway-nexi-xpay-api.php:263
+#: includes/class-wc-gateway-nexi-xpay-api.php:264
+msgid "Error in the calculation of the return MAC parameter"
+msgstr "Errore nel calcolo del MAC di ritorno"
+
+#: includes/class-wc-gateway-nexi-xpay-api.php:214
+#, php-format
+msgid "The transaction %s OK"
+msgstr "Transazione %s OK"
+
+#: includes/class-wc-gateway-nexi-xpay-api.php:217
+#, php-format
+msgid "The transaction %s was rejected. Error detail: %s. payLoad: %s"
+msgstr ""
+"La transazione %s è stata rifiutata. dettaglio errore: %s. payLoad richiesta:"
+" %s"
+
+#: includes/class-wc-gateway-nexi-xpay-api.php:218
+#, php-format
+msgid "The transaction %s was rejected. Error detail: %s"
+msgstr "La transazione %s è stata rifiutata. Dettagli errore: %s"
+
+#: includes/class-wc-gateway-nexi-xpay-api.php:256
+msgid "Transaction Result: OK"
+msgstr "Risultato Transazione OK"
+
+#: includes/class-wc-gateway-nexi-xpay-api.php:259
+#: includes/class-wc-gateway-nexi-xpay-api.php:260
+#, php-format
+msgid "Detail order %s operation was rejected. Error detail: %s"
+msgstr ""
+"L'operazione di dettaglio ordine %s è stata rifiutata. Dettagli errore: %s"
+
+#: includes/class-wc-gateway-nexi-xpay-api.php:333
+#, php-format
+msgid "CURL exec error: %s"
+msgstr "Errore CURL: %s"
+
+#: includes/class-wc-gateway-nexi-xpay-api.php:344
+msgid "JSON error"
+msgstr "Errore JSON"
+
+#: includes/class-wc-gateway-nexi-xpay-api.php:347
+msgid "Can't connect!"
+msgstr "Impossibile connettersi"
+
+#: includes/class-wc-gateway-nexi-xpay-admin-order-details.php:36
+msgid "XPay payment details "
+msgstr "Dettagli pagamento XPay"
+
+#. Description of the plugin
+msgid "New Nexi Payments gateway. Official Nexi XPay plugin."
+msgstr "Gateway di pagamento Nexi. Plugin ufficiale Nexi Xpay."
+
+#. Author of the plugin
+msgid "Nexi SpA"
+msgstr "Nexi SpA"
+
+#. Author URI of the plugin
+msgid "https://www.nexi.it"
+msgstr "https://www.nexi.it"

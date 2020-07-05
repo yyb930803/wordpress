@@ -1,0 +1,1087 @@
+# Translation of Plugins - YITH WooCommerce Compare - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Compare - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-13 21:30:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Compare - Stable (latest release)\n"
+
+#: plugin-fw/lib/yit-plugin-panel.php:1269
+msgid ":) Thanks!"
+msgstr ":) Grazie!"
+
+#: plugin-fw/lib/yit-plugin-panel.php:1268
+msgid "help us by leaving a five-star rating"
+msgstr "aiutaci lasciando una valutazione 5 stelle"
+
+#: plugin-fw/lib/yit-plugin-panel.php:1266
+msgid "to keep updating and improving the plugin. Please,"
+msgstr "per continuare ad aggiornare e a migliorare il plugin. Per favore,"
+
+#: plugin-fw/lib/yit-plugin-panel.php:1265
+msgid "We need your support"
+msgstr "Abbiamo bisogno del tuo supporto"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:46
+msgid "Output IP Address"
+msgstr "Indirizzo IP (output)"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:38
+msgid "Site URL"
+msgstr "URL del sito"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:160
+msgid "<b>ImageMagick</b> module is not installed. Ask your hosting company to install it."
+msgstr " Il modulo <b>ImageMagick</b> non è installato. Chiedo al tuo servizio hosting di installarlo. "
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:157
+msgid "We cannot determine which <b>TLS</b> version is installed because <b>cURL</b> module is disabled. Ask your hosting company to enable it."
+msgstr "Non è stato possibile determinare quale versione <b>TLS</b> è installata in quanto il modulo <b>cURL</b> è disattivato. Chiedi al tuo servizio hosting di attivarlo."
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:82
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/class.yith-woocompare-admin.php:153
+msgctxt "Admin Plugin Name"
+msgid "WooCommerce Compare"
+msgstr "WooCommerce Compare"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:193
+msgid "Back to top"
+msgstr "Torna su"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:176
+msgid "Back to System panel"
+msgstr "Torna al pannello del sistema"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:172
+msgid "Show full PHPInfo"
+msgstr "Mostra PHPInfo"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:102
+#: plugin-fw/templates/sysinfo/system-information-panel.php:137
+#: plugin-fw/templates/sysinfo/system-information-panel.php:151
+msgid "Read more %s here%s or contact your hosting company in order to increase it."
+msgstr "Per approfondimenti fai clic %s qui%s o contatta il tuo hosting per aumentarlo. "
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:134
+msgid "Contact your hosting company in order to enable it."
+msgstr "Per attivarlo contatta il tuo servizio hosting. "
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:126
+msgid "Remove %s from %s file"
+msgstr "Rimuovi %s dal file %s"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:122
+msgid "Contact your hosting company in order to update it."
+msgstr "Contatta il tuo servizio hosting per aggiornarlo. "
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:116
+msgid "Update it to the latest version in order to benefit of all new features and security updates."
+msgstr "Per beneficiare di tutte le nuove funzionalità e degli aggiornamenti di sicurezza, aggiorna all'ultima versione. "
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:105
+msgid "%s needs at least %s version"
+msgstr "%s necessita almeno della versione %s"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:100
+#: plugin-fw/templates/sysinfo/system-information-panel.php:149
+msgid "For optimal functioning of our plugins, we suggest setting at least %s of available memory"
+msgstr "Per il funzionamento ottimale dei nostri plugin consigliamo di impostare almeno %s di memoria disponibile"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:98
+msgid "%s needs at least %s of available memory"
+msgstr "%s necessita almeno %s di memoria disponibile"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:96
+msgid "%s needs %s enabled"
+msgstr "%s necessita l'attivazione di %s"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:76
+msgid "Disabled"
+msgstr "Disattivato"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:76
+msgid "Enabled"
+msgstr "Attivato"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:30
+msgid "YITH System Information"
+msgstr "YITH System Information"
+
+#: plugin-fw/templates/fields/ajax-customers.php:83
+#: plugin-fw/templates/fields/ajax-customers.php:93
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: plugin-fw/templates/fields/ajax-customers.php:57
+msgid "Search Customers"
+msgstr "Cerca clienti"
+
+#: plugin-fw/lib/yith-system-status.php:298
+msgid "The system check has detected some compatibility issues on your installation. %sClick here%s to know more"
+msgstr "Il controllo del sistema ha rilevato dei problemi di compatibilità sulla tua installazione. Per maggiori informazioni %sfai clic qui%s"
+
+#: plugin-fw/lib/yith-system-status.php:297
+msgid "Warning!"
+msgstr "Attenzione!"
+
+#: plugin-fw/lib/yith-system-status.php:180
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: plugin-fw/lib/yith-system-status.php:117
+msgid "URL FOpen"
+msgstr "URL FOpen"
+
+#: plugin-fw/lib/yith-system-status.php:116
+msgid "OPCache Save Comments"
+msgstr "OPCache Save Comments"
+
+#: plugin-fw/lib/yith-system-status.php:115
+msgid "Iconv Module"
+msgstr "Iconv Module"
+
+#: plugin-fw/lib/yith-system-status.php:114
+msgid "GD Library"
+msgstr "GD Library"
+
+#: plugin-fw/lib/yith-system-status.php:113
+msgid "ImageMagick Version"
+msgstr "ImageMagick Version"
+
+#: plugin-fw/lib/yith-system-status.php:112
+msgid "MultiByte String"
+msgstr "MultiByte String"
+
+#: plugin-fw/lib/yith-system-status.php:111
+msgid "SimpleXML"
+msgstr "SimpleXML"
+
+#: plugin-fw/lib/yith-system-status.php:110
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+#: plugin-fw/lib/yith-system-status.php:109
+msgid "TLS Version"
+msgstr "Versione TLS"
+
+#: plugin-fw/lib/yith-system-status.php:108
+msgid "PHP Version"
+msgstr "Versione PHP"
+
+#: plugin-fw/lib/yith-system-status.php:107
+msgid "Available Memory"
+msgstr "Memoria disponibile"
+
+#: plugin-fw/lib/yith-system-status.php:106
+msgid "WooCommerce Version"
+msgstr "Versione WooCommerce"
+
+#: plugin-fw/lib/yith-system-status.php:105
+msgid "WordPress Version"
+msgstr "Versione WordPress"
+
+#: plugin-fw/lib/yith-system-status.php:135
+#: plugin-fw/lib/yith-system-status.php:136
+msgid "System Status"
+msgstr "Stato del sistema"
+
+#: plugin-fw/templates/fields/select-buttons.php:34
+msgid "Remove All"
+msgstr "Rimuovi tutto"
+
+#: plugin-fw/templates/fields/select-buttons.php:21
+msgid "Add All"
+msgstr "Aggiungi tutto"
+
+#: plugin-fw/templates/fields/date-format.php:50
+msgid "Custom:"
+msgstr "Personalizzato:"
+
+#: plugin-fw/lib/yith-dashboard.php:143
+msgctxt "Button label"
+msgid "Close"
+msgstr "Chiudi"
+
+#: plugin-fw/lib/yith-dashboard.php:100
+msgctxt "Plugin FW"
+msgid "Latest update released on"
+msgstr "Ultimo aggiornamento rilasciato il"
+
+#: plugin-fw/lib/yith-dashboard.php:99
+msgctxt "Plugin FW"
+msgid "View Changelog"
+msgstr "Visualizza il changelog"
+
+#: plugin-fw/lib/yith-dashboard.php:71
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Si è verificato un errore probabilmente causato dal feed non disponibile. Riprova più tardi."
+
+#: plugin-fw/lib/yith-dashboard.php:65
+msgid "RSS Error:"
+msgstr "Errore RSS:"
+
+#: plugin-fw/lib/yith-dashboard.php:41
+msgid "Latest news from YITH Blog"
+msgstr "Ultime novità dal blog YITH"
+
+#: plugin-fw/lib/yith-dashboard.php:40
+msgid "YITH Latest Updates"
+msgstr "Ultimi aggiornamenti YITH"
+
+#: plugin-fw/lib/yith-gutenberg.php:134
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "YITH"
+
+#. Author of the plugin
+msgid "YITH"
+msgstr "YITH"
+
+#: templates/admin/premium.php:436
+msgid "Moreover, if you want to give your users the chance to see in a glance how many products they have added to the Compare list, feel free to use the widget or the shortcode included. And their Compare list is always no more than one click away."
+msgstr "Inoltre, se vuoi dare ai tuoi utenti la possibilità di vedere in un batter d'occhio quanti prodotti hanno aggiunto alla lista di comparazione, puoi usare il widget o shortcode inclusi. E la loro lista è sempre non più lontana di un clic. "
+
+#: templates/admin/premium.php:433
+msgid "Compare counter - widget and shortcode"
+msgstr "Contatore Compare - widget e shortcode"
+
+#: templates/admin/premium.php:420
+msgid "Compare list - widget"
+msgstr "Lista Compare - widget"
+
+#. Description of the plugin
+msgid "The <code><strong>YITH WooCommerce Compare</strong></code> plugin allow you to compare in a simple and efficient way products on sale in your shop and analyze their main features in a single table. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</strong></a>."
+msgstr "Il plugin <code><strong>YITH WooCommerce Compare</strong></code> permette di confrontare i prodotti in vendita nel tuo negozio in un modo semplice ed efficace per poter analizzare le loro funzionalità principali in un'unica tabella. <a href=\"https://yithemes.com/\" target=\"_blank\">Ottieni più plugin per il tuo e-commerce su <strong>YITH</strong></a>."
+
+#: plugin-fw/yit-plugin.php:194 includes/class.yith-woocompare-admin.php:121
+msgid "License"
+msgstr "Licenza"
+
+#: plugin-fw/yit-plugin.php:190
+msgctxt "Action links"
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: plugin-fw/yit-plugin.php:98
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "Versione premium"
+
+#: plugin-fw/yit-plugin.php:93
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "Supporto"
+
+#: plugin-fw/yit-plugin.php:88
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: plugin-fw/yit-plugin.php:83
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "Demo live"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:72
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "Pagamenti"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:69
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "Cosa condividiamo con altri"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:66
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "Chi del nostro team ha accesso"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:63
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "Cosa raccogliamo e conserviamo"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:59
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "Questo esempio include gli elementi di base sulla raccolta dei dati personali, la memorizzazione e la condivisione, nonché su chi è autorizzato ad accedere a tali dati. In base alle impostazioni abilitate e ai moduli di estensione aggiuntivi utilizzati, le informazioni specifiche condivise dal nostro negozio possono variare. Ti consigliamo di consultare un legale al momento di decidere quali informazioni divulgare nell'informativa sulla privacy."
+
+#: plugin-fw/lib/privacy/yit-privacy.php:24
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "Plugin YITH"
+
+#: plugin-fw/templates/fields/ajax-posts.php:57
+msgid "Search Posts"
+msgstr "Cerca articoli"
+
+#: includes/class.yith-woocompare-helper.php:51
+msgid "Sku"
+msgstr "SKU"
+
+#: plugin-fw/templates/fields/icons.php:58
+msgid "Set Default"
+msgstr "Imposta come predefinito"
+
+#: plugin-fw/templates/fields/ajax-products.php:16
+msgid "Search Product"
+msgstr "Cerca prodotto"
+
+#: includes/class.yith-woocompare-frontend.php:229
+msgctxt "Label for popup close icon"
+msgid "Close"
+msgstr "Chiudi"
+
+#: includes/class.yith-woocompare-admin.php:154
+msgctxt "Admin Plugin Name"
+msgid "Compare"
+msgstr "Compare"
+
+#: includes/class.yith-woocompare-helper.php:54
+msgid "Dimensions"
+msgstr "Dimensioni"
+
+#: includes/class.yith-woocompare-helper.php:53
+msgid "Weight"
+msgstr "Peso"
+
+#: plugin-fw/lib/yit-plugin-panel.php:455
+#: plugin-fw/lib/yit-plugin-panel.php:458
+msgid "How to install premium version"
+msgstr "Come installare la versione premium"
+
+#. Plugin URI of the plugin
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-compare/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-compare/"
+
+#: templates/admin/premium.php:423
+msgid "Thanks to YITH WooCommerce Comapre Widget users could verify at any time the complete list of products added to the compare tab and avoid to open the popup to check its existence. "
+msgstr "Grazie al widget YITH WooCommerce Compare, gli utenti potranno controllare in qualsiasi momento la lista completa dei prodotti aggiunti alla tab per il confronto ed evitare di aprire un popup per assicurarsi che ci siano."
+
+#: plugin-fw/templates/fields/upload.php:29
+msgid "Reset"
+msgstr "Reimposta"
+
+#: templates/admin/premium.php:404
+msgid "Select the products you want to compare and the system will offer you the %1$sshortcode%2$s to generate a comparing table. Simple, rapid and useful."
+msgstr "Seleziona i prodotti che vuoi confrontare e il sistema ti offrirà lo %1$sshortcode%2$s per creare una tabella comparativa. Semplice, rapido e utile."
+
+#: templates/admin/premium.php:401
+msgid "A TAILORED TABLE"
+msgstr "UNA TABELLA SU MISURA"
+
+#: templates/admin/premium.php:391
+msgid "Let you users compare products following every feature, and considering also all those %1$sattributes%2$s that can be manually created in within the product detail page. Every single detail will be included."
+msgstr "Lascia che i tuoi utenti confrontino i prodotti per ciascuna funzionalità e tenendo in considerazione anche tutti quegli %1$sattributi%2$s che possono essere creati manualmenti nella pagina dettagli del prodotto. Ogni singolo dettaglio sarà incluso."
+
+#: templates/admin/premium.php:388
+msgid "CUSTOMIZED ATTRIBUTES"
+msgstr "ATTRIBUTI PERSONALIZZATI"
+
+#. Author URI of the plugin
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#. Plugin Name of the plugin
+msgid "YITH WooCommerce Compare"
+msgstr "YITH WooCommerce Compare"
+
+#: widgets/class.yith-woocompare-widget.php:50
+msgid "Clear all"
+msgstr "Cancella tutti"
+
+#: widgets/class.yith-woocompare-widget.php:27
+msgid "YITH WooCommerce Compare Widget"
+msgstr "YITH Woocommerce Compare Widget"
+
+#: widgets/class.yith-woocompare-widget.php:23
+msgid "The widget shows the list of products added in the comparison table."
+msgstr "Widget che mostra la lista dei prodotti aggiunti alla tabella di confronto."
+
+#: templates/compare.php:107
+msgid "No products added in the compare table."
+msgstr "Nessun prodotto aggiunto nella tabella di comparazione."
+
+#: templates/compare.php:77
+msgid "Close window [X]"
+msgstr "Chiudi finestra [X]"
+
+#: templates/admin/premium.php:372
+msgid "An advanced option panel that let you change all the colors of the plugin, so that you can adapt stylistically all its elements %1$sto the layout%2$s of your shop.We know it, looks also count... and we give you the right tools to get to the best result."
+msgstr "Un pannello opzioni avanzato ti permetterà di modificare tutti i colori del plugin, così da poter adattare i suoi elementi di stile al %1$slayout%2$s del tuo negozio. Lo sappiamo bene, anche l'aspetto conta... e per questo ti offriamo gli strumenti giusti per ottenere il miglior risultato."
+
+#: templates/admin/premium.php:369
+msgid "CUSTOMIZABLE STYLE"
+msgstr "STILE PERSONALIZZABILE"
+
+#: templates/admin/premium.php:359
+msgid "All the products that have common categories and/or tags with those in the comparison table will be showed in a slider, right under the comparison table.%3$sA completely %1$s\"touch friendly\"%2$s slider to encourage your users to discover the shop products of the shop related to those they are interested into."
+msgstr "Tutti i prodotti che hanno categorie e/o tag in comune con quelli presenti nella tabella comparativa saranno mostrati all’utente all’interno di uno slider, appena sotto la tabella comparativa.%3$sUno slider completamente %1$s“touch-friendly”%2$s per invitare i tuoi utenti a scoprire i prodotti del tuo shop affini a quelli che hanno attirato il loro interesse."
+
+#: templates/admin/premium.php:356
+msgid "RELATED PRODUCTS"
+msgstr "PRODOTTI CORRELATI"
+
+#: templates/admin/premium.php:340
+msgid "One of the most appealing features of the premium version of the plugin.Four social network sites for your users (Facebook, Twitter, Google + and Pinterest) and the email system %1$sto share%2$s the comparison table of the products they have selected."
+msgstr "Una delle novità più suggestive della versione premium del plugin: quattro social network da mettere a disposizione dei tuoi utenti (Facebook, Twitter, Google+ e Pinterest) e il servizio email per permettere loro di %1$sconvidere%2$s in rete la tabella comparativa dei prodotti che hanno selezionato."
+
+#: templates/admin/premium.php:337
+msgid "SOCIAL NETWORK SHARING"
+msgstr "CONDIVISIONE SUI SOCIAL NETWORK"
+
+#: templates/admin/premium.php:327
+msgid "With this precious feature, you will be able to show in the table only the fields that have information in at least one of the selected products.%3$sActivate the %1$s\"Dynamic Attribute fields\"%2$s option and there will be no more empty lines in your comparison table."
+msgstr "Grazie a questa preziosa funzionalità avrai la possibilità di mostrare nella tabella solo quei campi che sono stati impostati in almeno uno dei prodotti presenti.%3$sAttiva l’opzione %1$s“Dynamic Attribute fields”%2$s e non esisteranno più righe della tabella comparativa senza alcun valore di confronto."
+
+#: templates/admin/premium.php:324
+msgid "DYNAMIC FIELDS"
+msgstr "CAMPI DINAMICI"
+
+#: templates/admin/premium.php:308
+msgid "Give a personal touch to the %1$scomparison table%2$s your users will see. Select an image, upload it from the option panel and show it ahead of the table to your users. "
+msgstr "Da’ un tocco in più alla %1$stabella di comparazione%2$s che viene visualizzata dagli utenti. Seleziona un’immagine, effettua l’upload dal pannello opzioni e mostrala agli utenti in testa alla tabella."
+
+#: templates/admin/premium.php:305
+msgid "TABLE IMAGE"
+msgstr "IMMAGINE TABELLA"
+
+#: templates/admin/premium.php:295
+msgid "In your shop there may be product categories you don't want to be affected by the plugin features, deleting the comparison button for them. The premium version of the plugin offers this too.%3$sAnd there's more! Activating the %1$s\"Reverse exclusion list\"%2$s option, you can also invert the behavior of the feature, allowing the comparison only to those products of the selected categories."
+msgstr "Nel tuo shop potrebbero esistere categorie di prodotto per cui non vuoi abilitare le funzionalità del plugin e dalle quali, quindi, vorresti rimuovere il pulsante di comparazion. La versione premium del plugin ha pensato anche a questo.%3$sMa non finisce qui. Attivando l’opzione %1$s“Reverse exclusion list”%2$s, puoi invertire la logica di questo comportamento, consentendo il confronto solo sui prodotti associati con le categorie selezionate."
+
+#: templates/admin/premium.php:292
+msgid "CATEGORY EXCLUSION "
+msgstr "ESCLUSIONE CATEGORIE"
+
+#: templates/admin/premium.php:276
+msgid "People are often confused by finding products of different categories in the comparison table, creating difficulties in comparing the products they are interested into.The %1$s\"Compare by category\"%2$s option exists for this need: you will be able to separate the products in the table by category affinity."
+msgstr "Trovare all’interno della tabella comparativa prodotti di tipologia diversa spesso confonde gli utenti, generando difficoltà nel confrontare due prodotti a cui sono interessati. L’opzione %1$s“Compare by category”%2$s nasce proprio per venire incontro a questa esigenza, in modo tale da poter suddividere i prodotti presenti nella tabella a seconda della categoria di appartenenza."
+
+#: templates/admin/premium.php:273
+msgid "CATEGORY COMPARATION"
+msgstr "CONFRONTO PER CATEGORIA"
+
+#: templates/admin/premium.php:263
+msgid "Don't you want to compare your products in a modal window anymore?%3$sWith the premium version of %1$sYITH WooCommerce Compare%2$s, a new page will be created automatically in your site and, adding it among the menu entries, you will be able to give to your users the chance to access it easily whenever they want."
+msgstr "Sei stufo di dover mostrare i prodotti messi a confronto all’interno di una finestra modale? %3$sCon %1$sYITH WooCommerce Compare premium%2$s verrà creata automaticamente una nuova pagina all’interno del tuo sito e, aggiungendola tra le voci di menu, potrai dare ai tuoi utenti la possibilità di accedervi in qualsiasi momento e in maniera agevole."
+
+#: templates/admin/premium.php:260
+msgid "A DEDICATED PAGE"
+msgstr "UNA PAGINA DEDICATA"
+
+#: templates/admin/premium.php:252
+msgid "Premium Features"
+msgstr "Funzionalità premium"
+
+#: templates/admin/premium.php:246 templates/admin/premium.php:452
+msgid "to the premium version"
+msgstr "alla versione premium"
+
+#: templates/admin/premium.php:245 templates/admin/premium.php:451
+msgid "UPGRADE"
+msgstr "AGGIORNA"
+
+#: templates/admin/premium.php:242 templates/admin/premium.php:448
+msgid "Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Compare%2$s to benefit from all features!"
+msgstr "Aggiorna alla %1$sversione premium%2$s di %1$sYITH WooCommerce Compare%2$s per usufruire di tutte le sue funzionalità!"
+
+#: plugin-options/general-options.php:114
+msgid "Set the size for the images"
+msgstr "Imposta la dimensione per le immagini"
+
+#: plugin-options/general-options.php:113
+msgid "Image size"
+msgstr "Dimensione immagine"
+
+#: plugin-options/general-options.php:106
+msgid "Repeat the \"Add to cart\" field at the end of the table"
+msgstr "Ripeti il campo \"Aggiungi al carrello\" alla fine di ogni tabella"
+
+#: plugin-options/general-options.php:105
+msgid "Repeat \"Add to cart\" field"
+msgstr "Ripeti campo \"Aggiungi al carrello\""
+
+#: plugin-options/general-options.php:98
+msgid "Repeat the \"Price\" field at the end of the table"
+msgstr "Ripeti il campo \"Prezzo\" alla fine di ogni tabella"
+
+#: plugin-options/general-options.php:97
+msgid "Repeat \"Price\" field"
+msgstr "Ripeti campo \"Prezzo\""
+
+#: plugin-options/general-options.php:90
+msgid "Select the fields to show in the comparison table and order them by drag&drop (are included also the woocommerce attributes)"
+msgstr "Seleziona i campi da mostrare nella tabella di comparazione e ordinali attraverso il drag&drop (sono inclusi anche gli attributi di woocommerce)"
+
+#: plugin-options/general-options.php:89
+msgid "Fields to show"
+msgstr "Campi da mostrare"
+
+#: plugin-options/general-options.php:84 templates/compare.php:22
+msgid "Compare products"
+msgstr "Compara prodotti"
+
+#: plugin-options/general-options.php:82
+msgid "Type the text to use for the table title."
+msgstr "Inserisci il testo da utilizzare come titolo della tabella."
+
+#: plugin-options/general-options.php:81
+msgid "Table title"
+msgstr "Titolo Tabella"
+
+#: plugin-options/general-options.php:74
+msgid "Table Settings"
+msgstr "Impostazioni tabella."
+
+#: plugin-options/general-options.php:62
+msgid "Open link after click into \"Compare\" button\"."
+msgstr "Apri pagina dopo aver cliccato sul pulsante \"Compare\"."
+
+#: plugin-options/general-options.php:61
+msgid "Open automatically lightbox"
+msgstr "Apri la lightbox automaticamente"
+
+#: plugin-options/general-options.php:54
+msgid "Say if you want to show the button in the products list."
+msgstr "Imposta se vuoi mostrare il pulsante nella lista prodotti."
+
+#: plugin-options/general-options.php:53
+msgid "Show button in products list"
+msgstr "Mostra pulsante nella lista prodotti"
+
+#: plugin-options/general-options.php:46
+msgid "Say if you want to show the button in the single product page."
+msgstr "Scegli se vuoi mostrare il pulsante nella pagina dettaglio del prodotto."
+
+#: plugin-options/general-options.php:45
+msgid "Show button in single product page"
+msgstr "Mostra pulsante nella pagina del dettaglio prodotto"
+
+#: plugin-options/general-options.php:38
+msgid "Type the text to use for the button or the link of the compare."
+msgstr "Inserisci il testo da utilizzare per il pulsante o il collegamento che ti permetterà di confrontare i prodotti."
+
+#: plugin-options/general-options.php:37
+msgid "Link/Button text"
+msgstr "Testo Link/Pulsante"
+
+#: plugin-options/general-options.php:32
+msgid "Button"
+msgstr "Pulsante"
+
+#: plugin-options/general-options.php:31
+msgid "Link"
+msgstr "Collegamento"
+
+#: plugin-options/general-options.php:25
+msgid "Choose if you want to use a link or a button for the comepare actions."
+msgstr "Scegli se vuoi usare un collegamento o un pulsante per l'azione di \"Comparazione\""
+
+#: plugin-options/general-options.php:24
+msgid "Link or Button"
+msgstr "Collegamento o Pulsante"
+
+#: plugin-options/general-options.php:17
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:20
+msgid "Reset Defaults"
+msgstr "Ripristina impostazioni iniziali"
+
+#: plugin-fw/templates/fields/sidebars.php:52
+msgid "Right Sidebar"
+msgstr "Barra laterale destra"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "Barra laterale sinistra"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Choose a sidebar"
+msgstr "Scegli una barra laterale"
+
+#: plugin-fw/templates/fields/sidebars.php:25
+msgid "Right sidebar"
+msgstr "Barra laterale destra"
+
+#: plugin-fw/templates/fields/sidebars.php:28
+#: plugin-fw/templates/fields/sidebars.php:31
+msgid "No sidebar"
+msgstr "Nessuna barra laterale"
+
+#: plugin-fw/templates/fields/sidebars.php:22
+msgid "Left sidebar"
+msgstr "Barra laterale sinistra"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete"
+msgstr "Elimina"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add images"
+msgstr "Aggiungi immagini"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add to gallery"
+msgstr "Aggiungi alla galleria"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add Images to Gallery"
+msgstr "Aggiungi immagini alla galleria"
+
+#: plugin-fw/templates/fields/image-gallery.php:34
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete image"
+msgstr "Rimuovi immagine"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:92
+msgid "(Default: <i %s></i> )"
+msgstr "(Default: <i %s></i> )"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:90
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr "(Default: %s <img src=\"%s\"/>)"
+
+#: plugin-fw/templates/fields/customtabs.php:106
+msgid "Do you want to remove the custom tab?"
+msgstr "Vuoi rimuovere la scheda personalizzata?"
+
+#: plugin-fw/templates/fields/customtabs.php:65
+msgid "Add custom product tab"
+msgstr "Aggiungi scheda prodotto personalizzata"
+
+#: plugin-fw/templates/fields/customtabs.php:53
+#: plugin-fw/templates/fields/customtabs.php:95
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Contenuto della scheda (codice HTML supportato)."
+
+#: plugin-fw/templates/fields/customtabs.php:52
+#: plugin-fw/templates/fields/customtabs.php:94
+msgid "Value"
+msgstr "Valore"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Expand all"
+msgstr "Espandi tutti"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Close all"
+msgstr "Chiudi tutti"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:76
+msgid "Image preview"
+msgstr "Anteprima immagine"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:70
+#: plugin-fw/templates/fields/upload.php:27
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:40
+msgid "Upload"
+msgstr "Carica"
+
+#: plugin-fw/lib/yit-pointers.php:85
+msgid ""
+"From now on, you can find the option panel of YITH plugins in YITH Plugins menu.\n"
+"                                    Every time one of our plugins is added, a new entry will be added to this menu.\n"
+"                                    For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    will be moved from previous location to YITH Plugins tab."
+msgstr ""
+"Da ora in poi, troverai tutte le opzioni dei tuoi plugin nel menu YITH Plugins.\n"
+"Ogni volta che aggiornerai i nostri plugin, troverai una nuova voce in questo menu.\n"
+"Per esempio, dopo l'aggiornamento, le opzioni del plugin (come per esempio quelle di YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search etc.)\n"
+"saranno trasferite nella scheda YITH Plugins."
+
+#: plugin-fw/lib/yit-pointers.php:84
+msgid "Plugins Upgraded"
+msgstr "Plugin aggiornati"
+
+#: plugin-fw/lib/yit-pointers.php:74 plugin-fw/lib/yit-pointers.php:90
+msgid "and"
+msgstr "e"
+
+#: plugin-fw/lib/yit-pointers.php:73 plugin-fw/lib/yit-pointers.php:89
+msgid "Discover all our plugins available on:"
+msgstr "Scopri tutti i plugin disponibili su:"
+
+#: plugin-fw/lib/yit-pointers.php:71
+msgid ""
+"From now on, you can find all plugin options in YITH Plugins menu.\n"
+"                                     Plugin customization settings will be available as a new entry in YITH Plugins menu."
+msgstr ""
+"Da ora in poi, puoi trovare tutte le opzioni dei tuoi plugin nel menu YITH Plugin.\n"
+"Troverai le impostazioni di personalizzazione sotto una nuova voce nel menu YITH Plugin."
+
+#: plugin-fw/lib/yit-pointers.php:70
+msgid "Plugins Activated"
+msgstr "Plugin attivati"
+
+#: plugin-fw/lib/yit-plugin-panel.php:817
+msgid "Sorting successful."
+msgstr "Ordinamento effettuato con successo."
+
+#: plugin-fw/lib/yit-plugin-panel.php:816
+msgid "Sorry, import is disabled."
+msgstr "Ci dispiace, l'importazione è disabilitata."
+
+#: plugin-fw/lib/yit-plugin-panel.php:815
+msgid "The added file is not valid."
+msgstr "Il file aggiunto non è valido."
+
+#: plugin-fw/lib/yit-plugin-panel.php:814
+msgid "An error has occurred during import. Please try again."
+msgstr "Si è verificato un errore durante l'importazione. Prova di nuovo."
+
+#: plugin-fw/lib/yit-plugin-panel.php:813
+msgid "Database imported correctly."
+msgstr "Database importato correttamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:811
+#: plugin-fw/lib/yit-plugin-panel.php:812
+msgid "Element updated correctly."
+msgstr "Elemento aggiornato correttamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:810
+msgid "Element deleted correctly."
+msgstr "Elemento rimosso correttamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:809
+msgid "Settings reset"
+msgstr "Impostazioni azzerate"
+
+#: plugin-fw/lib/yit-plugin-panel.php:808
+msgid "Settings saved"
+msgstr "Impostazioni salvate"
+
+#: plugin-fw/lib/yit-plugin-panel.php:807
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "L'elemento inserito esiste già. Per favore, inserisci un altro nome."
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:21
+#: plugin-fw/lib/yit-plugin-subpanel.php:157
+#: plugin-fw/lib/yit-plugin-panel.php:609
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:156
+#: plugin-fw/lib/yit-plugin-panel.php:608
+msgid "Reset to default"
+msgstr "Ripristina configurazione predefinita"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:17
+#: plugin-fw/lib/yit-plugin-subpanel.php:154
+#: plugin-fw/lib/yit-plugin-panel.php:606
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Se prosegui con questa azione, tutte le opzioni di questa pagina saranno reimpostate."
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+#: plugin-fw/lib/yit-plugin-panel.php:603
+msgid "Save Changes"
+msgstr "Salva modifiche"
+
+#: plugin-fw/lib/yith-system-status.php:179
+msgid "YITH Plugins"
+msgstr "Plugin YITH"
+
+#: plugin-fw/lib/yit-plugin-panel.php:79
+msgid "Plugin Settings"
+msgstr "Impostazioni plugin"
+
+#: plugin-fw/lib/yit-plugin-panel-wc.php:399
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "Perderai tutti i cambiamenti effettuati se lasci questa pagina."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1638
+msgid "Upload multiple files"
+msgstr "Carica file multipli"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1635
+msgid "Add %s from images"
+msgstr "Aggiungi %s dalla immagini"
+
+#: plugin-fw/templates/fields/customtabs.php:46
+#: plugin-fw/templates/fields/customtabs.php:89
+#: plugin-fw/lib/yit-cpt-unlimited.php:1484
+msgid "Name"
+msgstr "Nome"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1477
+msgid "Show frontend of the %s"
+msgstr "Mostra front end di %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1224
+#: plugin-fw/lib/yit-cpt-unlimited.php:1237
+msgid "Quick links"
+msgstr "Link rapidi"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1132
+msgid "layout settings"
+msgstr "impostazioni di layout"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1091
+msgid "Layout for single page of this portfolio"
+msgstr "Layout per pagina singola per questo portfolio"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1090
+msgid "Single layout"
+msgstr "Layout singolo"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1085
+msgid "Set univocal name for each category page URL."
+msgstr "Imposta un nome univoco per l'URL della pagina di ciascuna categoria."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1084
+msgid "Taxonomy Rewrite"
+msgstr "Riscrivi tassonomia"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1079
+msgid "If you want to use categories in the portfolio, set a name for taxonomy. Name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+msgstr "Se vuoi aggiungere delle categorie nel portfolio, imposta un nome per la tassonomia. Il nome dovrà essere in forma di slug (non deve contenere caratteri maiuscoli né spazi) e non più lungo di 32 caratteri (restrizione di database)."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1078
+msgid "Taxonomy"
+msgstr "Tassonomia"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1073
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr "Imposta un'etichetta plurale (titolo del portfolio se vuoto)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1072
+msgid "Label in Plural"
+msgstr "Etichetta plurale"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1067
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr "Imposta un'etichetta singolare (titolo del portfolio se vuoto)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1066
+msgid "Label in Singular"
+msgstr "Etichetta singolare"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1061
+msgid "Univocal identification name in the URL for each product (slug from post if empty)"
+msgstr "Nome identificativo univoco nell'URL per singolo prodotto (usa slug dal post se vuoto)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1060
+msgid "Rewrite"
+msgstr "Riscrivi"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1054
+msgid "Layout for this %s"
+msgstr "Layout per questo %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1053
+msgid "Type"
+msgstr "Tipologia"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1044
+msgid "%s Settings"
+msgstr "Impostazioni %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:726
+msgid "Categories"
+msgstr "Categorie"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:637
+msgid "Category"
+msgstr "Categoria"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:636
+msgid "New Category Name"
+msgstr "Nuovo nome categoria"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:635
+msgid "Add New Category"
+msgstr "Aggiungi nuova categoria"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:634
+msgid "Update Category"
+msgstr "Aggiorna categoria"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:633
+msgid "Edit Category"
+msgstr "Modifica categoria"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:632
+msgid "Parent Category:"
+msgstr "Categoria genitore:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:631
+msgid "Parent Category"
+msgstr "Categoria genitore"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:630
+msgid "All Categories"
+msgstr "Tutte le categorie"
+
+#: plugin-fw/templates/fields/ajax-terms.php:56
+#: plugin-fw/lib/yit-cpt-unlimited.php:629
+msgid "Search Categories"
+msgstr "Cerca categorie"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:628
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Categoria"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:627
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr "%s Categorie"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:470
+#: plugin-fw/lib/yit-cpt-unlimited.php:584
+msgid "No %s found in Trash"
+msgstr "Nessun %s trovato nel cestino"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:469
+#: plugin-fw/lib/yit-cpt-unlimited.php:583
+msgid "No %s found"
+msgstr "Nessun %s trovato"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:468
+#: plugin-fw/lib/yit-cpt-unlimited.php:582
+msgid "Search %s"
+msgstr "Cerca %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:467
+#: plugin-fw/lib/yit-cpt-unlimited.php:581
+#: plugin-fw/lib/yit-cpt-unlimited.php:1253
+#: plugin-fw/lib/yit-cpt-unlimited.php:1307
+msgid "View %s"
+msgstr "Visualizza %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:466
+#: plugin-fw/lib/yit-cpt-unlimited.php:580
+msgid "All %s"
+msgstr "Tutti %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:465
+#: plugin-fw/lib/yit-cpt-unlimited.php:579
+msgid "New %s"
+msgstr "Nuovo %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:464
+#: plugin-fw/lib/yit-cpt-unlimited.php:578
+#: plugin-fw/lib/yit-cpt-unlimited.php:1269
+#: plugin-fw/lib/yit-cpt-unlimited.php:1306
+msgid "Edit %s"
+msgstr "Modifica %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:463
+#: plugin-fw/lib/yit-cpt-unlimited.php:577
+msgid "Add New %s"
+msgstr "Aggiungi nuovo %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:462
+#: plugin-fw/lib/yit-cpt-unlimited.php:576
+#: plugin-fw/lib/yit-cpt-unlimited.php:721
+#: plugin-fw/lib/yit-cpt-unlimited.php:1636
+msgid "Add %s"
+msgstr "Aggiungi %s"
+
+#: init.php:50
+msgid "You can't activate the free version of YITH WooCommerce Compare while you are using the premium one."
+msgstr "Non è possibile attrivare la versione free di YITH WooCommerce Compare se stai già utilizzando la premium."
+
+#: init.php:42
+msgid "YITH WooCommerce Compare is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Compare è abilitato ma non in funzione. Devi aver installato WooCommerce perché questo possa funzionare correttamente."
+
+#: includes/class.yith-woocompare-helper.php:52
+msgid "Availability"
+msgstr "Disponibilità"
+
+#: includes/class.yith-woocompare-helper.php:50
+msgid "Description"
+msgstr "Descrizione"
+
+#: includes/class.yith-woocompare-helper.php:49
+msgid "Add to cart"
+msgstr "Aggiungi al carrello"
+
+#: includes/class.yith-woocompare-helper.php:48
+msgid "Price"
+msgstr "Prezzo"
+
+#: includes/class.yith-woocompare-helper.php:47
+#: widgets/class.yith-woocompare-widget.php:68
+msgid "Title"
+msgstr "Titolo"
+
+#: includes/class.yith-woocompare-helper.php:46
+msgid "Image"
+msgstr "Immagine"
+
+#: plugin-fw/templates/fields/customtabs.php:37
+#: plugin-fw/templates/fields/customtabs.php:81 templates/compare.php:119
+#: includes/class.yith-woocompare-frontend.php:709
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: includes/class.yith-woocompare-frontend.php:696
+msgid "No products to compare"
+msgstr "Nessun prodotto da comparare"
+
+#: includes/class.yith-woocompare-frontend.php:384
+msgid "In stock"
+msgstr "In stock"
+
+#: templates/compare.php:50 includes/class.yith-woocompare-frontend.php:224
+msgid "Product Comparison"
+msgstr "Comparazione Prodotto"
+
+#: includes/class.yith-woocompare-frontend.php:223
+msgid "Added"
+msgstr "Aggiungo"
+
+#: includes/class.yith-woocompare-admin.php:400
+msgid "Do you want to hard crop the image?"
+msgstr "Vuoi ritagliare questa immagine?"
+
+#: includes/class.yith-woocompare-admin.php:256
+msgid "From now on, you can find all the options of YITH WooCommerce Compare under YIT Plugin -> Compare instead of WooCommerce -> Settings -> Compare, as in the previous version. When one of our plugins is updated, a new voice will be added to this menu. YITH WooCommerce Compare has been updated with new available options, <a href=\"%s\">discover the PREMIUM version.</a>"
+msgstr "Da questo momento, puoi trovare tutte le opzioni di YITH WooCommerce Compare in YIT Plugins > Compare invece che come era nella versione precedente in WooCommerce > Impostazioni > Compare. Quando uno dei nostri plugin viene aggiornato, sarà aggiunta una nuova voce di a questo menù. YITH WooCommerce Compare è stato aggiornato includendo nuove opzioni, <a href=\"%s\">scopri la versione PREMIUM</a>."
+
+#: includes/class.yith-woocompare-admin.php:255
+msgid "YITH WooCommerce Compare Updated"
+msgstr "YITH WooCommerce Compare aggiornato"
+
+#: includes/class.yith-woocompare-admin.php:244
+msgid "In the YIT Plugin tab you can find the YITH WooCommerce Compare options. With this menu, you can access to all the settings of our plugins that you have activated. YITH WooCommerce Compare is available in an outstanding PREMIUM version with many new options, <a href=\"%s\">discover it now</a>."
+msgstr "Nella scheda YIT Plugins puoi trovare tutte le opzioni di YITH WooCommerce Compare. Da questo menù potrai accedere a tutte le impostazioni dei plugin YITH installati. È disponibile un'eccezionale versione PREMIUM di YITH WooCommerce Compare con molte nuove opzioni, <a href=\"%s\">scoprila subito</a>."
+
+#: includes/class.yith-woocompare-admin.php:243
+msgid "YITH WooCommerce Compare Activated"
+msgstr "YITH WooCommerce Compare attivato"
+
+#: plugin-options/general-options.php:40
+#: includes/class.yith-woocompare-frontend.php:227
+#: includes/class.yith-woocompare-frontend.php:505
+#: widgets/class.yith-woocompare-widget.php:51
+msgid "Compare"
+msgstr "Compara"
+
+#: includes/class.yith-woocompare-admin.php:147
+msgid "Premium Version"
+msgstr "Versione premium"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1050
+#: plugin-fw/lib/yit-cpt-unlimited.php:1198
+#: plugin-fw/lib/yit-cpt-unlimited.php:1204
+#: plugin-fw/lib/yit-plugin-panel.php:80
+#: includes/class.yith-woocompare-admin.php:119
+#: includes/class.yith-woocompare-admin.php:143
+msgid "Settings"
+msgstr "Impostazioni"

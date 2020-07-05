@@ -1,0 +1,1082 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Abandoned Cart Recovery Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-11 08:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:71
+msgid ""
+" If you want to use CronJob server, access your server and config with "
+"command:"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:127
+msgid "..."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:174
+msgid "1 - "
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:87
+msgid "1. Create a twilio's account at "
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:206
+msgid "10 - Select active page and turn on test mode."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:209
+msgid "11 - Add rule to send messages and save settings"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:212
+msgid "12 - Submit your app to Facebook, see video above"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:181
+msgid "2 - Create facebook application at "
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:89
+msgid "2. Login twilio's account "
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:185
+msgid "3 - At the Dashboard, add apps: Facebook login, Webhooks, Messenger."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:90
+msgid "3. Copy app id, app token & phone number to input fields above"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/templates/html-date-picker.php:20
+msgid "30 giorni"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/templates/html-date-picker.php:22
+msgid "365 days"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:188
+msgid ""
+"4 -  Go to Settings > Basic. Copy App ID, App secret into App ID, app secret "
+"input field above."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:92
+msgid "4. Create an bitly's account at "
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:191
+msgid ""
+"5 - Copy 'Valid OAuth redirected URls:' field to Facebook login > Settings "
+"in your app."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:94
+msgid "5. Login bitly's account "
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:194
+msgid ""
+"6 - Copy 'Callback Webhooks URL' & 'Verify Token' field to Webhooks > Page."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:95
+msgid ""
+"6. Go to Settings > Edit profile > Generic Access Token, enter your password "
+"& click 'Generate Token' "
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:197
+msgid ""
+"7 - Go to Messenger > Settings > Webhooks, click button 'Edit event', select "
+"'messages', 'messaging_postbacks', 'messaging_optins', "
+"'messaging_checkout_updates', 'message_echoes'."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:96
+msgid "7. Copy your access token to access token field & save settings"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:200
+msgid "8 - Click 'Save settings' button."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:203
+msgid "9 - Click 'Login Facebook' button."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/templates/html-date-picker.php:21
+msgid "90 days"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:218
+msgid "Abandoned"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:43
+msgid "Abandoned cart records will be automatically deleted after this time"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:42
+msgid "Abandoned Cart time for Guest"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:40
+msgid "Abandoned Cart time for Members"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:83
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:61
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:62
+msgid "Abandoned Carts"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/execute/abandoned-order-reminder.php:43
+msgid "Abandoned email sent"
+msgstr "Abandoned email inviata"
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:74
+msgid "Access token"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/cart-logs-report-table.php:105
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:489
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:87
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:245
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:121
+msgid "Action"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:110
+msgid "Action logs"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:126
+msgid "Active page"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/cart-logs-report-product.php:109
+msgid "Add item"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:68
+msgid "Add New"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:67
+msgid "Add New Email Template"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:528
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:135
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:284
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:169
+msgid "Add rule"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:56
+msgid "Add to cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/cart-logs-report-table.php:184
+msgid "Added"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:88
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:84
+msgid "All"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:65
+msgid "All Emails"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:162
+msgid "Amount"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/product-report-table.php:98
+msgid "Amount of Abandoned"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/product-report-table.php:100
+msgid "Amount of Recovered"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:75
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:45
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:54
+msgid "App ID"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:76
+msgid "App secret"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:46
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:55
+msgid "App token"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:42
+msgid "Appear on"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:63
+msgid "Auth ID"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:64
+msgid "Auth secret"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/update.php:36
+msgid "Auto update key"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:58
+msgid "Background color"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:71
+msgid "Bitly config"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:62
+msgid "Button background color"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:61
+msgid "Button color"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:79
+msgid "Callback Webhooks URL"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/facebook/fb-plugin.php:231
+msgid "Can I help you?"
+msgstr ""
+
+#. Description of the plugin
+msgid "Capture abandoned cart & send reminder emails to the customers."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:36
+msgid "Cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:144
+msgid "Cart Detail"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:159
+msgid "Cart Logs"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:52
+msgid "Cart logs"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:35
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:45
+msgid "Cart page"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:80
+msgid "Change webhooks verify token."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:36
+msgid "Checkout page"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:42
+msgid "Choose which pages where you want the request email pop-up appear"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:117
+msgid "Config"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:164
+msgid "Config and Submit Facebook app"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:83
+msgid "Config guide"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:71
+msgid "Connect"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:163
+msgid "Coupon"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:262
+msgid "Coupon amount"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:160
+msgid "Coupon Code"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:263
+msgid "Coupon expiry after x days"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:127
+msgid "Coupon settings"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:114
+msgid "Coupon used"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/product-report-table.php:97
+msgid "Current Abandoned"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/templates/html-date-picker.php:23
+msgid "Custom"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:143
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:111
+msgid "Customer"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:46
+msgid "Customers have to fill in an email to add products to cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:474
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:142
+msgid "Date"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:43
+msgid "Delete abandoned records"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:164
+msgid "Description"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:51
+msgid "Design"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:261
+msgid "Discount type"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:47
+msgid "Dismiss time"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:87
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:208
+msgid "Display"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:177
+msgid "Download attachment file"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:69
+msgid "Edit Email Templates"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/cart-logs-report-table.php:104
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:69
+msgid "Email"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:112
+msgid "Email Address"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:36
+msgid "Email for Abandoned Cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:48
+msgid "Email for Abandoned Order"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:74
+msgid "Email popup"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:46
+msgid "Email required"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:114
+msgid "Email settings"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:86
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:120
+msgid "Email template"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:121
+msgid "Email template builder"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:52
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:53
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:63
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:77
+msgid "Email Templates"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/define.php:240
+msgid ""
+"Email templates have been updated. Please re-create your email templates."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:57
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:108
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:117
+msgid "Enable"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:94
+msgid "Enable cron server"
+msgstr "Abilita"
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:271
+msgid "Exclude categories"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:51
+msgid "Exclude people"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:269
+msgid "Exclude products"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:267
+msgid "Exclude sale items"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:71
+msgid "Facebook"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:147
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/cart-logs-report-table.php:106
+msgid "From"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:47
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:56
+msgid "From number"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:157
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:67
+msgid "General"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:382
+msgid "Generate"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:252
+msgid "Generate coupon"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/update.php:44
+msgid "Get Key"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:96
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:198
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/cart-logs-report-table.php:162
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:92
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:188
+msgid "Guest"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/execute/abandoned-cart.php:328
+msgid "Have a recovered order from abandoned cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:155
+msgid "Heading"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:138
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:139
+msgid "Hey !! You left something in your cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:42
+msgid "Home page"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:508
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:106
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:264
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:140
+msgid "hours"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woo-abandoned-cart-recovery/"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:110
+msgid "ID"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:159
+msgid "Id"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:132
+msgid "If enable, a sample message will send to customer immediately"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:52
+msgid "If enable, add to cart or remove cart action will be record."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:94
+msgid "If enable, command from Cron server will be accepted"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:41
+msgid "If enable, the plugin will track abandoned cart of guests"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:39
+msgid "If enable, the plugin will track abandoned cart of logged users"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:266
+msgid "Individual use only"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:64
+msgid "Input background color"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:63
+msgid "Input border color"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:57
+msgid "Invalid email notice"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:276
+msgid "item"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:276
+msgid "items"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:77
+msgid "Language"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:273
+msgid "Limit usage to X items"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:109
+msgid "Log out Facebook"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:91
+msgid "Login Facebook"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:265
+msgid "Maximum spend"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:92
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:88
+msgid "Member"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:488
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:244
+msgid "Message"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:264
+msgid "Minimum spend"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:507
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:105
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:263
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:139
+msgid "minutes"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:116
+msgid "More Info"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:145
+msgid "No page was selected when connect Facebook"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:34
+msgid "No redirect"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:72
+msgid "Not Found"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:73
+msgid "Not found in Trash"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:65
+msgid "Notice color"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:43
+msgid "Notification to Admin"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:161
+msgid "Number of Used"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:58
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:124
+msgid "Order status"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:64
+msgid "Parent Email"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery.php:53
+msgid ""
+"Please install and activate WooCommerce to use WooCommerce Abandoned Cart "
+"Recovery."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/facebook/fb-plugin.php:235
+msgid "Please view our information at "
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:40
+msgid "Pop-up config"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:61
+msgctxt "Post Type General Name"
+msgid "Email Templates"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:62
+msgctxt "Post Type Singular Name"
+msgid "Email Templates"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:66
+msgid "Powerpack UUID"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:544
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/send-email-cron.php:161
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/send-email-cron.php:348
+msgid "Price:"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/cart-logs-report-product.php:108
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:116
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:161
+msgid "Product"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:270
+msgid "Product categories"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/product-report-table.php:96
+msgid "Product Name"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:268
+msgid "Products"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:543
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/send-email-cron.php:163
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/send-email-cron.php:350
+msgid "Quantity:"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:143
+msgid "Reconnect Facebook"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:473
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:216
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/product-report-table.php:99
+msgid "Recovered"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:113
+msgid "Recovered Cart Detail"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:79
+msgid "Recovered Carts"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:115
+msgid "Recovered Date"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:48
+msgid "Redirect after Add to cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:146
+msgid "Reminder logs"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/cart-logs-report-product.php:110
+msgid "Remove item"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/cart-logs-report-table.php:184
+msgid "Removed"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:41
+msgid "Reply Emails to"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:70
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:71
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:154
+msgid "Reports"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:479
+msgid "Rules"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:97
+msgid "Save & Check Key"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:91
+msgid "Save settings"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:71
+msgid "Search Email Templates"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:256
+msgid "Select coupon"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:42
+msgid "Select the time to mark a cart as abandoned with guests"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:40
+msgid "Select the time to mark a cart as abandoned with logged in users"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:165
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/execute/abandoned-order-reminder.php:246
+msgid "Send"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:43
+msgid "Send a notification email to admin whenever a cart is recovered"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:348
+msgid "Send abandoned cart email"
+msgstr "Invia abandoned cart email"
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/execute/abandoned-order-reminder.php:214
+msgid "Send abandoned order"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/execute/abandoned-order-reminder.php:225
+msgid "Send abandoned order email"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:486
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:84
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:242
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:118
+msgid "Send after"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:40
+msgid "Send mail reminder to guest"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:39
+msgid "Send mail reminder to members"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:77
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:111
+msgid "Send mail rules"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:127
+msgid "Send to messenger require"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:235
+msgid "Send to messenger rules"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:47
+msgid "Set a time for the get email pop-up to reappear"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery.php:43
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:44
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:45
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:59
+msgid "Settings"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:44
+msgid "Shop page"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:43
+msgid "Single product pages"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:72
+msgid "SMS"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:105
+msgid "SMS for Abandoned Cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:114
+msgid "SMS for Abandoned Order"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/sms-settings.php:39
+msgid "SMS provider"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:145
+msgid "Status"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:55
+msgid "Sub title"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:60
+msgid "Sub title color"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:144
+msgid "Subject"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:235
+msgid "Tax: "
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:201
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:53
+msgid "Template"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:202
+msgid "Template 1"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:160
+msgid "Test email"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:132
+msgid "Test mode"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:54
+msgid "Title"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-popup-settings.php:59
+msgid "Title color"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/templates/html-date-picker.php:18
+msgid "Today"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/cart-logs-report-product.php:111
+msgid "Total"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:234
+msgid "Total: "
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:41
+msgid "Tracking Guest's Cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:39
+msgid "Tracking Member's Cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:163
+msgid "Type"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:487
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/email-settings.php:85
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:243
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:119
+msgid "Unit"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:218
+msgid "Unsubscribed"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:76
+msgid "Update"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:70
+msgid "Update Email Templates"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:272
+msgid "Usage limit per coupon"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:274
+msgid "Usage limit per user"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:250
+msgid "Use coupon"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:148
+msgid "Use WC's header & footer default"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:78
+msgid "Valid OAuth redirected URls:"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:80
+msgid "Verify Token"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/templates/html-date-picker.php:41
+msgid "View"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/get-email.php:100
+msgid "View cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/email/email-templates.php:66
+msgid "View Template"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/recovered-report-table.php:191
+msgid "Visitor"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:49
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/reports/reports.php:50
+msgid "WC Abandoned Cart"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/admin-settings.php:381
+msgid "WC Coupon"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/facebook/fb-plugin.php:228
+msgid "Welcome to our store. Can I help you?"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Abandoned Cart Recovery Premium"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/templates/html-date-picker.php:19
+msgid "Yesterday"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/sms/send-sms-cron.php:384
+msgid "You don't have enough balance to send the SMS."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/facebook/fb-plugin.php:256
+msgid "You have just added to cart a product"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:122
+msgid "You haven't had any page. Create page before complete settings"
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:68
+msgid ""
+"Your WP Cron is disabled. If you want to use WP Cron, open file wp-config."
+"php and delete row define( \"DISABLE_WP_CRON\", true );."
+msgstr ""
+
+#: D:/Git/woocommerce-abandoned-cart-recovery/woocommerce-abandoned-cart-recovery/includes/settings/general-settings.php:80
+msgid ""
+"Your WP Cron is enabled. If you want to use Cronjob server, open file wp-"
+"config.php and add row define( \"DISABLE_WP_CRON\", true );. Access your "
+"server and config with command:"
+msgstr ""
